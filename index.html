@@ -22,48 +22,246 @@
       line-height: 1.6;
     }
 
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 3rem 1.5rem;
+    /* Layout */
+    .app {
+      display: flex;
+      min-height: 100vh;
     }
 
-    header {
-      text-align: center;
-      margin-bottom: 3rem;
-      padding-bottom: 2rem;
+    /* Sidebar */
+    .sidebar {
+      width: 280px;
+      background: #111112;
+      border-right: 1px solid #1f1f1f;
+      padding: 1.5rem;
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      overflow-y: auto;
+      z-index: 100;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar.open {
+      transform: translateX(0);
+    }
+
+    .sidebar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
       border-bottom: 1px solid #1f1f1f;
     }
 
-    h1 {
-      font-size: 2.5rem;
+    .sidebar-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #fff;
+    }
+
+    .close-btn {
+      background: none;
+      border: none;
+      color: #666;
+      cursor: pointer;
+      padding: 0.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .close-btn:hover {
+      color: #fff;
+    }
+
+    .filter-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .filter-label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #666;
+      margin-bottom: 0.75rem;
+      display: block;
+    }
+
+    /* Search */
+    .search-box {
+      width: 100%;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      padding: 0.65rem 0.875rem;
+      color: #e5e5e5;
+      font-size: 0.875rem;
+      font-family: inherit;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-box:focus {
+      border-color: #0066ff;
+    }
+
+    .search-box::placeholder {
+      color: #555;
+    }
+
+    /* Checkboxes */
+    .checkbox-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .checkbox-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      cursor: pointer;
+      font-size: 0.875rem;
+      color: #aaa;
+    }
+
+    .checkbox-item:hover {
+      color: #fff;
+    }
+
+    .checkbox-item input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      accent-color: #0066ff;
+      cursor: pointer;
+    }
+
+    /* Price Range */
+    .price-inputs {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+    }
+
+    .price-input {
+      flex: 1;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 6px;
+      padding: 0.5rem 0.625rem;
+      color: #e5e5e5;
+      font-size: 0.8rem;
+      font-family: inherit;
+      width: 100%;
+      outline: none;
+    }
+
+    .price-input:focus {
+      border-color: #0066ff;
+    }
+
+    .price-separator {
+      color: #555;
+      font-size: 0.8rem;
+    }
+
+    /* Main Content */
+    .main {
+      flex: 1;
+      padding: 2rem;
+      margin-left: 0;
+      transition: margin-left 0.3s ease;
+    }
+
+    .main.shifted {
+      margin-left: 280px;
+    }
+
+    /* Top Bar */
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 2rem;
+      gap: 1rem;
+    }
+
+    .menu-btn {
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 8px;
+      padding: 0.5rem 0.75rem;
+      color: #e5e5e5;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.875rem;
+      font-family: inherit;
+      transition: all 0.2s;
+    }
+
+    .menu-btn:hover {
+      border-color: #444;
+      background: #222;
+    }
+
+    .header-text {
+      text-align: center;
+      flex: 1;
+    }
+
+    .header-text h1 {
+      font-size: 1.75rem;
       font-weight: 700;
-      margin-bottom: 0.5rem;
+      margin-bottom: 0.25rem;
       background: linear-gradient(135deg, #e5e5e5 0%, #888 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;
     }
 
-    .subtitle {
+    .header-text .subtitle {
       color: #666;
-      font-size: 1rem;
+      font-size: 0.875rem;
     }
 
     .count {
       display: inline-block;
-      margin-top: 1rem;
       padding: 0.35rem 0.85rem;
       background: #1a1a1a;
       border: 1px solid #2a2a2a;
       border-radius: 100px;
-      font-size: 0.875rem;
+      font-size: 0.8rem;
       color: #888;
+      white-space: nowrap;
     }
 
+    /* Overlay */
+    .overlay {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.6);
+      z-index: 99;
+    }
+
+    .overlay.visible {
+      display: block;
+    }
+
+    /* Watches Grid */
     .watches-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 1.5rem;
     }
 
@@ -71,7 +269,7 @@
       background: #111112;
       border: 1px solid #1f1f1f;
       border-radius: 12px;
-      padding: 1.5rem;
+      overflow: hidden;
       transition: all 0.2s ease;
       text-decoration: none;
       color: inherit;
@@ -84,16 +282,54 @@
       box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
     }
 
+    .watch-image {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+      background: #1a1a1a;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .watch-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .watch-image-placeholder {
+      color: #333;
+      font-size: 3rem;
+    }
+
+    .watch-content {
+      padding: 1.25rem;
+    }
+
     .watch-card h2 {
-      font-size: 1.125rem;
+      font-size: 1rem;
       font-weight: 600;
       margin-bottom: 0.5rem;
       color: #fff;
+      line-height: 1.3;
+    }
+
+    .watch-price {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: #0066ff;
+      margin-bottom: 0.5rem;
+    }
+
+    .watch-price.on-request {
+      color: #888;
+      font-size: 0.9rem;
     }
 
     .watch-card .description {
-      color: #888;
-      font-size: 0.9rem;
+      color: #777;
+      font-size: 0.85rem;
       margin-bottom: 1rem;
       line-height: 1.5;
     }
@@ -103,7 +339,7 @@
       align-items: center;
       gap: 0.35rem;
       color: #0066ff;
-      font-size: 0.85rem;
+      font-size: 0.8rem;
       font-weight: 500;
     }
 
@@ -113,14 +349,27 @@
 
     .watch-card .added-date {
       color: #444;
-      font-size: 0.75rem;
-      margin-top: 1rem;
+      font-size: 0.7rem;
+      margin-top: 0.75rem;
     }
 
+    .watch-series {
+      display: inline-block;
+      font-size: 0.7rem;
+      padding: 0.2rem 0.5rem;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 4px;
+      color: #666;
+      margin-bottom: 0.5rem;
+    }
+
+    /* Empty State */
     .empty-state {
       text-align: center;
       padding: 4rem 2rem;
       color: #555;
+      grid-column: 1 / -1;
     }
 
     .empty-state svg {
@@ -130,13 +379,14 @@
       opacity: 0.3;
     }
 
+    /* Footer */
     footer {
       text-align: center;
-      margin-top: 4rem;
-      padding-top: 2rem;
+      margin-top: 3rem;
+      padding-top: 1.5rem;
       border-top: 1px solid #1f1f1f;
       color: #555;
-      font-size: 0.85rem;
+      font-size: 0.8rem;
     }
 
     footer a {
@@ -148,67 +398,276 @@
       color: #888;
     }
 
-    @media (max-width: 640px) {
-      h1 {
-        font-size: 1.75rem;
+    /* Active filters */
+    .active-filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-bottom: 1rem;
+    }
+
+    .filter-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.25rem 0.625rem;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 100px;
+      font-size: 0.75rem;
+      color: #888;
+    }
+
+    .filter-tag button {
+      background: none;
+      border: none;
+      color: #666;
+      cursor: pointer;
+      padding: 0;
+      display: flex;
+      align-items: center;
+    }
+
+    .filter-tag button:hover {
+      color: #fff;
+    }
+
+    .clear-all {
+      background: none;
+      border: none;
+      color: #0066ff;
+      cursor: pointer;
+      font-size: 0.75rem;
+      font-family: inherit;
+      padding: 0.25rem;
+    }
+
+    .clear-all:hover {
+      text-decoration: underline;
+    }
+
+    /* Mobile */
+    @media (max-width: 768px) {
+      .main {
+        padding: 1.5rem;
       }
-      
-      .container {
-        padding: 2rem 1rem;
+
+      .main.shifted {
+        margin-left: 0;
+      }
+
+      .header-text h1 {
+        font-size: 1.25rem;
       }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <header>
-      <h1>🕐 Watch Collection</h1>
-      <p class="subtitle">A curated collection of watches curated by Batman</p>
-      <span class="count" id="watch-count">0 watches</span>
-    </header>
+  <div class="overlay" id="overlay"></div>
 
-    <main>
+  <div class="app">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <span class="sidebar-title">Filters</span>
+        <button class="close-btn" onclick="toggleSidebar()">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"/>
+            <line x1="6" y1="6" x2="18" y2="18"/>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Search -->
+      <div class="filter-section">
+        <label class="filter-label">Search</label>
+        <input type="text" class="search-box" id="searchInput" placeholder="Search watches...">
+      </div>
+
+      <!-- Brand Filter -->
+      <div class="filter-section">
+        <label class="filter-label">Brand</label>
+        <div class="checkbox-group" id="brandFilters">
+          <label class="checkbox-item">
+            <input type="checkbox" value="CASIO EDIFICE" checked>
+            Casio Edifice
+          </label>
+        </div>
+      </div>
+
+      <!-- Price Filter -->
+      <div class="filter-section">
+        <label class="filter-label">Price Range (₹)</label>
+        <div class="price-inputs">
+          <input type="number" class="price-input" id="minPrice" placeholder="Min" min="0">
+          <span class="price-separator">–</span>
+          <input type="number" class="price-input" id="maxPrice" placeholder="Max" min="0">
+        </div>
+      </div>
+
+      <!-- Series Filter -->
+      <div class="filter-section">
+        <label class="filter-label">Series</label>
+        <div class="checkbox-group" id="seriesFilters">
+          <label class="checkbox-item">
+            <input type="checkbox" value="NIGHTTIME DRIVE" checked>
+            Nighttime Drive
+          </label>
+          <label class="checkbox-item">
+            <input type="checkbox" value="STANDARD CHRONOGRAPH" checked>
+            Standard Chronograph
+          </label>
+          <label class="checkbox-item">
+            <input type="checkbox" value="EDIFICE" checked>
+            Edifice
+          </label>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main" id="main">
+      <div class="topbar">
+        <button class="menu-btn" onclick="toggleSidebar()">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="3" y1="12" x2="21" y2="12"/>
+            <line x1="3" y1="6" x2="21" y2="6"/>
+            <line x1="3" y1="18" x2="21" y2="18"/>
+          </svg>
+          Filters
+        </button>
+        <div class="header-text">
+          <h1>🕐 Watch Collection</h1>
+          <p class="subtitle">Curated by Batman</p>
+        </div>
+        <span class="count" id="watch-count">0 watches</span>
+      </div>
+
+      <div class="active-filters" id="activeFilters"></div>
+
       <div class="watches-grid" id="watches-grid">
         <div class="empty-state" id="empty-state">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
           </svg>
-          <p>No watches added yet</p>
-          <p style="font-size: 0.85rem; margin-top: 0.5rem;">Share a link in the #watches channel to get started</p>
+          <p>No watches found</p>
+          <p style="font-size: 0.85rem; margin-top: 0.5rem;">Try adjusting your filters</p>
         </div>
       </div>
-    </main>
 
-    <footer>
-      <p>Auto-updated from <a href="https://discord.com/channels/1476543517613359225/1546194995080331394" target="_blank" rel="noopener">#watches channel</a></p>
-    </footer>
+      <footer>
+        <p>Auto-updated from <a href="https://discord.com/channels/1476543517613359225/1546194995080331394" target="_blank" rel="noopener">#watches channel</a></p>
+      </footer>
+    </main>
   </div>
 
   <script>
+    let watches = [];
+    let filteredWatches = [];
+
+    // Toggle Sidebar
+    function toggleSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      const main = document.getElementById('main');
+      const overlay = document.getElementById('overlay');
+      sidebar.classList.toggle('open');
+      main.classList.toggle('shifted');
+      overlay.classList.toggle('visible');
+    }
+
+    // Close sidebar on overlay click
+    document.getElementById('overlay').addEventListener('click', toggleSidebar);
+
+    // Load watches
     async function loadWatches() {
       try {
         const response = await fetch('./data/watches.json');
         const data = await response.json();
-        renderWatches(data.watches);
+        watches = data.watches;
+        initFilters();
+        applyFilters();
       } catch (error) {
         console.error('Failed to load watches:', error);
       }
     }
 
-    function renderWatches(watches) {
+    // Initialize filters from data
+    function initFilters() {
+      // Extract unique brands
+      const brands = [...new Set(watches.map(w => w.brand))];
+      const brandContainer = document.getElementById('brandFilters');
+      brandContainer.innerHTML = brands.map(brand => `
+        <label class="checkbox-item">
+          <input type="checkbox" value="${brand}" checked>
+          ${brand}
+        </label>
+      `).join('');
+
+      // Extract unique series
+      const series = [...new Set(watches.map(w => w.series).filter(Boolean))];
+      const seriesContainer = document.getElementById('seriesFilters');
+      seriesContainer.innerHTML = series.map(s => `
+        <label class="checkbox-item">
+          <input type="checkbox" value="${s}" checked>
+          ${s.replace(/-/g, ' ')}
+        </label>
+      `).join('');
+
+      // Add event listeners
+      document.querySelectorAll('#brandFilters input, #seriesFilters input').forEach(cb => {
+        cb.addEventListener('change', applyFilters);
+      });
+
+      document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 200));
+      document.getElementById('minPrice').addEventListener('input', debounce(applyFilters, 300));
+      document.getElementById('maxPrice').addEventListener('input', debounce(applyFilters, 300));
+    }
+
+    // Apply filters
+    function applyFilters() {
+      const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+      const minPrice = parseInt(document.getElementById('minPrice').value) || 0;
+      const maxPrice = parseInt(document.getElementById('maxPrice').value) || Infinity;
+      const selectedBrands = [...document.querySelectorAll('#brandFilters input:checked')].map(cb => cb.value);
+      const selectedSeries = [...document.querySelectorAll('#seriesFilters input:checked')].map(cb => cb.value);
+
+      filteredWatches = watches.filter(watch => {
+        const matchesSearch = !searchTerm || 
+          watch.name.toLowerCase().includes(searchTerm) ||
+          (watch.description && watch.description.toLowerCase().includes(searchTerm)) ||
+          (watch.series && watch.series.toLowerCase().includes(searchTerm));
+
+        const matchesBrand = selectedBrands.includes(watch.brand);
+        const matchesSeries = selectedSeries.includes(watch.series);
+        const matchesPrice = watch.price !== null && watch.price >= minPrice && watch.price <= maxPrice;
+
+        return matchesSearch && matchesBrand && matchesSeries && matchesPrice;
+      });
+
+      renderWatches(filteredWatches);
+      updateActiveFilters();
+    }
+
+    // Render watches
+    function renderWatches(watchesToRender) {
       const grid = document.getElementById('watches-grid');
       const emptyState = document.getElementById('empty-state');
       const countEl = document.getElementById('watch-count');
 
-      if (!watches || watches.length === 0) {
+      // Clear grid except empty state
+      grid.innerHTML = '';
+      grid.appendChild(emptyState);
+
+      if (!watchesToRender || watchesToRender.length === 0) {
         countEl.textContent = '0 watches';
+        emptyState.style.display = 'block';
         return;
       }
 
-      countEl.textContent = `${watches.length} watch${watches.length === 1 ? '' : 'es'}`;
+      countEl.textContent = `${watchesToRender.length} watch${watchesToRender.length === 1 ? '' : 'es'}`;
       emptyState.style.display = 'none';
 
-      watches.forEach(watch => {
+      watchesToRender.forEach(watch => {
         const card = document.createElement('a');
         card.href = watch.link;
         card.target = '_blank';
@@ -221,28 +680,93 @@
           year: 'numeric'
         });
 
+        const priceHTML = watch.price 
+          ? `<div class="watch-price">₹${watch.price.toLocaleString('en-IN')}</div>`
+          : `<div class="watch-price on-request">Price on request</div>`;
+
+        const imageHTML = watch.image 
+          ? `<img src="${watch.image}" alt="${escapeHtml(watch.name)}" onerror="this.parentElement.innerHTML='<div class=\\'watch-image-placeholder\\'>⌚</div>'">`
+          : `<div class="watch-image-placeholder">⌚</div>`;
+
         card.innerHTML = `
-          <h2>${escapeHtml(watch.name)}</h2>
-          <p class="description">${escapeHtml(watch.description || '')}</p>
-          <span class="link">
-            View Watch
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-              <polyline points="15 3 21 3 21 9"/>
-              <line x1="10" y1="14" x2="21" y2="3"/>
-            </svg>
-          </span>
-          <p class="added-date">Added ${date}</p>
+          <div class="watch-image">${imageHTML}</div>
+          <div class="watch-content">
+            ${watch.series ? `<span class="watch-series">${watch.series.replace(/-/g, ' ')}</span>` : ''}
+            <h2>${escapeHtml(watch.name)}</h2>
+            ${priceHTML}
+            <p class="description">${escapeHtml(watch.description || '')}</p>
+            <span class="link">
+              View Watch
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+              </svg>
+            </span>
+            <p class="added-date">Added ${date}</p>
+          </div>
         `;
 
         grid.appendChild(card);
       });
     }
 
+    // Update active filters display
+    function updateActiveFilters() {
+      const container = document.getElementById('activeFilters');
+      const filters = [];
+
+      const searchTerm = document.getElementById('searchInput').value;
+      const minPrice = document.getElementById('minPrice').value;
+      const maxPrice = document.getElementById('maxPrice').value;
+      const selectedBrands = [...document.querySelectorAll('#brandFilters input:not(:checked)')].map(cb => cb.value);
+      const selectedSeries = [...document.querySelectorAll('#seriesFilters input:not(:checked)')].map(cb => cb.value);
+
+      if (searchTerm) {
+        filters.push({ label: `Search: "${searchTerm}"`, clear: () => { document.getElementById('searchInput').value = ''; applyFilters(); }});
+      }
+      if (minPrice) {
+        filters.push({ label: `Min: ₹${parseInt(minPrice).toLocaleString('en-IN')}`, clear: () => { document.getElementById('minPrice').value = ''; applyFilters(); }});
+      }
+      if (maxPrice) {
+        filters.push({ label: `Max: ₹${parseInt(maxPrice).toLocaleString('en-IN')}`, clear: () => { document.getElementById('maxPrice').value = ''; applyFilters(); }});
+      }
+
+      container.innerHTML = filters.map((f, i) => `
+        <span class="filter-tag">
+          ${f.label}
+          <button onclick="filterTags[${i}].clear()">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="18" y1="6" x2="6" y2="18"/>
+              <line x1="6" y1="6" x2="18" y2="18"/>
+            </svg>
+          </button>
+        </span>
+      `).join('') + (filters.length > 0 ? '<button class="clear-all" onclick="clearAllFilters()">Clear all</button>' : '');
+
+      window.filterTags = filters;
+    }
+
+    function clearAllFilters() {
+      document.getElementById('searchInput').value = '';
+      document.getElementById('minPrice').value = '';
+      document.getElementById('maxPrice').value = '';
+      document.querySelectorAll('#brandFilters input, #seriesFilters input').forEach(cb => cb.checked = true);
+      applyFilters();
+    }
+
     function escapeHtml(text) {
       const div = document.createElement('div');
       div.textContent = text;
       return div.innerHTML;
+    }
+
+    function debounce(fn, delay) {
+      let timeout;
+      return (...args) => {
+        clearTimeout(timeout);
+        timeout = setTimeout(() => fn(...args), delay);
+      };
     }
 
     loadWatches();
