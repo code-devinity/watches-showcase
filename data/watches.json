@@ -384,7 +384,29 @@
       "description": "Slim Quartz | 41mm Black dial | SS bracelet | Quartz movement | Elegant & sophisticated | Modern man's accessory",
       "series": "SLIM QUARTZ",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "seiko-coutura-ssc788p9",
+      "name": "SEIKO COUTURA SSC788P9",
+      "brand": "SEIKO",
+      "price": null,
+      "image": null,
+      "link": "https://www.ethoswatches.com/product-seiko-coutura-ssc788p9.html",
+      "description": "Seiko Coutura. Pending full specs (Ethos blocked).",
+      "series": "COUTURA",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "britime-962-l40406",
+      "name": "BRITIME AUTOMATIC GREY DIAL",
+      "brand": "BRITIME",
+      "price": 37995,
+      "image": "https://cdn.shopify.com/s/files/1/0692/8321/7683/files/962-L40406_1.jpg?v=1784629261",
+      "link": "https://justintime.in/products/britime-men-automatic-grey-dial-multi-function-leather-watch-962-l40406",
+      "description": "Automatic | Grey dial | Multi-function | 43.33mm | Black leather strap | 5 ATM water resistance | Secure pin buckle",
+      "series": "BRITIME",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T19:00:00.000Z"
+  "lastUpdated": "2026-09-06T19:05:00.000Z"
 }
