@@ -605,7 +605,19 @@
       "description": "Carbon fibre built case | Each piece unique pattern | Miyota 9015 / Sellita SW200-1 movement | Vulcanized FKM strap | 20 ATM water resistance | 5-year international warranty | Limited (~69 pieces left) | 2 series variants",
       "series": "PROJECT KARBON",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "dwc-terra",
+      "name": "DWC TERRA",
+      "brand": "DWC",
+      "price": 4499,
+      "image": null,
+      "link": "https://delhiwatchcompany.com/products/dwc-terra",
+      "description": "5th Anniversary watch | Carabiner-inspired design | 316L SS | Multiple finishes: Sandblasted SS (₹4,499), Black DLC SS (₹4,999), Vertically Brushed SS | Pre-orders closed — dispatch Oct 2026 onwards",
+      "series": "TERRA",
+      "addedAt": "2026-09-06",
+      "notes": "PRE-ORDERS CLOSED"
     }
   ],
-  "lastUpdated": "2026-09-06T19:35:00.000Z"
+  "lastUpdated": "2026-09-06T19:40:00.000Z"
 }
