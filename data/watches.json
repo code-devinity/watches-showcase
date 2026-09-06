@@ -43,7 +43,40 @@
       "description": "NIGHTTIME DRIVE SERIES | Analog-Digital chronograph with Bluetooth & Tough Solar. Check Amazon/Casio site for price.",
       "series": "NIGHTTIME DRIVE",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "ecb-2300d-1a",
+      "name": "CASIO EDIFICE ECB-2300D-1A",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EC/ECB/ecb-2300d-1a/assets/ECB-2300D-1A.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.ECB-2300D-1A/",
+      "description": "Stainless steel men's watch with sporty, industrial design.",
+      "series": "EDIFICE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efr-539de-2av",
+      "name": "CASIO EDIFICE EFR-539DE-2AV",
+      "brand": "CASIO EDIFICE",
+      "price": 10995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFR/efr-539de-2av/assets/EFR-539DE-2AVU.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFR-539DE-2AV/",
+      "description": "Standard Chronograph | Analog, Blue dial, Stainless steel band, Aluminum case, 1/10-second stopwatch, 3D dial design, Blue ion plated bezel, 100M water resistance",
+      "series": "STANDARD CHRONOGRAPH",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "eqs-940dc-1bv",
+      "name": "CASIO EDIFICE EQS-940DC-1BV",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQS/eqs-940dc-1bv/assets/EQS-940DC-1BVU.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EQS-940DC-1BV/",
+      "description": "Solar-powered watch in all-black ion-plated stainless steel.",
+      "series": "EDIFICE",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T17:25:00.000Z"
+  "lastUpdated": "2026-09-06T17:35:00.000Z"
 }
