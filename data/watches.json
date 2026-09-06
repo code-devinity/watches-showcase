@@ -307,7 +307,51 @@
       "description": "Equinox | SS case 45mm | Automatic Mechanical Movement 2806 | Skeleton dial | Steel & Rose Gold detailing | Black Fluoro Rubber strap | ~42hr power reserve | Hardened Mineral Crystal | 3ATM | 1 year warranty",
       "series": "EQUINOX",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "seiko-presage-sakura-ssa421j1",
+      "name": "SEIKO PRESAGE ZEN GARDEN SAKURA BY NIGHT",
+      "brand": "SEIKO",
+      "price": 67000,
+      "image": "https://cdn.shopify.com/s/files/1/0322/8424/6155/files/SSA421J1_0874db61-78b4-4f8b-b572-2c0dbeeb0911.png?v=1685770080",
+      "link": "https://seikowatches.co.in/products/presage-zen-garden-sakura-by-night-ssa421j1",
+      "description": "Zen Garden Collection | Mechanical Automatic | Blue cream dial 41.8mm | SS case | Calibre 4R39 | ~41hr power reserve | Dual-curved sapphire crystal | Blue leather strap | Date display | 23 jewels | Japanese aesthetic",
+      "series": "PRESAGE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "titan-stellar-1890ql01",
+      "name": "TITAN STELLAR EARTH DISC",
+      "brand": "TITAN",
+      "price": null,
+      "image": null,
+      "link": "https://www.titan.co.in/product/titan-stellar-analog-with-earth-disc-and-blue-dial-blue-leather-strap-watch-for-men-1890ql01.html",
+      "description": "Titan Stellar with Earth disc and blue dial, blue leather strap. Pending full specs.",
+      "series": "STELLAR",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "titan-micromotors-90181nm01",
+      "name": "TITAN MICROMOTORS SUN MOON",
+      "brand": "TITAN",
+      "price": null,
+      "image": null,
+      "link": "https://www.titan.co.in/product/titan-micromotors-analog-with-date-and-sun-moon-sub-dial-and-blue-dial-black-stainless-steel-strap-watch-for-men-90181nm01.html",
+      "description": "Titan Micromotors with sun-moon sub dial, blue dial, black SS strap. Pending full specs.",
+      "series": "MICROMOTORS",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "titan-stellar-10028km01",
+      "name": "TITAN STELLAR QUARTZ SUN MOON",
+      "brand": "TITAN",
+      "price": null,
+      "image": null,
+      "link": "https://www.titan.co.in/product/titan-stellar-quartz-analog-sun-moon-phase-watch-for-men-with-black-colour-stainless-steel-strap-10028km01.html",
+      "description": "Titan Stellar Quartz with sun-moon phase, black SS strap. Pending full specs.",
+      "series": "STELLAR",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T18:40:00.000Z"
+  "lastUpdated": "2026-09-06T18:50:00.000Z"
 }
