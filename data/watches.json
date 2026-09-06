@@ -561,7 +561,40 @@
       "description": "FORGE Line | 40mm sandblasted 316L SS | Sapphire crystal | 3-layer charcoal textured dial (stamping, etching, laser, lacquering) | NH35 Automatic movement | Super-LumiNova C3 | Grey top-grain leather strap | 5 bar | Date | Connoisseur edition | 2yr warranty",
       "series": "FORGE",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "dwc-everest-iii-8215",
+      "name": "DWC EVEREST III (8215)",
+      "brand": "DWC",
+      "price": 9999,
+      "image": null,
+      "link": "https://delhiwatchcompany.com/products/dwc-everest-summit-series?variant=43196096774293",
+      "description": "All-terrain automatic | Miyota 8215 | 316L SS case | 10 ATM WR | Sapphire crystal | 2-layer floating dial | BGW9 lume indices | Diamond pattern + sunburst effect | Screw-down crown | 4 variants: Black, Salmon, Ice Blue, Sunrise Gradient",
+      "series": "EVEREST III",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "dwc-everest-iii-9015",
+      "name": "DWC EVEREST III (9015)",
+      "brand": "DWC",
+      "price": 16999,
+      "image": null,
+      "link": "https://delhiwatchcompany.com/products/dwc-everest-iii-9015?variant=47616682688661",
+      "description": "All-terrain automatic | Miyota 9015 (premium movement) | 316L SS case | 10 ATM WR | Sapphire crystal | 2-layer floating dial | BGW9 lume indices | Diamond pattern + sunburst effect | Screw-down crown | 3 variants: Ice Blue, Black, Sunrise Gradient",
+      "series": "EVEREST III",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "dwc-havelock-diveindia",
+      "name": "DWC HAVELOCK x DIVEINDIA",
+      "brand": "DWC",
+      "price": 12999,
+      "image": null,
+      "link": "https://delhiwatchcompany.com/products/dwc-havelock-x-diveindia?variant=46283866210453",
+      "description": "Diver's watch | Collaboration with Dive India | 316L SS | 500M water resistance (50 ATM) | Helium escape valve | Dive-tested by Dive India | Blue or Black dial | Bracelet or Black strap | Multiple variants",
+      "series": "HAVELOCK",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T19:25:00.000Z"
+  "lastUpdated": "2026-09-06T19:30:00.000Z"
 }
