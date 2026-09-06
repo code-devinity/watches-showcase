@@ -230,7 +230,51 @@
       "description": "Waterbury Heritage | 39mm Stainless Steel Bracelet | Blue dial | Analog | Quartz | Water resistant",
       "series": "WATERBURY",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "timex-signio-black-47mm",
+      "name": "TIMEX SIGNIO BLACK DIAL",
+      "brand": "TIMEX",
+      "price": 7797,
+      "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/TWEG27802.jpg?v=1756871068",
+      "link": "https://shop.timexindia.com/collections/signio/products/timex-black-round-dial-analog-men-s-watch-tweg27802",
+      "description": "Signio | 47.07mm Black dial | Black Leather strap | Quartz | 50m water resistance | SS case",
+      "series": "SIGNIO",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "timex-signio-brown-42mm",
+      "name": "TIMEX SIGNIO BROWN DIAL",
+      "brand": "TIMEX",
+      "price": 10995,
+      "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/TWEG34502_1.jpg?v=1777353592",
+      "link": "https://shop.timexindia.com/collections/signio/products/timex-signio-round-42mm-brown-dial-analog-men-watch-tweg34502",
+      "description": "Signio | 42mm Brown dial | Analog | Quartz | Stylish classic design",
+      "series": "SIGNIO",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "timex-signio-grey-42mm",
+      "name": "TIMEX SIGNIO GREY DIAL",
+      "brand": "TIMEX",
+      "price": 9097,
+      "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/TWEG28003_1.jpg?v=1756870945",
+      "link": "https://shop.timexindia.com/collections/signio/products/timex-round-grey-dial-analog-men-s-watch-tweg28003",
+      "description": "Signio | 42mm Grey dial | Two Tone Stainless Steel | Quartz | 50m water resistance",
+      "series": "SIGNIO",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "timex-signio-gunmetal-44mm",
+      "name": "TIMEX SIGNIO GUNMETAL AUTOMATIC",
+      "brand": "TIMEX",
+      "price": 18995,
+      "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/TWEG34001_1.jpg?v=1777352213",
+      "link": "https://shop.timexindia.com/collections/signio/products/timex-signio-round-44mm-gunmetal-dial-automatic-men-watch-tweg34001",
+      "description": "Signio | 44mm Gunmetal dial | Automatic movement | Men | Bold classic design",
+      "series": "SIGNIO",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T18:15:00.000Z"
+  "lastUpdated": "2026-09-06T18:20:00.000Z"
 }
