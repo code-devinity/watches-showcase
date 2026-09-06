@@ -1,4 +1,76 @@
 {
-  "watches": [],
-  "lastUpdated": "2026-09-06T00:00:00.000Z"
+  "watches": [
+    {
+      "model": "ECB-2000NP-1ADF",
+      "name": "CASIO EDIFICE ECB-2000NP-1ADF",
+      "series": "NIGHTTIME DRIVE SERIES",
+      "price": 23995,
+      "currency": "INR",
+      "specs": {
+        "display": "Analog-Digital",
+        "dial": "Black",
+        "strap": "Blue",
+        "case": "Carbon / Stainless steel",
+        "glass": "Mineral",
+        "waterResistance": "100M",
+        "caseSize": "51mm",
+        "features": ["Bluetooth", "Smart Access", "World Time", "Tough Solar", "Stopwatch", "Hand Shift Feature", "Phone Finder", "Super Illuminator", "LED Light", "Neobrite Hands", "Countdown Timer", "Auto Calendar", "Alarm(s)", "Hourly Time Signal"],
+        "origin": "THAILAND"
+      },
+      "url": "https://casiostore.bhawar.com/products/casio-edifice-ecb-2000np-1adf-black-analog-digital-mens-watch",
+      "added": "2026-09-06"
+    },
+    {
+      "model": "EFR-574DC-2AV",
+      "name": "CASIO EDIFICE EFR-574DC-2AV",
+      "series": "Standard Chronograph",
+      "price": 14995,
+      "currency": "INR",
+      "specs": {
+        "display": "Analog",
+        "dial": "Blue",
+        "strap": "Black (Stainless Steel)",
+        "case": "Stainless steel",
+        "glass": "Mineral",
+        "waterResistance": "100M",
+        "caseSize": "47.5×42.3×11.4 mm",
+        "features": ["Stopwatch", "Tachymeter", "Date", "Screw Lock Back"],
+        "battery": "SR927W",
+        "origin": "CHINA"
+      },
+      "url": "https://www.casio.com/in/watches/edifice/product.EFR-574DC-2AV/",
+      "added": "2026-09-06"
+    },
+    {
+      "model": "EQS-940NL-1AVDF",
+      "name": "CASIO EDIFICE EQS-940NL-1AVDF",
+      "series": "Edifice",
+      "price": null,
+      "currency": "INR",
+      "specs": {
+        "display": "Analog (likely)",
+        "features": ["Likely solar-powered chronograph", "Stainless steel band"]
+      },
+      "url": "https://www.casio.com/in/watches/edifice/product.EQS-940NL-1AV/",
+      "added": "2026-09-06",
+      "notes": "Specs/price not available — not on Bhawar yet"
+    },
+    {
+      "model": "ECB-40NP-1A",
+      "name": "CASIO EDIFICE ECB-40NP-1A",
+      "series": "NIGHTTIME DRIVE SERIES",
+      "price": null,
+      "currency": "INR",
+      "specs": {
+        "display": "Analog-Digital (likely)",
+        "dial": "Black",
+        "features": ["Likely Bluetooth", "Tough Solar", "Chronograph"],
+        "series_type": "Night Drive auto-enthusiast line"
+      },
+      "url": "https://www.casio.com/in/watches/edifice/product.ECB-40NP-1A/",
+      "added": "2026-09-06",
+      "notes": "Specs/price not available — check Amazon India or official Casio site"
+    }
+  ],
+  "lastUpdated": "2026-09-06T16:55:00.000Z"
 }
