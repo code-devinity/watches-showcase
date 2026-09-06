@@ -284,23 +284,18 @@
 
     .watch-image {
       width: 100%;
-      height: 200px;
-      object-fit: cover;
-      background: #1a1a1a;
+      height: 160px;
+      background: linear-gradient(135deg, #1a1a1a 0%, #222 100%);
       display: flex;
       align-items: center;
       justify-content: center;
-    }
-
-    .watch-image img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 1rem;
     }
 
     .watch-image-placeholder {
       color: #333;
-      font-size: 3rem;
+      font-size: 3.5rem;
     }
 
     .watch-content {
@@ -630,6 +625,7 @@
       const maxPrice = parseInt(document.getElementById('maxPrice').value) || Infinity;
       const selectedBrands = [...document.querySelectorAll('#brandFilters input:checked')].map(cb => cb.value);
       const selectedSeries = [...document.querySelectorAll('#seriesFilters input:checked')].map(cb => cb.value);
+      const hasPriceFilter = document.getElementById('minPrice').value || document.getElementById('maxPrice').value;
 
       filteredWatches = watches.filter(watch => {
         const matchesSearch = !searchTerm || 
@@ -637,9 +633,21 @@
           (watch.description && watch.description.toLowerCase().includes(searchTerm)) ||
           (watch.series && watch.series.toLowerCase().includes(searchTerm));
 
-        const matchesBrand = selectedBrands.includes(watch.brand);
-        const matchesSeries = selectedSeries.includes(watch.series);
-        const matchesPrice = watch.price !== null && watch.price >= minPrice && watch.price <= maxPrice;
+        // If no brands selected, show all brands
+        const matchesBrand = selectedBrands.length === 0 || selectedBrands.includes(watch.brand);
+        
+        // If no series selected, show all series
+        const matchesSeries = selectedSeries.length === 0 || (watch.series && selectedSeries.includes(watch.series));
+        
+        // Only filter by price if user entered a price range AND watch has a price
+        let matchesPrice = true;
+        if (hasPriceFilter) {
+          if (watch.price !== null) {
+            matchesPrice = watch.price >= minPrice && watch.price <= maxPrice;
+          } else {
+            matchesPrice = false; // Hide null-price watches only when price filter is active
+          }
+        }
 
         return matchesSearch && matchesBrand && matchesSeries && matchesPrice;
       });
@@ -684,13 +692,11 @@
           ? `<div class="watch-price">₹${watch.price.toLocaleString('en-IN')}</div>`
           : `<div class="watch-price on-request">Price on request</div>`;
 
-        const imageHTML = watch.image 
-          ? `<img src="${watch.image}" alt="${escapeHtml(watch.name)}" onerror="this.parentElement.innerHTML='<div class=\\'watch-image-placeholder\\'>⌚</div>'">`
-          : `<div class="watch-image-placeholder">⌚</div>`;
-
         card.innerHTML = `
-          <div class="watch-image">${imageHTML}</div>
           <div class="watch-content">
+            <div class="watch-image">
+              <span class="watch-image-placeholder">⌚</span>
+            </div>
             ${watch.series ? `<span class="watch-series">${watch.series.replace(/-/g, ' ')}</span>` : ''}
             <h2>${escapeHtml(watch.name)}</h2>
             ${priceHTML}
@@ -719,8 +725,8 @@
       const searchTerm = document.getElementById('searchInput').value;
       const minPrice = document.getElementById('minPrice').value;
       const maxPrice = document.getElementById('maxPrice').value;
-      const selectedBrands = [...document.querySelectorAll('#brandFilters input:not(:checked)')].map(cb => cb.value);
-      const selectedSeries = [...document.querySelectorAll('#seriesFilters input:not(:checked)')].map(cb => cb.value);
+      const selectedBrands = [...document.querySelectorAll('#brandFilters input:checked')].map(cb => cb.value);
+      const selectedSeries = [...document.querySelectorAll('#seriesFilters input:checked')].map(cb => cb.value);
 
       if (searchTerm) {
         filters.push({ label: `Search: "${searchTerm}"`, clear: () => { document.getElementById('searchInput').value = ''; applyFilters(); }});
@@ -731,6 +737,37 @@
       if (maxPrice) {
         filters.push({ label: `Max: ₹${parseInt(maxPrice).toLocaleString('en-IN')}`, clear: () => { document.getElementById('maxPrice').value = ''; applyFilters(); }});
       }
+
+      // Show deselected filters as tags
+      const allBrands = [...new Set(watches.map(w => w.brand))];
+      const allSeries = [...new Set(watches.map(w => w.series).filter(Boolean))];
+      
+      allBrands.forEach(brand => {
+        if (!selectedBrands.includes(brand)) {
+          const idx = filters.length;
+          filters.push({ 
+            label: brand, 
+            clear: () => { 
+              const cb = document.querySelector(`#brandFilters input[value="${brand}"]`);
+              if (cb) cb.checked = true;
+              applyFilters(); 
+            }
+          });
+        }
+      });
+      
+      allSeries.forEach(series => {
+        if (!selectedSeries.includes(series)) {
+          filters.push({ 
+            label: series.replace(/-/g, ' '), 
+            clear: () => { 
+              const cb = document.querySelector(`#seriesFilters input[value="${series}"]`);
+              if (cb) cb.checked = true;
+              applyFilters(); 
+            }
+          });
+        }
+      });
 
       container.innerHTML = filters.map((f, i) => `
         <span class="filter-tag">
