@@ -505,7 +505,30 @@
       "description": "Automatic skeleton | Octagonal case | Open skeleton dial | 33 jewels | Brushed silver | SS 5-link bracelet | Deployant clasp | Screw-down crown | 3 ATM | Made in India",
       "series": "GRAVITAS",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "meridian-lunar-slate-grey",
+      "name": "MERIDIAN LUNAR SLATE GREY",
+      "brand": "MERIDIAN",
+      "price": 5999,
+      "image": "https://cdn.shopify.com/s/files/1/0869/2196/9948/files/2_57a108b9-a83d-4b8d-a056-bd8f080f1891.png?v=1780756211",
+      "link": "https://meridianwatches.in/products/lunar-slate-grey",
+      "description": "Moonphase dress watch | Classical design | Textured dial | Roman numerals | Polished case | Elegant sophistication",
+      "series": "LUNAR",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "kala-warli-indus",
+      "name": "KALA WARLI ART EDITION INDUS",
+      "brand": "KALA",
+      "price": 8499,
+      "image": "https://cdn.shopify.com/s/files/1/0711/7347/2316/files/KalaWatchCo_Warli_Indus_Front_a9ebcd34-3f14-4f7e-90c8-5e5a785a2364.jpg?v=1778764091",
+      "link": "https://kalawatches.com/products/warli-art-edition-indus",
+      "description": "LIMITED EDITION (100 pieces) | Blue & cyan colourway | Warli Art inspired | Two straps (deerskin leather + Warli NATO) | Numbered caseback with cow illustration | Exclusive packaging",
+      "series": "WARLI ART EDITION",
+      "addedAt": "2026-09-06",
+      "notes": "SOLD OUT"
     }
   ],
-  "lastUpdated": "2026-09-06T19:10:00.000Z"
+  "lastUpdated": "2026-09-06T19:15:00.000Z"
 }
