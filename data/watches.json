@@ -285,7 +285,29 @@
       "description": "Vector | 45mm Grey dial | Analog | Quartz | Classic design",
       "series": "VECTOR",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "qorum-equinox-skeleton-multi",
+      "name": "QORUM EQUINOX SKELETON MULTI-FUNCTION",
+      "brand": "QORUM",
+      "price": 12999,
+      "image": "https://cdn.shopify.com/s/files/1/0755/6697/3159/files/QI9159G-1-BrushedBlackwithRoseGold1.webp?v=1772707161",
+      "link": "https://www.qorumindia.com/products/qorum-equinox-men-s-multi-function-skeleton-watch-black-dial-rose-gold-detailing-black-silicon-strap-1?variant=51932466872551",
+      "description": "Equinox | SS case 44mm | EPSON VX7P movement | Skeleton dial | Rose Gold detailing | Black Silicon strap | Hardened Mineral Crystal | 3ATM | 1 year warranty",
+      "series": "EQUINOX",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "qorum-equinox-skeleton-auto",
+      "name": "QORUM EQUINOX SKELETON AUTOMATIC",
+      "brand": "QORUM",
+      "price": 13999,
+      "image": "https://cdn.shopify.com/s/files/1/0755/6697/3159/files/2_jpg_cfc3340e-8116-4d68-8d76-5cf5f5ec9780.jpg?v=1775543996",
+      "link": "https://www.qorumindia.com/products/qorum-equinox-men-s-automatic-skeleton-watch-black-dial-steel-and-rose-gold-detailing-black-fluoro-rubber-strap?variant=51932767748327",
+      "description": "Equinox | SS case 45mm | Automatic Mechanical Movement 2806 | Skeleton dial | Steel & Rose Gold detailing | Black Fluoro Rubber strap | ~42hr power reserve | Hardened Mineral Crystal | 3ATM | 1 year warranty",
+      "series": "EQUINOX",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T18:25:00.000Z"
+  "lastUpdated": "2026-09-06T18:40:00.000Z"
 }
