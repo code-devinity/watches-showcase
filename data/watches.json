@@ -274,7 +274,18 @@
       "description": "Signio | 44mm Gunmetal dial | Automatic movement | Men | Bold classic design",
       "series": "SIGNIO",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "timex-vector-grey-45mm",
+      "name": "TIMEX VECTOR GREY DIAL",
+      "brand": "TIMEX",
+      "price": 12495,
+      "image": "https://cdn.shopify.com/s/files/1/0787/5375/9521/files/TWEG34902_1.jpg?v=1780400013",
+      "link": "https://shop.timexindia.com/products/timex-vector-round-45mm-grey-dial-analog-men-watch-tweg34902",
+      "description": "Vector | 45mm Grey dial | Analog | Quartz | Classic design",
+      "series": "VECTOR",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T18:20:00.000Z"
+  "lastUpdated": "2026-09-06T18:25:00.000Z"
 }
