@@ -208,7 +208,18 @@
       "description": "Automatic | 2530 Movement with Power Reserve & Small Seconds | Green dial | SS 316L case 40MM | Double Dome Sapphire Crystal | 9-row solid link bracelet | 50M water resistance | ~40hr power reserve",
       "series": "OLYMPUS",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "argos-apollo-iii-onyx-black",
+      "name": "ARGOS APOLLO III - ONYX BLACK",
+      "brand": "ARGOS",
+      "price": 10490,
+      "image": "https://cdn.shopify.com/s/files/1/0799/4664/5791/files/Apollo_III_-_Onyx_Black_Silver.jpg",
+      "link": "https://www.argoswatch.in/products/apollo-iii-onyx-black-silver",
+      "description": "Automatic | 2706 Movement | Black dial | SS 316L case 40MM | K1 Scratch Resistant Sapphire Crystal | 5-row solid link bracelet | 50M water resistance | ~42hr power reserve | Limited Edition",
+      "series": "APOLLO III",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T18:05:00.000Z"
+  "lastUpdated": "2026-09-06T18:10:00.000Z"
 }
