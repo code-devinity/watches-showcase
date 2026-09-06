@@ -87,7 +87,40 @@
       "description": "Edifice timepiece with solar-powered chronograph functionality. Check official Casio site for full specs.",
       "series": "EDIFICE",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efr-556dc-1av",
+      "name": "CASIO EDIFICE EFR-556DC-1AV",
+      "brand": "CASIO EDIFICE",
+      "price": 12995,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFR/EFR-556DC-1AV/assets/EFR-556DC-1AV_01.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFR-556DC-1AV/",
+      "description": "STANDARD CHRONOGRAPH | Black Series | Analog, Black dial, Black ion plated SS case & band, Stopwatch, Date, 100M water resistance, 49mm",
+      "series": "STANDARD CHRONOGRAPH",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "utp-1302pd-2a2v",
+      "name": "CASIO UTP-1302PD-2A2V",
+      "brand": "CASIO",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/u/ut/utp/utp-1302pd-2a2v/assets/UTP-1302PD-2A2V.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/casio/product.UTP-1302PD-2A2V/",
+      "description": "Casio Classic timepiece. Check official Casio site for full specs.",
+      "series": "CASIO",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "eqb-1300dc-3a",
+      "name": "CASIO EDIFICE EQB-1300DC-3A",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQB/eqb-1300dc-3a/assets/EQB-1300DC-3A.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EQB-1300DC-3A/",
+      "description": "Edifice analog-digital chronograph. Check official Casio site for full specs.",
+      "series": "EDIFICE",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T17:40:00.000Z"
+  "lastUpdated": "2026-09-06T17:45:00.000Z"
 }
