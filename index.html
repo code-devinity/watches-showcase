@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Batman's Watch Collection</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0a0a0b;
+      color: #e5e5e5;
+      min-height: 100vh;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 1px solid #1f1f1f;
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      background: linear-gradient(135deg, #e5e5e5 0%, #888 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      color: #666;
+      font-size: 1rem;
+    }
+
+    .count {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.35rem 0.85rem;
+      background: #1a1a1a;
+      border: 1px solid #2a2a2a;
+      border-radius: 100px;
+      font-size: 0.875rem;
+      color: #888;
+    }
+
+    .watches-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+    }
+
+    .watch-card {
+      background: #111112;
+      border: 1px solid #1f1f1f;
+      border-radius: 12px;
+      padding: 1.5rem;
+      transition: all 0.2s ease;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+    }
+
+    .watch-card:hover {
+      border-color: #333;
+      transform: translateY(-2px);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+    }
+
+    .watch-card h2 {
+      font-size: 1.125rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      color: #fff;
+    }
+
+    .watch-card .description {
+      color: #888;
+      font-size: 0.9rem;
+      margin-bottom: 1rem;
+      line-height: 1.5;
+    }
+
+    .watch-card .link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      color: #0066ff;
+      font-size: 0.85rem;
+      font-weight: 500;
+    }
+
+    .watch-card:hover .link {
+      text-decoration: underline;
+    }
+
+    .watch-card .added-date {
+      color: #444;
+      font-size: 0.75rem;
+      margin-top: 1rem;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: #555;
+    }
+
+    .empty-state svg {
+      width: 64px;
+      height: 64px;
+      margin-bottom: 1rem;
+      opacity: 0.3;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid #1f1f1f;
+      color: #555;
+      font-size: 0.85rem;
+    }
+
+    footer a {
+      color: #666;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      color: #888;
+    }
+
+    @media (max-width: 640px) {
+      h1 {
+        font-size: 1.75rem;
+      }
+      
+      .container {
+        padding: 2rem 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🕐 Watch Collection</h1>
+      <p class="subtitle">A curated collection of watches curated by Batman</p>
+      <span class="count" id="watch-count">0 watches</span>
+    </header>
+
+    <main>
+      <div class="watches-grid" id="watches-grid">
+        <div class="empty-state" id="empty-state">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+          </svg>
+          <p>No watches added yet</p>
+          <p style="font-size: 0.85rem; margin-top: 0.5rem;">Share a link in the #watches channel to get started</p>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p>Auto-updated from <a href="https://discord.com/channels/1476543517613359225/1546194995080331394" target="_blank" rel="noopener">#watches channel</a></p>
+    </footer>
+  </div>
+
+  <script>
+    async function loadWatches() {
+      try {
+        const response = await fetch('./data/watches.json');
+        const data = await response.json();
+        renderWatches(data.watches);
+      } catch (error) {
+        console.error('Failed to load watches:', error);
+      }
+    }
+
+    function renderWatches(watches) {
+      const grid = document.getElementById('watches-grid');
+      const emptyState = document.getElementById('empty-state');
+      const countEl = document.getElementById('watch-count');
+
+      if (!watches || watches.length === 0) {
+        countEl.textContent = '0 watches';
+        return;
+      }
+
+      countEl.textContent = `${watches.length} watch${watches.length === 1 ? '' : 'es'}`;
+      emptyState.style.display = 'none';
+
+      watches.forEach(watch => {
+        const card = document.createElement('a');
+        card.href = watch.link;
+        card.target = '_blank';
+        card.rel = 'noopener noreferrer';
+        card.className = 'watch-card';
+
+        const date = new Date(watch.addedAt).toLocaleDateString('en-US', {
+          month: 'short',
+          day: 'numeric',
+          year: 'numeric'
+        });
+
+        card.innerHTML = `
+          <h2>${escapeHtml(watch.name)}</h2>
+          <p class="description">${escapeHtml(watch.description || '')}</p>
+          <span class="link">
+            View Watch
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+              <polyline points="15 3 21 3 21 9"/>
+              <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+          </span>
+          <p class="added-date">Added ${date}</p>
+        `;
+
+        grid.appendChild(card);
+      });
+    }
+
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    loadWatches();
+  </script>
+</body>
+</html>
