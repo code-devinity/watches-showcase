@@ -284,13 +284,21 @@
 
     .watch-image {
       width: 100%;
-      height: 160px;
+      height: 180px;
       background: linear-gradient(135deg, #1a1a1a 0%, #222 100%);
       display: flex;
       align-items: center;
       justify-content: center;
       border-radius: 8px;
       margin-bottom: 1rem;
+      overflow: hidden;
+    }
+
+    .watch-image img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      padding: 1rem;
     }
 
     .watch-image-placeholder {
@@ -694,9 +702,15 @@
 
         card.innerHTML = `
           <div class="watch-content">
-            <div class="watch-image">
-              <span class="watch-image-placeholder">⌚</span>
-            </div>
+            ${watch.image ? `
+              <div class="watch-image">
+                <img src="${watch.image}" alt="${escapeHtml(watch.name)}" onerror="this.style.display='none'; this.parentElement.innerHTML='<span class=\\'watch-image-placeholder\\'>⌚</span>'">
+              </div>
+            ` : `
+              <div class="watch-image">
+                <span class="watch-image-placeholder">⌚</span>
+              </div>
+            `}
             ${watch.series ? `<span class="watch-series">${watch.series.replace(/-/g, ' ')}</span>` : ''}
             <h2>${escapeHtml(watch.name)}</h2>
             ${priceHTML}
