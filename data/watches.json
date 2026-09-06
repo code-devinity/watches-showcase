@@ -594,7 +594,18 @@
       "description": "Diver's watch | Collaboration with Dive India | 316L SS | 500M water resistance (50 ATM) | Helium escape valve | Dive-tested by Dive India | Blue or Black dial | Bracelet or Black strap | Multiple variants",
       "series": "HAVELOCK",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "verte-karbon",
+      "name": "VERTE PROJECT KARBON",
+      "brand": "VERTE",
+      "price": 34999,
+      "image": "https://cdn.shopify.com/s/files/1/0770/2383/8513/files/5b.png?v=1777098219",
+      "link": "https://verte.co.in/products/karbon",
+      "description": "Carbon fibre built case | Each piece unique pattern | Miyota 9015 / Sellita SW200-1 movement | Vulcanized FKM strap | 20 ATM water resistance | 5-year international warranty | Limited (~69 pieces left) | 2 series variants",
+      "series": "PROJECT KARBON",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T19:30:00.000Z"
+  "lastUpdated": "2026-09-06T19:35:00.000Z"
 }
