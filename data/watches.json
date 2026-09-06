@@ -406,7 +406,106 @@
       "description": "Automatic | Grey dial | Multi-function | 43.33mm | Black leather strap | 5 ATM water resistance | Secure pin buckle",
       "series": "BRITIME",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-urbane-silver-blue",
+      "name": "SYLVI URBANE SILVER BLUE",
+      "brand": "SYLVI",
+      "price": 2449,
+      "image": null,
+      "link": "https://sylvi.in/collections/urbane-watches/products/urbane-silver-blue",
+      "description": "Quartz | 41mm squircle | Glossy blue dial | Stick markers | SS silver strap | Butterfly buckle | 3 ATM | Date | Made in India",
+      "series": "URBANE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-elegare-black-steel",
+      "name": "SYLVI ELEGARE BLACK STEEL",
+      "brand": "SYLVI",
+      "price": null,
+      "image": null,
+      "link": "https://sylvi.in/collections/elegare-watches/products/elegare-black-steel",
+      "description": "Quartz | 42mm round | Glossy black dial (no indexes) | Black SS strap | Butterfly buckle | 3 ATM | Made in India",
+      "series": "ELEGARE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-urbane-moon-aqua-blue",
+      "name": "SYLVI URBANE MOON AQUA BLUE",
+      "brand": "SYLVI",
+      "price": 2049,
+      "image": null,
+      "link": "https://sylvi.in/products/urbane-moon-aqua-blue",
+      "description": "Quartz | 40mm squircle | Aqua blue glossy dial | Moon phase subdial | Date display | SS silver strap | 3 ATM | Made in India",
+      "series": "URBANE MOON",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-specter-blue-silver-steel",
+      "name": "SYLVI SPECTER BLUE SILVER STEEL",
+      "brand": "SYLVI",
+      "price": 2199,
+      "image": null,
+      "link": "https://sylvi.in/collections/specter-watches/products/specter-blue-silver-steel",
+      "description": "Quartz | 40mm octagon | Glossy blue dial | No indexes | SS silver bracelet | Butterfly buckle | 3 ATM | Made in India",
+      "series": "SPECTER",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-professional-edge-blue-silver",
+      "name": "SYLVI PROFESSIONAL EDGE BLUE SILVER",
+      "brand": "SYLVI",
+      "price": 2199,
+      "image": null,
+      "link": "https://sylvi.in/collections/professional-edge/products/professional-edge-blue-silver",
+      "description": "Quartz | 40mm round | Navy blue glossy dial | Stick markers | Date | SS silver bracelet | Butterfly buckle | 3 ATM | Made in India",
+      "series": "PROFESSIONAL EDGE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-professional-edge-electric-blue",
+      "name": "SYLVI PROFESSIONAL EDGE ELECTRIC BLUE",
+      "brand": "SYLVI",
+      "price": 2199,
+      "image": null,
+      "link": "https://sylvi.in/collections/professional-edge/products/professional-edge-electric-blue",
+      "description": "Quartz | 40mm round | Electric blue glossy dial | Stick markers | Date | SS silver bracelet | Butterfly buckle | 3 ATM | Made in India",
+      "series": "PROFESSIONAL EDGE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-core-x-all-black-steel",
+      "name": "SYLVI CORE-X ALL BLACK STEEL",
+      "brand": "SYLVI",
+      "price": null,
+      "image": null,
+      "link": "https://sylvi.in/products/core-x-all-black-steel",
+      "description": "Quartz skeleton | Octagonal case | Open skeleton dial | 33 jewels | Matte black finish | Premium Swiss-inspired | Made in India",
+      "series": "CORE-X",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-pulse-skeleton-all-black-steel",
+      "name": "SYLVI PULSE SKELETON ALL BLACK STEEL",
+      "brand": "SYLVI",
+      "price": null,
+      "image": null,
+      "link": "https://sylvi.in/collections/pulse-skeleton-watches/products/pulse-skeleton-all-black-steel",
+      "description": "Automatic skeleton | Open skeleton dial | 21 jewels | Matte black | SS strap | Self-winding | 3 ATM | Made in India",
+      "series": "PULSE SKELETON",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "sylvi-gravitas-black-silver-steel",
+      "name": "SYLVI GRAVITAS BLACK SILVER STEEL",
+      "brand": "SYLVI",
+      "price": null,
+      "image": null,
+      "link": "https://sylvi.in/collections/gravitas-watches/products/gravitas-black-silver-steel",
+      "description": "Automatic skeleton | Octagonal case | Open skeleton dial | 33 jewels | Brushed silver | SS 5-link bracelet | Deployant clasp | Screw-down crown | 3 ATM | Made in India",
+      "series": "GRAVITAS",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T19:05:00.000Z"
+  "lastUpdated": "2026-09-06T19:10:00.000Z"
 }
