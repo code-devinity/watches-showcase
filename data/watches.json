@@ -120,7 +120,51 @@
       "description": "Edifice analog-digital chronograph. Check official Casio site for full specs.",
       "series": "EDIFICE",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efr-539l-5av",
+      "name": "CASIO EDIFICE EFR-539L-5AV",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFR/EFR-539L-5AV/assets/EFR-539L-5AV_Seq1.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFR-539L-5AV/",
+      "description": "Edifice chronograph with brown dial and stainless steel band. Check official Casio site for full specs.",
+      "series": "STANDARD CHRONOGRAPH",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efr-571d-1av",
+      "name": "CASIO EDIFICE EFR-571D-1AV",
+      "brand": "CASIO EDIFICE",
+      "price": 9495,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFR/EFR-571D-1AV/assets/EFR-571D-1AV_Seq1.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFR-571D-1AV/",
+      "description": "STANDARD CHRONOGRAPH | Analog, Black dial, SS band, 1-second stopwatch, 100M water resistance, 47mm",
+      "series": "STANDARD CHRONOGRAPH",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efv-650d-2bv",
+      "name": "CASIO EDIFICE EFV-650D-2BV",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFV/efv-650d-2bv/assets/EFV-650D-2BV.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFV-650D-2BV/",
+      "description": "Edifice analog chronograph. Check official Casio site for full specs.",
+      "series": "EDIFICE",
+      "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efr-526d-2av",
+      "name": "CASIO EDIFICE EFR-526D-2AV",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFR/efr-526d-2av/assets/EFR-526D-2AVU.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFR-526D-2AV/",
+      "description": "Edifice chronograph. Check official Casio site for full specs.",
+      "series": "STANDARD CHRONOGRAPH",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T17:45:00.000Z"
+  "lastUpdated": "2026-09-06T17:50:00.000Z"
 }
