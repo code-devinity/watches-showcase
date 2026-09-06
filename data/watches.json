@@ -1,75 +1,28 @@
 {
   "watches": [
     {
-      "model": "ECB-2000NP-1ADF",
       "name": "CASIO EDIFICE ECB-2000NP-1ADF",
-      "series": "NIGHTTIME DRIVE SERIES",
-      "price": 23995,
-      "currency": "INR",
-      "specs": {
-        "display": "Analog-Digital",
-        "dial": "Black",
-        "strap": "Blue",
-        "case": "Carbon / Stainless steel",
-        "glass": "Mineral",
-        "waterResistance": "100M",
-        "caseSize": "51mm",
-        "features": ["Bluetooth", "Smart Access", "World Time", "Tough Solar", "Stopwatch", "Hand Shift Feature", "Phone Finder", "Super Illuminator", "LED Light", "Neobrite Hands", "Countdown Timer", "Auto Calendar", "Alarm(s)", "Hourly Time Signal"],
-        "origin": "THAILAND"
-      },
-      "url": "https://casiostore.bhawar.com/products/casio-edifice-ecb-2000np-1adf-black-analog-digital-mens-watch",
-      "added": "2026-09-06"
+      "link": "https://casiostore.bhawar.com/products/casio-edifice-ecb-2000np-1adf-black-analog-digital-mens-watch",
+      "description": "NIGHTTIME DRIVE SERIES | ₹23,995 | Analog-Digital, Blue-to-gold gradient bezel, Carbon fiber case, Bluetooth, Tough Solar, 100M water resistance, 51mm",
+      "addedAt": "2026-09-06"
     },
     {
-      "model": "EFR-574DC-2AV",
       "name": "CASIO EDIFICE EFR-574DC-2AV",
-      "series": "Standard Chronograph",
-      "price": 14995,
-      "currency": "INR",
-      "specs": {
-        "display": "Analog",
-        "dial": "Blue",
-        "strap": "Black (Stainless Steel)",
-        "case": "Stainless steel",
-        "glass": "Mineral",
-        "waterResistance": "100M",
-        "caseSize": "47.5×42.3×11.4 mm",
-        "features": ["Stopwatch", "Tachymeter", "Date", "Screw Lock Back"],
-        "battery": "SR927W",
-        "origin": "CHINA"
-      },
-      "url": "https://www.casio.com/in/watches/edifice/product.EFR-574DC-2AV/",
-      "added": "2026-09-06"
+      "link": "https://www.casio.com/in/watches/edifice/product.EFR-574DC-2AV/",
+      "description": "Standard Chronograph | ₹14,995 | Analog, Blue dial, Black SS band, Chronograph, Tachymeter, 100M water resistance",
+      "addedAt": "2026-09-06"
     },
     {
-      "model": "EQS-940NL-1AVDF",
       "name": "CASIO EDIFICE EQS-940NL-1AVDF",
-      "series": "Edifice",
-      "price": null,
-      "currency": "INR",
-      "specs": {
-        "display": "Analog (likely)",
-        "features": ["Likely solar-powered chronograph", "Stainless steel band"]
-      },
-      "url": "https://www.casio.com/in/watches/edifice/product.EQS-940NL-1AV/",
-      "added": "2026-09-06",
-      "notes": "Specs/price not available — not on Bhawar yet"
+      "link": "https://www.casio.com/in/watches/edifice/product.EQS-940NL-1AV/",
+      "description": "Solar-powered chronograph with stainless steel band. Check official Casio site for full specs.",
+      "addedAt": "2026-09-06"
     },
     {
-      "model": "ECB-40NP-1A",
       "name": "CASIO EDIFICE ECB-40NP-1A",
-      "series": "NIGHTTIME DRIVE SERIES",
-      "price": null,
-      "currency": "INR",
-      "specs": {
-        "display": "Analog-Digital (likely)",
-        "dial": "Black",
-        "features": ["Likely Bluetooth", "Tough Solar", "Chronograph"],
-        "series_type": "Night Drive auto-enthusiast line"
-      },
-      "url": "https://www.casio.com/in/watches/edifice/product.ECB-40NP-1A/",
-      "added": "2026-09-06",
-      "notes": "Specs/price not available — check Amazon India or official Casio site"
+      "link": "https://www.casio.com/in/watches/edifice/product.ECB-40NP-1A/",
+      "description": "NIGHTTIME DRIVE SERIES | Analog-Digital chronograph with Bluetooth & Tough Solar. Check Amazon/Casio site for price.",
+      "addedAt": "2026-09-06"
     }
   ],
   "lastUpdated": "2026-09-06T16:55:00.000Z"
