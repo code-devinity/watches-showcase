@@ -76,7 +76,18 @@
       "description": "Solar-powered watch in all-black ion-plated stainless steel.",
       "series": "EDIFICE",
       "addedAt": "2026-09-06"
+    },
+    {
+      "id": "efs-s570db-2a",
+      "name": "CASIO EDIFICE EFS-S570DB-2A",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EF/EFS/EFS-S570DB-2A/assets/EFS-S570DB-2A_Seq1.png.transform/main-visual-pc/image.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EFS-S570DB-2A/",
+      "description": "Edifice timepiece with solar-powered chronograph functionality. Check official Casio site for full specs.",
+      "series": "EDIFICE",
+      "addedAt": "2026-09-06"
     }
   ],
-  "lastUpdated": "2026-09-06T17:35:00.000Z"
+  "lastUpdated": "2026-09-06T17:40:00.000Z"
 }
