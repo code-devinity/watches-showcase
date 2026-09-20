@@ -782,7 +782,18 @@
       "description": "Meenakari Collection | Solid silver hand-etched dial | Kachhi Meenakari enamel work | 0231 mechanical winding movement | Preorder edition of 101 numbered pieces",
       "series": "MEENAKARI",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "majestic-craftsmen-monarch-bronze",
+      "name": "MAJESTIC CRAFTSMEN MONARCH BRONZE",
+      "brand": "MAJESTIC CRAFTSMEN",
+      "price": 15999,
+      "image": null,
+      "link": "https://majesticcraftsmen.com/product/monarch-bronze/",
+      "description": "Monarch | Miyota 8205 Automatic (gilt finish) | Sector dial inspired by Ashoka Chakra | Hidden lume at night | 316L SS case | Weekdater (day+date) | Exhibition caseback | Indian Heritage theme",
+      "series": "MONARCH",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T15:05:00.000Z"
+  "lastUpdated": "2026-09-20T15:15:00.000Z"
 }
