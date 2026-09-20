@@ -815,7 +815,18 @@
       "description": "C1 Military | 45mm gunmetal PVD SS case | 3-layered semi-skeletonized green lacquered dial | SII Quartz movement | Super-LumiNova | Full grain green leather strap with white stitching | 5 bar | Date at 12 | Chronograph, 24hr counter, split time",
       "series": "C1 MILITARY",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "avarth-waqt",
+      "name": "AVARTH WAQT",
+      "brand": "AVARTH",
+      "price": null,
+      "image": null,
+      "link": "https://avarth.com/products/waqt",
+      "description": "Jump Hour Complication | Modified Miyota Gearbox Quartz | 24-hour sub-dial | Radial guilloch\u00e9 sunray dial | 304 SS case | Embossed Guilloche Pattern dial | Genuine leather strap with saddle stitching | 5 ATM | 43mm",
+      "series": "WAQT",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T15:20:00.000Z"
+  "lastUpdated": "2026-09-20T16:10:00.000Z"
 }
