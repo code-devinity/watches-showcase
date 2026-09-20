@@ -850,7 +850,18 @@
       "series": "LEGACY",
       "addedAt": "2026-09-20",
       "notes": "PRE-BOOKING (dispatch Oct 30, 2026)"
+    },
+    {
+      "id": "cypher-aphelion",
+      "name": "CYPHER APHELION",
+      "brand": "CYPHER",
+      "price": null,
+      "image": null,
+      "link": "https://cypherwatches.com/products/cypher-aphelion",
+      "description": "LIMITED 475 PIECES | Miyota 8247 Automatic (discontinued, 21 jewels, 21,600 vph) | \u00b115 sec/day regulated by hand in Mumbai | 38mm 316L SS cushion case | Multi-pass nebula dial (deep space, printed on brass) | Domed sapphire crystal AR-coated | Sapphire exhibition caseback with nebula PRINTED ON SAPPHIRE | 10 ATM | Deep navy suede strap",
+      "series": "APHELION",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T16:20:00.000Z"
+  "lastUpdated": "2026-09-20T16:25:00.000Z"
 }
