@@ -613,7 +613,7 @@
       "price": 4499,
       "image": "https://delhiwatchcompany.com/cdn/shop/files/Screenshot2026-06-20at4.23.39AM.png?v=1781909630&width=1200",
       "link": "https://delhiwatchcompany.com/products/dwc-terra",
-      "description": "5th Anniversary watch | Carabiner-inspired design | 316L SS | Multiple finishes: Sandblasted SS (₹4,499), Black DLC SS (₹4,999), Vertically Brushed SS | Pre-orders closed — dispatch Oct 2026 onwards",
+      "description": "5th Anniversary watch | Carabiner-inspired design | 316L SS | Multiple finishes: Sandblasted SS (\u20b94,499), Black DLC SS (\u20b94,999), Vertically Brushed SS | Pre-orders closed \u2014 dispatch Oct 2026 onwards",
       "series": "TERRA",
       "addedAt": "2026-09-06",
       "notes": "PRE-ORDERS CLOSED"
@@ -639,7 +639,18 @@
       "description": "Baagh Collection | Made from 1947 British India One Rupee Coin (Tiger) | Miyota 8215 Automatic | 43mm 316L SS | Sapphire crystal (front & back) with AR coating | 22mm genuine leather strap | 5 ATM | 42hr power reserve | Devanagari numerals",
       "series": "BAAGH",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "sylvi-certified-imperfect-vanguard-black",
+      "name": "SYLVI CERTIFIED IMPERFECT VANGUARD BLACK SILVER SILICONE",
+      "brand": "SYLVI",
+      "price": null,
+      "image": "https://sylvi.in/cdn/shop/files/SY-2871-BK-SL-BK-SL-SI_Cross_Image_800x1000_ae30735c-60ca-43d7-9fa9-bc7344749d95_1080x.webp?v=1773045465",
+      "link": "https://sylvi.in/collections/certified-imperfect-watches/products/certified-imperfect-vanguard-black-silver-silicone",
+      "description": "Certified Imperfect | Vanguard | Black dial | Silicone strap | Quartz | Budget-friendly",
+      "series": "CERTIFIED IMPERFECT",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T13:55:00.000Z"
+  "lastUpdated": "2026-09-20T14:15:00.000Z"
 }
