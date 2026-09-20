@@ -793,7 +793,18 @@
       "description": "Monarch | Miyota 8205 Automatic (gilt finish) | Sector dial inspired by Ashoka Chakra | Hidden lume at night | 316L SS case | Weekdater (day+date) | Exhibition caseback | Indian Heritage theme",
       "series": "MONARCH",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "horpa-forge-ash-fgss40as",
+      "name": "HORPA FORGE ASH FGSS40AS",
+      "brand": "HORPA",
+      "price": 22000,
+      "image": "https://cdn.shopify.com/s/files/1/0616/3765/6748/files/2_480x480.png?v=1725203646",
+      "link": "https://horpawatch.com/products/ash",
+      "description": "FORGE Line | 40mm sandblasted 316L SS | Special grey 3-layer dial (stamping, etching, laser cutting) | Sapphire crystal | NH35 Automatic | Luminous hands | Green buffalo leather strap | 5 bar | Date",
+      "series": "FORGE",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T15:15:00.000Z"
+  "lastUpdated": "2026-09-20T15:20:00.000Z"
 }
