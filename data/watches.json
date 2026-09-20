@@ -838,7 +838,19 @@
       "series": "PHANTOM 2.0",
       "addedAt": "2026-09-20",
       "notes": "SOLD OUT"
+    },
+    {
+      "id": "cypher-legacy-cognac",
+      "name": "CYPHER LEGACY COGNAC",
+      "brand": "CYPHER",
+      "price": 9975,
+      "image": null,
+      "link": "https://cypherwatches.com/products/cypher-legacy-cognac",
+      "description": "Return of the Curve | Japanese Quartz Epson VL57 | 40mm | Domed sapphire crystal | Hobnail guilloch\u00e9 dial | Rose gold two-tone | Small seconds at 6 | Vintage curved/dished dial | India 1960s caseback story | Lifetime Promise option | Limited to 600 pieces",
+      "series": "LEGACY",
+      "addedAt": "2026-09-20",
+      "notes": "PRE-BOOKING (dispatch Oct 30, 2026)"
     }
   ],
-  "lastUpdated": "2026-09-20T16:15:00.000Z"
+  "lastUpdated": "2026-09-20T16:20:00.000Z"
 }
