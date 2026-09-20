@@ -883,7 +883,18 @@
       "description": "LIMITED | Deep glassy blue dial | Calm at first glance, endlessly shifting beneath the light | High-end Czard piece | Extended warranty add-ons available (+\u20b91999/+\u20b93999/+\u20b99999 for numbered watch)",
       "series": "LAC L\u00c9MAN",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "muse-grandeur",
+      "name": "MUSE WEARABLES GRANDUER",
+      "brand": "MUSE WEARABLES",
+      "price": 8599,
+      "image": null,
+      "link": "https://in.musewearables.com/products/muse-grandeur",
+      "description": "Hybrid Smartwatch | Own Muse Movement (Bluetooth 4.2, accelerometer, vibration motor) | Activity sub-dial | Bi-directional hand movement | Premium matte finish dial (Black/Blue/White/Green) | SS case 40mm | Glass | 50M WR | Android 6.0+ / iOS 15+ | CR2430 battery (1yr life) | Multiple strap options",
+      "series": "GRANDEUR",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T17:00:00.000Z"
+  "lastUpdated": "2026-09-20T18:05:00.000Z"
 }
