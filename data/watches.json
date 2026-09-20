@@ -771,7 +771,18 @@
       "description": "Stretto Day & Night | F6B24 Automatic | Grey dial | 41.5mm SS case | 50m water resistance | Sapphire crystal | Day/date | Luminous | See-through caseback | Limited to 2500 pieces",
       "series": "STRETTO DAY & NIGHT",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "sebastian-baori",
+      "name": "SEBASTIAN WATCH CO. BAORI",
+      "brand": "SEBASTIAN WATCH CO.",
+      "price": null,
+      "image": "https://sebastianwatchco.com/images/swc/baori-hero.jpg",
+      "link": "https://sebastianwatchco.com/watches/baori/",
+      "description": "Meenakari Collection | Solid silver hand-etched dial | Kachhi Meenakari enamel work | 0231 mechanical winding movement | Preorder edition of 101 numbered pieces",
+      "series": "MEENAKARI",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T15:00:00.000Z"
+  "lastUpdated": "2026-09-20T15:05:00.000Z"
 }
