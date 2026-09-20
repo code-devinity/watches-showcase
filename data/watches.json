@@ -861,7 +861,18 @@
       "description": "LIMITED 475 PIECES | Miyota 8247 Automatic (discontinued, 21 jewels, 21,600 vph) | \u00b115 sec/day regulated by hand in Mumbai | 38mm 316L SS cushion case | Multi-pass nebula dial (deep space, printed on brass) | Domed sapphire crystal AR-coated | Sapphire exhibition caseback with nebula PRINTED ON SAPPHIRE | 10 ATM | Deep navy suede strap",
       "series": "APHELION",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "czard-veni",
+      "name": "CZARD VENI",
+      "brand": "CZARD",
+      "price": 14999,
+      "image": null,
+      "link": "https://www.czard.com/products/veni",
+      "description": "LIMITED (numbered) | Rose gold over charcoal finished dial | Inspired by Patek Philippe Ref. 1463 \"Tasti Tondi\" chronograph | Round fluted pushers reinterpreted in rose gold | 38mm case | Chronograph | 1yr warranty standard | Extended warranty add-ons available",
+      "series": "VENI",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T16:25:00.000Z"
+  "lastUpdated": "2026-09-20T16:45:00.000Z"
 }
