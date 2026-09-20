@@ -826,7 +826,19 @@
       "description": "Jump Hour Complication | Modified Miyota Gearbox Quartz | 24-hour sub-dial | Radial guilloch\u00e9 sunray dial | 304 SS case | Embossed Guilloche Pattern dial | Genuine leather strap with saddle stitching | 5 ATM | 43mm",
       "series": "WAQT",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "mnmlst-phantom-2-nebula",
+      "name": "MNMLST PHANTOM 2.0 NEBULA",
+      "brand": "MNMLST",
+      "price": 5999,
+      "image": null,
+      "link": "https://www.mnmlst.in/products/phantom-2-0-nebula",
+      "description": "Cushion case | Brass | 44mm | Blue nebula dial with rose gold details | Miyota quartz | Genuine leather strap | Toughened mineral glass | 30M WR | Date complication",
+      "series": "PHANTOM 2.0",
+      "addedAt": "2026-09-20",
+      "notes": "SOLD OUT"
     }
   ],
-  "lastUpdated": "2026-09-20T16:10:00.000Z"
+  "lastUpdated": "2026-09-20T16:15:00.000Z"
 }
