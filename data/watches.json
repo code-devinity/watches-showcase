@@ -872,7 +872,18 @@
       "description": "LIMITED (numbered) | Rose gold over charcoal finished dial | Inspired by Patek Philippe Ref. 1463 \"Tasti Tondi\" chronograph | Round fluted pushers reinterpreted in rose gold | 38mm case | Chronograph | 1yr warranty standard | Extended warranty add-ons available",
       "series": "VENI",
       "addedAt": "2026-09-20"
+    },
+    {
+      "id": "czard-lac-leman",
+      "name": "CZARD LAC L\u00c9MAN",
+      "brand": "CZARD",
+      "price": 59870,
+      "image": null,
+      "link": "https://www.czard.com/products/lac-leman",
+      "description": "LIMITED | Deep glassy blue dial | Calm at first glance, endlessly shifting beneath the light | High-end Czard piece | Extended warranty add-ons available (+\u20b91999/+\u20b93999/+\u20b99999 for numbered watch)",
+      "series": "LAC L\u00c9MAN",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-20T16:45:00.000Z"
+  "lastUpdated": "2026-09-20T17:00:00.000Z"
 }
