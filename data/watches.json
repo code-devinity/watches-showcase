@@ -617,7 +617,18 @@
       "series": "TERRA",
       "addedAt": "2026-09-06",
       "notes": "PRE-ORDERS CLOSED"
+    },
+    {
+      "id": "jaipur-roman-baagh-steel-bw02",
+      "name": "JAIPUR WATCH CO. ROMAN BAAGH STEEL",
+      "brand": "JAIPUR WATCH CO.",
+      "price": 60000,
+      "image": null,
+      "link": "https://jaipur.watch/products/bw02",
+      "description": "Baagh Collection | Made from 1947 British India One Rupee Coin (Tiger) | Miyota 8215 Automatic | 43mm 316L SS | Sapphire crystal (front & back) with AR coating | 22mm genuine leather strap | 5 ATM | 42hr power reserve",
+      "series": "BAAGH",
+      "addedAt": "2026-09-20"
     }
   ],
-  "lastUpdated": "2026-09-06T19:40:00.000Z"
+  "lastUpdated": "2026-09-20T13:50:00.000Z"
 }
