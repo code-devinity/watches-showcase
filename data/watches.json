@@ -1093,7 +1093,18 @@
       "description": "Sonata Jashn | Quartz Analog | Black dial | Silver metal strap",
       "series": "JASHN",
       "addedAt": "2026-09-21"
+    },
+    {
+      "id": "ist1947-2026",
+      "name": "IST 1947 2026",
+      "brand": "IST 1947",
+      "price": 19470,
+      "image": "https://ist1947.com/cdn/shop/files/1_35cca761-4cf4-478f-bcfe-5cc7b774b085.jpg?v=1787668130&width=1200",
+      "link": "https://ist1947.com/products/2026",
+      "description": "Limited Edition 100 pieces | Cricket World Cup 2026 tribute | Grey carbon fiber dial | Dark blue strap | Small seconds | Automatic | 97g",
+      "series": "2026",
+      "addedAt": "2026-09-21"
     }
   ],
-  "lastUpdated": "2026-09-21T07:18:00.000Z"
+  "lastUpdated": "2026-09-21T12:00:00.000Z"
 }
