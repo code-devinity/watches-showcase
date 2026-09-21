@@ -917,7 +917,18 @@
       "series": "AUTOMATIC",
       "addedAt": "2026-09-21",
       "notes": "OUT OF STOCK"
+    },
+    {
+      "id": "seiko-presage-mojito-srpe45j1",
+      "name": "SEIKO PRESAGE COCKTAIL TIME MOJITO SRPE45J1",
+      "brand": "SEIKO",
+      "price": 55000,
+      "image": null,
+      "link": "https://www.kamalwatch.com/products/seiko-presage-cocktail-time-mojito-watch-srpe45j1",
+      "description": "Cocktail Time 'Mojito' | SRPE45J1 | Green dial | Inspired by Japanese cocktail culture | Skybar Tokyo Ginza | Light refraction pattern dial | Vintage numerals | Date display | 4R35 Automatic | Made in Japan",
+      "series": "PRESAGE COCKTAIL TIME",
+      "addedAt": "2026-09-21"
     }
   ],
-  "lastUpdated": "2026-09-21T05:45:00.000Z"
+  "lastUpdated": "2026-09-21T05:46:00.000Z"
 }
