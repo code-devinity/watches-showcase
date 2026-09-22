@@ -1604,7 +1604,18 @@
       "description": "Zorren Collection | Black dial | Minimalist hour markers | White contrasting hands | Sweeping second hand | Day-date at 3 o'clock (red day display) | 43.25mm | Black-tone finish",
       "series": "ZORREN",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "avarth-avanti",
+      "name": "AVARTH AVANTI",
+      "brand": "AVARTH",
+      "price": null,
+      "image": null,
+      "link": "https://avarth.com/products/avanti",
+      "description": "India's prime meridian watch | Swiss Ronda 515.24H | IST GMT +5:30 offset display | Hours, Minutes, IST Hands, Date | Stainless Steel case | Sapphire Crystal with AR Coating | 20mm SS bracelet | 5 ATM (50m)",
+      "series": "AVANTI",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T13:49:00.000Z"
+  "lastUpdated": "2026-09-22T14:10:00.000Z"
 }
