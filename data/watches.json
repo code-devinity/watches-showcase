@@ -1414,7 +1414,19 @@
       "series": "FULL MOON",
       "addedAt": "2026-09-22",
       "notes": "PRE-ORDER"
+    },
+    {
+      "id": "ando-vinyl-record-classic",
+      "name": "ANDO VINTAGE RECORD AUTOMATIC WATCH CLASSIC",
+      "brand": "ANDO",
+      "price": null,
+      "image": null,
+      "link": "https://andoandoando.com/collections/watch-collection/products/vinyl-record-automatic-watch-classic",
+      "description": "Vinyl record player-inspired watch | Miyota 9039 Premium Automatic | Record label is the hour hand | Tonearm is the minute hand | Center disc is the second | Red-Black-Silver (RBS) | Pre-order (Shipping end of 2026)",
+      "series": "VINTAGE RECORD",
+      "addedAt": "2026-09-22",
+      "notes": "PRE-ORDER (shipping end of 2026)"
     }
   ],
-  "lastUpdated": "2026-09-22T13:00:00.000Z"
+  "lastUpdated": "2026-09-22T13:05:00.000Z"
 }
