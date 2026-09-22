@@ -1313,7 +1313,18 @@
       "description": "36mm | VH31/VH60 sweep seconds quartz movement | Mineral Crystal Bubble Convex Glass with Blue Light AG Coating | Multiple dial colors: White, Blue, Desert Yellow | 316L SS Bracelet | 10 ATM (100m) | Screw-down Crown",
       "series": "AD2030",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "casio-mtp-sn4kd-2a",
+      "name": "CASIO MTP-SN4KD-2A",
+      "brand": "CASIO",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-sn4kd-2a/assets/MTP-SN4KD-2A.png",
+      "link": "https://www.casio.com/in/watches/casio/product.MTP-SN4KD-2A/",
+      "description": "Casio Classic | MTP-SN4KD-2A | Round dial | Stainless steel strap",
+      "series": "CLASSIC",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T08:30:00.000Z"
+  "lastUpdated": "2026-09-22T12:45:00.000Z"
 }
