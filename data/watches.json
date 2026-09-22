@@ -1505,7 +1505,29 @@
       "description": "Kosso natural grain wood case and strap | Japanese 6P20 Quartz Movement | 43mm | Rust dial with black/white hands | Cascade lock | Butterfly clasp | Splash proof | Weighs under 80g | Comes in wooden box | 1 year warranty",
       "series": "WITTY WALNUT",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "elfen-wengen-grail",
+      "name": "ELFEN WENGEN GRAIL",
+      "brand": "ELFEN",
+      "price": null,
+      "image": null,
+      "link": "https://elfenwatches.com/products/the-wengen-grail",
+      "description": "Elfen Wengen Grail | Wooden watch | Kosso wood | Japanese movement | Under 80g | 1 year warranty",
+      "series": "WENGEN GRAIL",
+      "addedAt": "2026-09-22"
+    },
+    {
+      "id": "elfen-aston-dark",
+      "name": "ELFEN ASTON DARK",
+      "brand": "ELFEN",
+      "price": null,
+      "image": null,
+      "link": "https://elfenwatches.com/products/aston-dark",
+      "description": "Elfen Aston Dark | Wooden watch | Dark finish | Japanese movement | Under 80g | 1 year warranty",
+      "series": "ASTON DARK",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T13:40:00.000Z"
+  "lastUpdated": "2026-09-22T13:42:00.000Z"
 }
