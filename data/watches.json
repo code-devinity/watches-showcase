@@ -1225,7 +1225,18 @@
       "description": "Citizen Eco-Drive Chronograph | Round | Green dial",
       "series": "ECODRIVE CHRONOGRAPH",
       "addedAt": "2026-09-21"
+    },
+    {
+      "id": "citizen-tsuyosa-nk5010-51l",
+      "name": "CITIZEN TSUYOSA NK5010-51L",
+      "brand": "CITIZEN",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwdcba0235/images/Helios_Website_Main/Catalog/citizen/NK5010-51L_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/citizen-men-tsuyosa-small-second-round-blue-watches-nk501051l.html",
+      "description": "Citizen Tsuyosa | Small seconds | Round | Blue dial",
+      "series": "TSUYOSA",
+      "addedAt": "2026-09-21"
     }
   ],
-  "lastUpdated": "2026-09-21T13:15:00.000Z"
+  "lastUpdated": "2026-09-21T13:20:00.000Z"
 }
