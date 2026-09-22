@@ -1648,7 +1648,29 @@
       "description": "Curved sapphire ball crystal (Saturn-inspired) | Magnetically guided steel bearing hour indicator | Swivel wheel minute display | Soft matte finish | Sculptural design | 3 ATM (splash resistant)",
       "series": "SATURN",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "oblik-velocity-silver",
+      "name": "OBLIK VELOCITY SILVER",
+      "brand": "OBLIK",
+      "price": 27000,
+      "image": null,
+      "link": "https://www.rugsac.co.in/products/velocity",
+      "description": "Skeleton dial inspired by sports car rims | Miyota automatic movement | Screwed down exhibition caseback | High-grade materials | Silver finish",
+      "series": "VELOCITY",
+      "addedAt": "2026-09-22"
+    },
+    {
+      "id": "extreme-nebula",
+      "name": "EXTREME NEBULA",
+      "brand": "EXTREME",
+      "price": 11990,
+      "image": null,
+      "link": "https://www.rugsac.co.in/products/nebula",
+      "description": "Traditional hour hand + magnetically guided steel bearing for minutes | Matte finish | Cosmic Blue and Misty Grey variants | 3 ATM (splash resistant)",
+      "series": "NEBULA",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T14:16:00.000Z"
+  "lastUpdated": "2026-09-22T14:17:00.000Z"
 }
