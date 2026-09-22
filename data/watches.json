@@ -1170,7 +1170,62 @@
       "description": "Edge Wine Ceramic | Round | Maroon dial | Ceramic",
       "series": "WINE",
       "addedAt": "2026-09-21"
+    },
+    {
+      "id": "movado-bold-3600307",
+      "name": "MOVADO BOLD 3600307",
+      "brand": "MOVADO",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw9d07e125/images/Helios_Website_Main/Catalog/movado/3600307_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/movado-men-bold-round-black-watches-3600307.html",
+      "description": "Movado Bold | Round | Black dial",
+      "series": "BOLD",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "tissot-pr100-t1504101135100",
+      "name": "TISSOT PR 100 T1504101135100",
+      "brand": "TISSOT",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw7895d15f/images/Helios_Website_Main/Catalog/tissot/T1504101135100_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/tissot-men-pr-100-round-blue-watches-t1504101135100.html",
+      "description": "Tissot PR 100 | Round | Blue dial",
+      "series": "PR 100",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "tissot-pr100-t1504171135100",
+      "name": "TISSOT PR 100 T1504171135100",
+      "brand": "TISSOT",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw0c6db651/images/Helios_Website_Main/Catalog/tissot/T1504171135100_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/tissot-men-pr-100-round-blue-watches-t1504171135100.html",
+      "description": "Tissot PR 100 | Round | Blue dial",
+      "series": "PR 100",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "citizen-ecodrive-at2577-57l",
+      "name": "CITIZEN ECODRIVE CHRONOGRAPH AT2577-57L",
+      "brand": "CITIZEN",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw22a9ef6f/images/Helios_Website_Main/Catalog/citizen/AT2577-57L_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/citizen-men-ecodrive-chronograph-round-blue-watches-at257757l.html",
+      "description": "Citizen Eco-Drive Chronograph | Round | Blue dial",
+      "series": "ECODRIVE CHRONOGRAPH",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "citizen-ecodrive-at2576-50x",
+      "name": "CITIZEN ECODRIVE CHRONOGRAPH AT2576-50X",
+      "brand": "CITIZEN",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw86c31b1a/images/Helios_Website_Main/Catalog/citizen/AT2576-50X_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/citizen-men-ecodrive-chronograph-round-green-watches-at257650x.html",
+      "description": "Citizen Eco-Drive Chronograph | Round | Green dial",
+      "series": "ECODRIVE CHRONOGRAPH",
+      "addedAt": "2026-09-21"
     }
   ],
-  "lastUpdated": "2026-09-21T13:00:00.000Z"
+  "lastUpdated": "2026-09-21T13:15:00.000Z"
 }
