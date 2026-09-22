@@ -1324,7 +1324,18 @@
       "description": "Casio Classic | MTP-SN4KD-2A | Round dial | Stainless steel strap",
       "series": "CLASSIC",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "casio-mtp-vd03b-2a",
+      "name": "CASIO MTP-VD03B-2A",
+      "brand": "CASIO",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/mtp-vd03b-2a/assets/MTP-VD03B-2AU.png",
+      "link": "https://www.casio.com/in/watches/casio/product.MTP-VD03B-2A/",
+      "description": "Casio | MTP-VD03B-2A | Round dial | Black",
+      "series": "CLASSIC",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T12:45:00.000Z"
+  "lastUpdated": "2026-09-22T12:50:00.000Z"
 }
