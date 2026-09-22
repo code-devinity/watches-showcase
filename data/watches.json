@@ -1302,7 +1302,18 @@
       "description": "42mm Bradner Automatic | Petrol Black dial | Solid Stainless Steel Bracelet | SP-5062-11",
       "series": "BRADNER",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "addiesdive-ad2030",
+      "name": "ADDIESDIVE AD2030",
+      "brand": "ADDIESDIVE",
+      "price": null,
+      "image": "https://www.addiesdivewatches.com/cdn/shop/files/1_6f7d33ce-0bef-4256-8d70-22b6361071eb_1400x.jpg?v=1768547042",
+      "link": "https://www.addiesdivewatches.com/products/new-addiesdive-36mm-quartz-watch-vh31-movement-ad2030",
+      "description": "36mm | VH31/VH60 sweep seconds quartz movement | Mineral Crystal Bubble Convex Glass with Blue Light AG Coating | Multiple dial colors: White, Blue, Desert Yellow | 316L SS Bracelet | 10 ATM (100m) | Screw-down Crown",
+      "series": "AD2030",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T05:10:00.000Z"
+  "lastUpdated": "2026-09-22T08:30:00.000Z"
 }
