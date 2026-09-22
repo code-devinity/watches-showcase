@@ -1692,7 +1692,40 @@
       "description": "Maxima Apex | MF Black | Gents watch | 74492LMGB",
       "series": "APEX",
       "addedAt": "2026-09-23"
+    },
+    {
+      "id": "maxima-72141cmgt",
+      "name": "MAXIMA 72141CMGT",
+      "brand": "MAXIMA",
+      "price": null,
+      "image": null,
+      "link": "https://www.maximawatches.com/products/maxima-analog-watch-for-men-72141cmgt/",
+      "description": "Maxima Analog Watch for Men | 72141CMGT",
+      "series": "MAXIMA",
+      "addedAt": "2026-09-23"
+    },
+    {
+      "id": "maxima-apex-mf-73021cmgi",
+      "name": "MAXIMA APEX MF 73021CMGI",
+      "brand": "MAXIMA",
+      "price": null,
+      "image": null,
+      "link": "https://www.maximawatches.com/products/mf-apex-gents-73021cmgi/",
+      "description": "Maxima Apex MF Gents | 73021CMGI",
+      "series": "APEX",
+      "addedAt": "2026-09-23"
+    },
+    {
+      "id": "maxima-attivo-67160lmgr",
+      "name": "MAXIMA ATTIVO 67160LMGR",
+      "brand": "MAXIMA",
+      "price": null,
+      "image": null,
+      "link": "https://www.maximawatches.com/products/maxima-attivo-men-silver-dial-analogue-watch-67160lmgr/",
+      "description": "Maxima Attivo | Silver dial analog | Men's watch | 67160LMGR",
+      "series": "ATTIVO",
+      "addedAt": "2026-09-23"
     }
   ],
-  "lastUpdated": "2026-09-23T03:16:00.000Z"
+  "lastUpdated": "2026-09-23T03:20:00.000Z"
 }
