@@ -1538,7 +1538,18 @@
       "description": "Elfen 7 Black | Wooden watch | Black finish | Japanese movement | Under 80g | 1 year warranty",
       "series": "7 BLACK",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "elfen-lost-wade",
+      "name": "ELFEN LOST WADE",
+      "brand": "ELFEN",
+      "price": null,
+      "image": null,
+      "link": "https://elfenwatches.com/products/lost-wade",
+      "description": "Elfen Lost Wade | Wooden watch | Japanese movement | Under 80g | 1 year warranty",
+      "series": "LOST WADE",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T13:43:00.000Z"
+  "lastUpdated": "2026-09-22T13:44:00.000Z"
 }
