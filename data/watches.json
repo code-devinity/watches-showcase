@@ -1368,7 +1368,18 @@
       "description": "Vostok Prestige | 581096 | Mechanical watch | From Etsy",
       "series": "PRESTIGE",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "narion-bihango",
+      "name": "NARION BIHANGO",
+      "brand": "NARION",
+      "price": null,
+      "image": null,
+      "link": "https://narionwatch.com/product/bihango/",
+      "description": "Hand-painted bird artwork inspired by Midnapore pattachitra | Miyota 2035 Quartz | 40mm chromium-plated brass alloy case | Handmade leather strap | Butterfly clasp | Limited handmade production | Each piece unique",
+      "series": "BIHANGO",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T14:00:00.000Z"
+  "lastUpdated": "2026-09-22T12:30:00.000Z"
 }
