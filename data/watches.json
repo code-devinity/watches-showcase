@@ -1494,7 +1494,18 @@
       "description": "Limited 500pcs | 41.2mm 316L SS with DLC coating | Miyota 9015 (42hr power reserve) | Sapphire crystal with AR coating | Exhibition sapphire caseback | Swiss Super-LumiNova dial | Rotating disc/time-telling concept | 20-18mm leather strap with SS butterfly buckle | 5 ATM",
       "series": "ORBITAL",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "elfen-witty-walnut",
+      "name": "ELFEN WITTY WALNUT TWW1",
+      "brand": "ELFEN",
+      "price": 7999,
+      "image": null,
+      "link": "https://elfenwatches.com/products/the-witty-walnut-1",
+      "description": "Kosso natural grain wood case and strap | Japanese 6P20 Quartz Movement | 43mm | Rust dial with black/white hands | Cascade lock | Butterfly clasp | Splash proof | Weighs under 80g | Comes in wooden box | 1 year warranty",
+      "series": "WITTY WALNUT",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T13:35:00.000Z"
+  "lastUpdated": "2026-09-22T13:40:00.000Z"
 }
