@@ -1357,7 +1357,18 @@
       "description": "Casio Edifice | EQB-1300D-2A | Round dial | Stainless steel",
       "series": "EDIFICE",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "vostok-prestige-581096",
+      "name": "VOSTOK PRESTIGE 581096",
+      "brand": "VOSTOK",
+      "price": null,
+      "image": null,
+      "link": "https://www.etsy.com/in-en/listing/1155189983/vostok-prestige-581096-mechanical-watch",
+      "description": "Vostok Prestige | 581096 | Mechanical watch | From Etsy",
+      "series": "PRESTIGE",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T13:00:00.000Z"
+  "lastUpdated": "2026-09-22T14:00:00.000Z"
 }
