@@ -1335,7 +1335,18 @@
       "description": "Casio | MTP-VD03B-2A | Round dial | Black",
       "series": "CLASSIC",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "casio-mtp-1375d-7av",
+      "name": "CASIO MTP-1375D-7AV",
+      "brand": "CASIO",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/M/MT/MTP/MTP-1375D-7AV/assets/MTP-1375D-7AV_01.jpg",
+      "link": "https://www.casio.com/in/watches/casio/product.MTP-1375D-7AV/",
+      "description": "Casio | MTP-1375D-7AV | Round dial | Stainless steel",
+      "series": "CLASSIC",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T12:50:00.000Z"
+  "lastUpdated": "2026-09-22T12:55:00.000Z"
 }
