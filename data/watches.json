@@ -1626,6 +1626,17 @@
       "description": "Jumping hour complication | Inspired by revving engine rhythm | 316L stainless steel | Multiple colors: Black, Orange | Optional extra orange strap (+\u20b92,000) | Instrument-inspired dashboard design",
       "series": "IGNITION",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "extreme-torque",
+      "name": "EXTREME TORQUE",
+      "brand": "EXTREME",
+      "price": 11990,
+      "image": null,
+      "link": "https://www.rugsac.co.in/products/torque",
+      "description": "Jumping hour complication | Motorsports odometer-inspired | Drive Button + Shift Button controls | 316L stainless steel | Buttoned crystal | Grey and Orange variants | Precision instrument design",
+      "series": "TORQUE",
+      "addedAt": "2026-09-22"
     }
   ],
   "lastUpdated": "2026-09-22T14:15:00.000Z"
