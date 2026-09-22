@@ -449,6 +449,57 @@
       text-decoration: underline;
     }
 
+    /* Heart button */
+    .heart-btn {
+      position: absolute;
+      top: 0.75rem;
+      right: 0.75rem;
+      background: rgba(0, 0, 0, 0.6);
+      border: none;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s;
+      z-index: 10;
+    }
+
+    .heart-btn:hover {
+      background: rgba(0, 0, 0, 0.8);
+      transform: scale(1.1);
+    }
+
+    .heart-btn svg {
+      width: 18px;
+      height: 18px;
+      fill: #555;
+      stroke: #555;
+      transition: all 0.2s;
+    }
+
+    .heart-btn.hearted svg {
+      fill: #e63946;
+      stroke: #e63946;
+    }
+
+    .heart-btn.hearted {
+      background: rgba(230, 57, 70, 0.15);
+    }
+
+    .watch-card {
+      position: relative;
+    }
+
+    /* Favorites section */
+    .favorites-section {
+      margin-bottom: 1.5rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #1f1f1f;
+    }
+
     /* Mobile */
     @media (max-width: 768px) {
       .main {
@@ -485,6 +536,20 @@
       <div class="filter-section">
         <label class="filter-label">Search</label>
         <input type="text" class="search-box" id="searchInput" placeholder="Search watches...">
+      </div>
+
+      <!-- Favorites Filter -->
+      <div class="filter-section favorites-section">
+        <label class="filter-label">My Collection</label>
+        <label class="checkbox-item">
+          <input type="checkbox" id="showHearted">
+          <span style="display: flex; align-items: center; gap: 0.35rem;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#e63946" stroke="#e63946" stroke-width="2">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+            Hearted only
+          </span>
+        </label>
       </div>
 
       <!-- Brand Filter -->
@@ -567,6 +632,59 @@
   <script>
     let watches = [];
     let filteredWatches = [];
+    const HEARTED_KEY = 'watches_showcase_hearted';
+
+    // Hearted management
+    function getHearted() {
+      try {
+        return JSON.parse(localStorage.getItem(HEARTED_KEY) || '[]');
+      } catch {
+        return [];
+      }
+    }
+
+    function saveHearted(list) {
+      localStorage.setItem(HEARTED_KEY, JSON.stringify(list));
+    }
+
+    function isHearted(id) {
+      return getHearted().includes(id);
+    }
+
+    function toggleHeart(event, id) {
+      event.preventDefault();
+      event.stopPropagation();
+      let hearted = getHearted();
+      if (hearted.includes(id)) {
+        hearted = hearted.filter(h => h !== id);
+      } else {
+        hearted.push(id);
+      }
+      saveHearted(hearted);
+      renderWatches(filteredWatches);
+      updateHeartedCount();
+    }
+
+    function updateHeartedCount() {
+      const count = getHearted().length;
+      const existing = document.getElementById('hearted-count');
+      if (count > 0) {
+        if (!existing) {
+          const el = document.createElement('span');
+          el.id = 'hearted-count';
+          el.className = 'count';
+          el.style.background = '#1a1a1a';
+          el.style.border = '1px solid #e63946';
+          el.style.color = '#e63946';
+          el.textContent = `❤️ ${count}`;
+          document.querySelector('.header-text').appendChild(el);
+        } else {
+          existing.textContent = `❤️ ${count}`;
+        }
+      } else if (existing) {
+        existing.remove();
+      }
+    }
 
     // Toggle Sidebar
     function toggleSidebar() {
@@ -589,6 +707,7 @@
         watches = data.watches;
         initFilters();
         applyFilters();
+        updateHeartedCount();
       } catch (error) {
         console.error('Failed to load watches:', error);
       }
@@ -624,6 +743,7 @@
       document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 200));
       document.getElementById('minPrice').addEventListener('input', debounce(applyFilters, 300));
       document.getElementById('maxPrice').addEventListener('input', debounce(applyFilters, 300));
+      document.getElementById('showHearted').addEventListener('change', applyFilters);
     }
 
     // Apply filters
@@ -634,6 +754,8 @@
       const selectedBrands = [...document.querySelectorAll('#brandFilters input:checked')].map(cb => cb.value);
       const selectedSeries = [...document.querySelectorAll('#seriesFilters input:checked')].map(cb => cb.value);
       const hasPriceFilter = document.getElementById('minPrice').value || document.getElementById('maxPrice').value;
+      const showHeartedOnly = document.getElementById('showHearted').checked;
+      const hearted = getHearted();
 
       filteredWatches = watches.filter(watch => {
         const matchesSearch = !searchTerm || 
@@ -657,7 +779,10 @@
           }
         }
 
-        return matchesSearch && matchesBrand && matchesSeries && matchesPrice;
+        // Hearted filter
+        const matchesHearted = !showHeartedOnly || hearted.includes(watch.id);
+
+        return matchesSearch && matchesBrand && matchesSeries && matchesPrice && matchesHearted;
       });
 
       renderWatches(filteredWatches);
@@ -701,6 +826,11 @@
           : `<div class="watch-price on-request">Price on request</div>`;
 
         card.innerHTML = `
+          <button class="heart-btn ${isHearted(watch.id) ? 'hearted' : ''}" onclick="toggleHeart(event, '${watch.id}')" title="${isHearted(watch.id) ? 'Remove from hearted' : 'Add to hearted'}">
+            <svg viewBox="0 0 24 24" stroke-width="2">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+            </svg>
+          </button>
           <div class="watch-content">
             ${watch.image ? `
               <div class="watch-image">
