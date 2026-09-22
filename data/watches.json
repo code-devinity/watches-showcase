@@ -1437,7 +1437,30 @@
       "description": "36.5mm 316L Stainless Steel | Miyota 8315 Automatic | 60 hours power reserve | High-domed hesalite glass | Brushed and sandy dial | 5 ATM (50m) | Multiple strap options: Navy blue stitched, Saffiano black, green, lion, beads of rice",
       "series": "HMS 003",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "kala-warli-terracotta",
+      "name": "KALA WARLI ART EDITION TERRACOTTA",
+      "brand": "KALA",
+      "price": 6999,
+      "image": "https://cdn.shopify.com/s/files/1/0711/7347/2316/files/KalaWatchCo_Warli_Terracotta_Front-scaled-e1762499209932.jpg?v=1775117439",
+      "link": "https://kalawatches.com/products/warli-art-edition-terracotta",
+      "description": "3-layer dial inspired by Warli art | TMI VK64 (3 year battery) | 316L SS | Domed mineral glass vintage look | Etched Warli peacock on screw-down caseback | Multiple strap options",
+      "series": "WARLI ART EDITION",
+      "addedAt": "2026-09-22"
+    },
+    {
+      "id": "kala-warli-indus",
+      "name": "KALA WARLI ART EDITION INDUS",
+      "brand": "KALA",
+      "price": 8499,
+      "image": "https://cdn.shopify.com/s/files/1/0711/7347/2316/files/KalaWatchCo_Warli_Indus_Front_a9ebcd34-3f14-4f7e-90c8-5e5a785a2364.jpg?v=1778764091",
+      "link": "https://kalawatches.com/products/warli-art-edition-indus",
+      "description": "Blue and cyan colourway | Limited to 100 pieces (individually numbered) | Warli cow illustration on caseback | 2 straps: deerskin leather + Warli Art NATO | Exclusive packaging",
+      "series": "WARLI ART EDITION",
+      "addedAt": "2026-09-22",
+      "notes": "SOLD OUT"
     }
   ],
-  "lastUpdated": "2026-09-22T13:05:00.000Z"
+  "lastUpdated": "2026-09-22T13:10:00.000Z"
 }
