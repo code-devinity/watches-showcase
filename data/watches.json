@@ -1615,7 +1615,18 @@
       "description": "India's prime meridian watch | Swiss Ronda 515.24H | IST GMT +5:30 offset display | Hours, Minutes, IST Hands, Date | Stainless Steel case | Sapphire Crystal with AR Coating | 20mm SS bracelet | 5 ATM (50m)",
       "series": "AVANTI",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "extreme-ignition",
+      "name": "EXTREME IGNITION",
+      "brand": "EXTREME",
+      "price": 12990,
+      "image": null,
+      "link": "https://www.rugsac.co.in/products/ignition",
+      "description": "Jumping hour complication | Inspired by revving engine rhythm | 316L stainless steel | Multiple colors: Black, Orange | Optional extra orange strap (+\u20b92,000) | Instrument-inspired dashboard design",
+      "series": "IGNITION",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T14:10:00.000Z"
+  "lastUpdated": "2026-09-22T14:15:00.000Z"
 }
