@@ -1346,7 +1346,18 @@
       "description": "Casio | MTP-1375D-7AV | Round dial | Stainless steel",
       "series": "CLASSIC",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "casio-edifice-eqb-1300d-2a",
+      "name": "CASIO EDIFICE EQB-1300D-2A",
+      "brand": "CASIO EDIFICE",
+      "price": null,
+      "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/E/EQ/EQB/eqb-1300d-2a/assets/EQB-1300D-2A.png",
+      "link": "https://www.casio.com/in/watches/edifice/product.EQB-1300D-2A/",
+      "description": "Casio Edifice | EQB-1300D-2A | Round dial | Stainless steel",
+      "series": "EDIFICE",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-22T12:55:00.000Z"
+  "lastUpdated": "2026-09-22T13:00:00.000Z"
 }
