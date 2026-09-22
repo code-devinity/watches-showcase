@@ -1390,7 +1390,31 @@
       "description": "1835 East India Company \u00bd Rupee coin embedded in oak wood case | Victorian era relic | Silver coin with Victoria's portrait | Oak wood craftsmanship | ANKA-C-1840EIC-1/2R-M-VIC-056 | Limited collectible",
       "series": "EAST INDIA CO.",
       "addedAt": "2026-09-22"
+    },
+    {
+      "id": "ovd-da-vinci-1452",
+      "name": "OVD DA VINCI 1452",
+      "brand": "OVD",
+      "price": null,
+      "image": null,
+      "link": "https://www.ovd.com.hk/product-page/da-vinci-1452-pre-order",
+      "description": "42mm Stainless steel case | Miyota 90S5 Japan movement | Handcrafted leather strap | Pre-order (Nov 2023)",
+      "series": "DA VINCI",
+      "addedAt": "2026-09-22",
+      "notes": "PRE-ORDER (2023)"
+    },
+    {
+      "id": "ovd-full-moon-m1-f01",
+      "name": "OVD FULL MOON M1/F01",
+      "brand": "OVD",
+      "price": null,
+      "image": null,
+      "link": "https://www.ovd.com.hk/product-page/full-moon-m1-f01-pre-order",
+      "description": "Stainless steel case | Miyota 9039 Japan movement | Genuine leather strap | Stainless steel caseback",
+      "series": "FULL MOON",
+      "addedAt": "2026-09-22",
+      "notes": "PRE-ORDER"
     }
   ],
-  "lastUpdated": "2026-09-22T12:45:00.000Z"
+  "lastUpdated": "2026-09-22T13:00:00.000Z"
 }
