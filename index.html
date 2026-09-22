@@ -493,6 +493,82 @@
       position: relative;
     }
 
+    /* Image Modal */
+    .modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.92);
+      z-index: 1000;
+      align-items: center;
+      justify-content: center;
+      cursor: zoom-out;
+    }
+
+    .modal.open {
+      display: flex;
+    }
+
+    .modal img {
+      max-width: 90vw;
+      max-height: 90vh;
+      object-fit: contain;
+      border-radius: 8px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+    }
+
+    .modal-close {
+      position: absolute;
+      top: 1.5rem;
+      right: 1.5rem;
+      background: rgba(255, 255, 255, 0.1);
+      border: none;
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      transition: background 0.2s;
+    }
+
+    .modal-close:hover {
+      background: rgba(255, 255, 255, 0.2);
+    }
+
+    .modal-info {
+      position: absolute;
+      bottom: 1.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      background: rgba(0, 0, 0, 0.7);
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      color: #fff;
+      font-size: 0.9rem;
+      text-align: center;
+      max-width: 90vw;
+    }
+
+    .modal-info .watch-name {
+      font-weight: 600;
+      margin-bottom: 0.25rem;
+    }
+
+    .modal-info .watch-price {
+      color: #0066ff;
+    }
+
+    /* Image clickable */
+    .watch-image {
+      cursor: zoom-in;
+    }
+
     /* Favorites section */
     .favorites-section {
       margin-bottom: 1.5rem;
@@ -518,6 +594,18 @@
 </head>
 <body>
   <div class="overlay" id="overlay"></div>
+
+  <!-- Image Modal -->
+  <div class="modal" id="imageModal" onclick="closeModal(event)">
+    <button class="modal-close" onclick="closeModal(event)">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <line x1="18" y1="6" x2="6" y2="18"/>
+        <line x1="6" y1="6" x2="18" y2="18"/>
+      </svg>
+    </button>
+    <img id="modalImage" src="" alt="">
+    <div class="modal-info" id="modalInfo"></div>
+  </div>
 
   <div class="app">
     <!-- Sidebar -->
@@ -686,6 +774,39 @@
       }
     }
 
+    // Image Modal
+    function openModal(watch) {
+      const modal = document.getElementById('imageModal');
+      const img = document.getElementById('modalImage');
+      const info = document.getElementById('modalInfo');
+      img.src = watch.image;
+      img.alt = watch.name;
+      info.innerHTML = `
+        <div class="watch-name">${escapeHtml(watch.name)}</div>
+        ${watch.price ? `<div class="watch-price">₹${watch.price.toLocaleString('en-IN')}</div>` : ''}
+      `;
+      modal.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeModal(event) {
+      event.stopPropagation();
+      const modal = document.getElementById('imageModal');
+      modal.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    // Close modal on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        const modal = document.getElementById('imageModal');
+        if (modal.classList.contains('open')) {
+          modal.classList.remove('open');
+          document.body.style.overflow = '';
+        }
+      }
+    });
+
     // Toggle Sidebar
     function toggleSidebar() {
       const sidebar = document.getElementById('sidebar');
@@ -833,7 +954,7 @@
           </button>
           <div class="watch-content">
             ${watch.image ? `
-              <div class="watch-image">
+              <div class="watch-image" onclick="openModal(${JSON.stringify(watch).replace(/'/g, "&#39;")})">
                 <img src="${watch.image}" alt="${escapeHtml(watch.name)}" onerror="this.style.display='none'; this.parentElement.innerHTML='<span class=\\'watch-image-placeholder\\'>⌚</span>'">
               </div>
             ` : `
