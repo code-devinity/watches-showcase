@@ -1115,7 +1115,62 @@
       "description": "Sonata Vector | Quartz Analog | Black dial | Silver stainless steel strap",
       "series": "VECTOR",
       "addedAt": "2026-09-21"
+    },
+    {
+      "id": "tissot-pr100-t1502103329100",
+      "name": "TISSOT PR 100 T1502103329100",
+      "brand": "TISSOT",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw49fffd7d/images/Helios_Website_Main/Catalog/tissot/T1502103329100_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/tissot-unisex-pr-100-round-brown-watches-t1502103329100.html",
+      "description": "Tissot PR 100 | Unisex | Round | Brown dial | Brown strap",
+      "series": "PR 100",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "tissot-ballade-t1564101135100",
+      "name": "TISSOT BALLADE T1564101135100",
+      "brand": "TISSOT",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw583803cf/images/Helios_Website_Main/Catalog/tissot/T1564101135100_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/tissot-men-ballade-round-blue-watches-t1564101135100.html",
+      "description": "Tissot Ballade | Round | Blue dial",
+      "series": "BALLADE",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "edge-whimsey-10056qm02",
+      "name": "EDGE WHIMSEY 10056QM02",
+      "brand": "EDGE",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dweda5ca89/images/Helios_Website_Main/Catalog/edge/10056QM02_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/edge-men-edge-whimsey-tonneau-blue-watches-10056qm02.html",
+      "description": "Edge Whimsey | Tonneau case | Blue dial",
+      "series": "WHIMSEY",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "citizen-an8223-54x",
+      "name": "CITIZEN CHRONOGRAPH AN8223-54X",
+      "brand": "CITIZEN",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw4f7384e7/images/Helios_Website_Main/Catalog/citizen/AN8223-54X_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/citizen-men-quartz-chronograph-round-green-watches-an822354x.html",
+      "description": "Citizen Quartz Chronograph | Round | Green dial",
+      "series": "CHRONOGRAPH",
+      "addedAt": "2026-09-21"
+    },
+    {
+      "id": "edge-wine-1696qc19",
+      "name": "EDGE WINE CERAMIC 1696QC19",
+      "brand": "EDGE",
+      "price": null,
+      "image": "https://www.helioswatchstore.com/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dw89ef81a6/images/Helios_Website_Main/Catalog/edge/1696QC19_1.jpg?sw=800&sh=1000",
+      "link": "https://www.helioswatchstore.com/edge-men-wine-ceramic-round-maroon-watches-1696qc19.html",
+      "description": "Edge Wine Ceramic | Round | Maroon dial | Ceramic",
+      "series": "WINE",
+      "addedAt": "2026-09-21"
     }
   ],
-  "lastUpdated": "2026-09-21T07:30:00.000Z"
+  "lastUpdated": "2026-09-21T13:00:00.000Z"
 }
