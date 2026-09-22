@@ -1236,7 +1236,18 @@
       "description": "Citizen Tsuyosa | Small seconds | Round | Blue dial",
       "series": "TSUYOSA",
       "addedAt": "2026-09-21"
+    },
+    {
+      "id": "addieskin-k006",
+      "name": "ADDIESKIN K006 CRYSTALLIZED TITANIUM DIAL",
+      "brand": "ADDIESKIN",
+      "price": null,
+      "image": "https://www.addiesdivewatches.com/cdn/shop/files/1_49ca61cb-8e68-4d27-9896-fa7637ec24d9_1400x.jpg?v=1776925327",
+      "link": "https://www.addiesdivewatches.com/products/addieskin-40mm-crystallized-titanium-dial-miyota-9015-luxury-automatic-watch-k006",
+      "description": "40mm Crystallized Titanium Dial | Miyota 9015 Automatic | BGW9 Super Luminous | Sapphire Crystal | 316L SS Bracelet | 20 ATM (200m) | 40mm | 11mm thick | Multiple dial colors: Deep cobalt blue, light lake blue, teal grey",
+      "series": "K006",
+      "addedAt": "2026-09-22"
     }
   ],
-  "lastUpdated": "2026-09-21T13:20:00.000Z"
+  "lastUpdated": "2026-09-22T04:55:00.000Z"
 }
