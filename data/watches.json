@@ -1450,18 +1450,6 @@
       "addedAt": "2026-09-22"
     },
     {
-      "id": "kala-warli-indus",
-      "name": "KALA WARLI ART EDITION INDUS",
-      "brand": "KALA",
-      "price": 8499,
-      "image": "https://cdn.shopify.com/s/files/1/0711/7347/2316/files/KalaWatchCo_Warli_Indus_Front_a9ebcd34-3f14-4f7e-90c8-5e5a785a2364.jpg?v=1778764091",
-      "link": "https://kalawatches.com/products/warli-art-edition-indus",
-      "description": "Blue and cyan colourway | Limited to 100 pieces (individually numbered) | Warli cow illustration on caseback | 2 straps: deerskin leather + Warli Art NATO | Exclusive packaging",
-      "series": "WARLI ART EDITION",
-      "addedAt": "2026-09-22",
-      "notes": "SOLD OUT"
-    },
-    {
       "id": "coromandel-bhoomi-ii",
       "name": "COROMANDEL BHOOMI II",
       "brand": "COROMANDEL WATCH CO",
@@ -1725,7 +1713,18 @@
       "description": "Maxima Attivo | Silver dial analog | Men's watch | 67160LMGR",
       "series": "ATTIVO",
       "addedAt": "2026-09-23"
+    },
+    {
+      "id": "verte-urbn",
+      "name": "VERTE URBN",
+      "brand": "VERTE",
+      "price": 5499,
+      "image": "https://cdn.shopify.com/s/files/1/0770/2383/8513/files/2.webp?v=1742454868",
+      "link": "https://verte.co.in/products/verte-urbn-quartzwatch",
+      "description": "5-disc time display mechanism | Flagship Timekeeper Edition | Mechanical ingenuity | Bold precision design",
+      "series": "URBN",
+      "addedAt": "2026-09-23"
     }
   ],
-  "lastUpdated": "2026-09-23T03:20:00.000Z"
+  "lastUpdated": "2026-09-23T03:30:00.000Z"
 }
