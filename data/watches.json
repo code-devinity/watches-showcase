@@ -2034,7 +2034,18 @@
       "description": "Galaxy Majestic Classic | Rich brown dial with Roman numerals and minute markers | 39mm round design | Silver-tone stainless steel case and bracelet | Folding clasp | 3D crystal | Quartz mechanism",
       "series": "MAJESTIC",
       "addedAt": "2026-10-14"
+    },
+    {
+      "id": "diollo-lunar-20-emerald-green",
+      "name": "DIOLLO LUNAR 2.0 EMERALD GREEN",
+      "brand": "DIOLLO",
+      "price": 8599,
+      "image": null,
+      "link": "https://diollo.in/products/diollo-lunar-2-0-emerald-green-elegant-dual-tone",
+      "description": "Lunar 2.0 | Stardust texture dial (emerald green) | Japanese Miyota 8215 automatic (21 jewels, 21,600 vph) | Sapphire crystal with date window | Lunar embossed caseback | 1 year warranty (lifetime option) | Dual tone",
+      "series": "LUNAR 2.0",
+      "addedAt": "2026-10-14"
     }
   ],
-  "lastUpdated": "2026-10-14T08:30:00.000Z"
+  "lastUpdated": "2026-10-14T20:05:00.000Z"
 }
