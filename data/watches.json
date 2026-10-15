@@ -3087,6 +3087,23 @@
         "Dress"
       ],
       "addedAt": "2026-10-15"
+    },
+    {
+      "id": "ahmedabad-watch-karnavati",
+      "name": "AHMEDABAD WATCH KARNAVATI FOUNDERS EDITION",
+      "brand": "AHMEDABAD WATCH CO",
+      "price": null,
+      "image": null,
+      "link": "https://www.ahmedabadwatch.com/karnavati",
+      "description": "Karnavati Founders Edition | Ahmedabad Watch Co. | Indian heritage timepiece | Based in Ahmedabad, Gujarat | Rooted in India's living heritage | Crafted to be worn, admired and passed down",
+      "series": "KARNAVATI",
+      "movement": "Unknown",
+      "dialSize": null,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "addedAt": "2026-10-15"
     }
   ],
   "lastUpdated": "2026-10-15T20:10:00.000Z"
