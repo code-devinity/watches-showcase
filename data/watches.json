@@ -14,7 +14,9 @@
       "watchType": [
         "Dive",
         "Smartwatch"
-      ]
+      ],
+      "dialSize": 51.0,
+      "limited": false
     },
     {
       "id": "efr-574dc-2av",
@@ -30,7 +32,9 @@
       "watchType": [
         "Dive",
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "eqs-940nl-1avdf",
@@ -45,7 +49,9 @@
       "movement": "Solar",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "ecb-40np-1a",
@@ -61,7 +67,9 @@
       "watchType": [
         "Chronograph",
         "Smartwatch"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "ecb-2300d-1a",
@@ -77,7 +85,9 @@
       "watchType": [
         "Sports",
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "efr-539de-2av",
@@ -93,7 +103,9 @@
       "watchType": [
         "Dive",
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "eqs-940dc-1bv",
@@ -106,7 +118,9 @@
       "series": "EDIFICE",
       "addedAt": "2026-09-06",
       "movement": "Solar",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "efs-s570db-2a",
@@ -121,7 +135,9 @@
       "movement": "Solar",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "efr-556dc-1av",
@@ -137,7 +153,9 @@
       "watchType": [
         "Dive",
         "Chronograph"
-      ]
+      ],
+      "dialSize": 49.0,
+      "limited": false
     },
     {
       "id": "utp-1302pd-2a2v",
@@ -150,7 +168,9 @@
       "series": "CASIO",
       "addedAt": "2026-09-06",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "eqb-1300dc-3a",
@@ -165,7 +185,9 @@
       "movement": "Unknown",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "efr-539l-5av",
@@ -180,7 +202,9 @@
       "movement": "Unknown",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "efr-571d-1av",
@@ -196,7 +220,9 @@
       "watchType": [
         "Dive",
         "Chronograph"
-      ]
+      ],
+      "dialSize": 47.0,
+      "limited": false
     },
     {
       "id": "efv-650d-2bv",
@@ -211,7 +237,9 @@
       "movement": "Unknown",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "efr-526d-2av",
@@ -226,7 +254,9 @@
       "movement": "Unknown",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "argos-olympus-ii-celestial-zen",
@@ -241,7 +271,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": 39.0,
+      "limited": false
     },
     {
       "id": "argos-apollo-iii-constellation-blue",
@@ -254,7 +286,9 @@
       "series": "APOLLO III",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "argos-apollo-iii-wine-red",
@@ -267,7 +301,9 @@
       "series": "APOLLO III",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "argos-olympus-basil-green",
@@ -280,7 +316,9 @@
       "series": "OLYMPUS",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "argos-apollo-iii-onyx-black",
@@ -295,7 +333,9 @@
       "movement": "Automatic",
       "watchType": [
         "Limited Edition"
-      ]
+      ],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "timex-waterbury-39mm-blue",
@@ -311,7 +351,9 @@
       "watchType": [
         "Chronograph",
         "Heritage"
-      ]
+      ],
+      "dialSize": 39.0,
+      "limited": false
     },
     {
       "id": "timex-signio-black-47mm",
@@ -324,7 +366,9 @@
       "series": "SIGNIO",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "timex-signio-brown-42mm",
@@ -337,7 +381,9 @@
       "series": "SIGNIO",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "timex-signio-grey-42mm",
@@ -350,7 +396,9 @@
       "series": "SIGNIO",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "timex-signio-gunmetal-44mm",
@@ -363,7 +411,9 @@
       "series": "SIGNIO",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 44.0,
+      "limited": false
     },
     {
       "id": "timex-vector-grey-45mm",
@@ -378,7 +428,9 @@
       "movement": "Quartz",
       "watchType": [
         "Minimalist"
-      ]
+      ],
+      "dialSize": 45.0,
+      "limited": false
     },
     {
       "id": "qorum-equinox-skeleton-multi",
@@ -393,7 +445,9 @@
       "movement": "Unknown",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": 44.0,
+      "limited": false
     },
     {
       "id": "qorum-equinox-skeleton-auto",
@@ -409,7 +463,9 @@
       "watchType": [
         "Skeletal",
         "Minimalist"
-      ]
+      ],
+      "dialSize": 45.0,
+      "limited": false
     },
     {
       "id": "seiko-presage-sakura-ssa421j1",
@@ -422,7 +478,9 @@
       "series": "PRESAGE",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 41.8,
+      "limited": false
     },
     {
       "id": "titan-stellar-1890ql01",
@@ -435,7 +493,9 @@
       "series": "STELLAR",
       "addedAt": "2026-09-06",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "titan-micromotors-90181nm01",
@@ -448,7 +508,9 @@
       "series": "MICROMOTORS",
       "addedAt": "2026-09-06",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "titan-stellar-10028km01",
@@ -461,7 +523,9 @@
       "series": "STELLAR",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "titan-orbital-open-heart-90226sm01",
@@ -476,7 +540,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "mark-fairwhale-fw-6020-5",
@@ -489,7 +555,9 @@
       "series": "FAIRWHALE",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "alexandre-christie-8707mdbigdg",
@@ -504,7 +572,9 @@
       "movement": "Quartz",
       "watchType": [
         "Slim"
-      ]
+      ],
+      "dialSize": 41.0,
+      "limited": false
     },
     {
       "id": "seiko-coutura-ssc788p9",
@@ -517,7 +587,9 @@
       "series": "COUTURA",
       "addedAt": "2026-09-06",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "britime-962-l40406",
@@ -530,7 +602,9 @@
       "series": "BRITIME",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 33.0,
+      "limited": false
     },
     {
       "id": "sylvi-urbane-silver-blue",
@@ -543,7 +617,9 @@
       "series": "URBANE",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 41.0,
+      "limited": false
     },
     {
       "id": "sylvi-elegare-black-steel",
@@ -556,7 +632,9 @@
       "series": "ELEGARE",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "sylvi-urbane-moon-aqua-blue",
@@ -569,7 +647,9 @@
       "series": "URBANE MOON",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "sylvi-specter-blue-silver-steel",
@@ -582,7 +662,9 @@
       "series": "SPECTER",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "sylvi-professional-edge-blue-silver",
@@ -595,7 +677,9 @@
       "series": "PROFESSIONAL EDGE",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "sylvi-professional-edge-electric-blue",
@@ -608,7 +692,9 @@
       "series": "PROFESSIONAL EDGE",
       "addedAt": "2026-09-06",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "sylvi-core-x-all-black-steel",
@@ -623,7 +709,9 @@
       "movement": "Quartz",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sylvi-pulse-skeleton-all-black-steel",
@@ -638,7 +726,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sylvi-gravitas-black-silver-steel",
@@ -653,7 +743,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "meridian-lunar-slate-grey",
@@ -668,7 +760,9 @@
       "movement": "Unknown",
       "watchType": [
         "Dress"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "kala-warli-indus",
@@ -684,7 +778,9 @@
       "movement": "Unknown",
       "watchType": [
         "Limited Edition"
-      ]
+      ],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "horpa-c1-urbane-c1sg4506",
@@ -701,7 +797,9 @@
         "Chronograph",
         "Skeletal",
         "Minimalist"
-      ]
+      ],
+      "dialSize": 45.0,
+      "limited": false
     },
     {
       "id": "horpa-c1-phantom-c1sb4503",
@@ -718,7 +816,9 @@
         "Chronograph",
         "Skeletal",
         "Minimalist"
-      ]
+      ],
+      "dialSize": 45.0,
+      "limited": false
     },
     {
       "id": "horpa-charcoal-fgss40ch",
@@ -731,7 +831,9 @@
       "series": "FORGE",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "dwc-everest-iii-8215",
@@ -744,7 +846,9 @@
       "series": "EVEREST III",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "dwc-everest-iii-9015",
@@ -757,7 +861,9 @@
       "series": "EVEREST III",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "dwc-havelock-diveindia",
@@ -772,7 +878,9 @@
       "movement": "Unknown",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "verte-karbon",
@@ -785,7 +893,9 @@
       "series": "PROJECT KARBON",
       "addedAt": "2026-09-06",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "dwc-terra",
@@ -799,7 +909,9 @@
       "addedAt": "2026-09-06",
       "notes": "PRE-ORDERS CLOSED",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "jaipur-roman-baagh-steel-bw02",
@@ -812,7 +924,9 @@
       "series": "BAAGH",
       "addedAt": "2026-09-20",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 43.0,
+      "limited": false
     },
     {
       "id": "jaipur-devanagari-baagh-steel-bw03",
@@ -825,7 +939,9 @@
       "series": "BAAGH",
       "addedAt": "2026-09-20",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 43.0,
+      "limited": false
     },
     {
       "id": "sylvi-certified-imperfect-vanguard-black",
@@ -838,7 +954,9 @@
       "series": "CERTIFIED IMPERFECT",
       "addedAt": "2026-09-20",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sylvi-rig-one-o-one-rosegold-black",
@@ -851,7 +969,9 @@
       "series": "CERTIFIED IMPERFECT",
       "addedAt": "2026-09-20",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "orient-revival-world-map-ra-aa0e02e",
@@ -868,7 +988,9 @@
         "Dive",
         "Heritage",
         "Minimalist"
-      ]
+      ],
+      "dialSize": 43.5,
+      "limited": false
     },
     {
       "id": "orient-retro-future-camera-ra-ar0202e",
@@ -883,7 +1005,9 @@
       "movement": "Automatic",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": 40.8,
+      "limited": false
     },
     {
       "id": "orient-flusso-ra-bb0203l",
@@ -898,7 +1022,9 @@
       "movement": "Automatic",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 39.0,
+      "limited": false
     },
     {
       "id": "orient-diver-chrono-solar-ra-tx0210l",
@@ -914,7 +1040,9 @@
       "watchType": [
         "Dive",
         "Chronograph"
-      ]
+      ],
+      "dialSize": 42.8,
+      "limited": true
     },
     {
       "id": "orient-day-night-ra-as0008b",
@@ -927,7 +1055,9 @@
       "series": "DAY & NIGHT",
       "addedAt": "2026-09-20",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "orient-classic-day-night-ra-ak0806l",
@@ -942,7 +1072,9 @@
       "movement": "Automatic",
       "watchType": [
         "Minimalist"
-      ]
+      ],
+      "dialSize": 41.5,
+      "limited": false
     },
     {
       "id": "orient-stretto-semi-skeleton-ra-ar0001s",
@@ -957,7 +1089,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": 40.8,
+      "limited": false
     },
     {
       "id": "orient-stretto-semi-skeleton-ra-ar0012n",
@@ -972,7 +1106,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": 40.8,
+      "limited": true
     },
     {
       "id": "orient-stretto-semi-skeleton-ra-ar0009l",
@@ -987,7 +1123,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": 40.8,
+      "limited": false
     },
     {
       "id": "orient-stretto-day-night-ra-ak0311n",
@@ -1002,7 +1140,9 @@
       "movement": "Automatic",
       "watchType": [
         "Minimalist"
-      ]
+      ],
+      "dialSize": 41.5,
+      "limited": true
     },
     {
       "id": "sebastian-baori",
@@ -1017,7 +1157,9 @@
       "movement": "Mechanical",
       "watchType": [
         "Limited Edition"
-      ]
+      ],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "majestic-craftsmen-monarch-bronze",
@@ -1032,7 +1174,9 @@
       "movement": "Automatic",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "horpa-forge-ash-fgss40as",
@@ -1045,7 +1189,9 @@
       "series": "FORGE",
       "addedAt": "2026-09-20",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "horpa-c1-military-c1sg4507",
@@ -1062,7 +1208,9 @@
         "Chronograph",
         "Skeletal",
         "Minimalist"
-      ]
+      ],
+      "dialSize": 45.0,
+      "limited": false
     },
     {
       "id": "avarth-waqt",
@@ -1077,7 +1225,9 @@
       "movement": "Quartz",
       "watchType": [
         "GMT"
-      ]
+      ],
+      "dialSize": 43.0,
+      "limited": false
     },
     {
       "id": "mnmlst-phantom-2-nebula",
@@ -1091,7 +1241,9 @@
       "addedAt": "2026-09-20",
       "notes": "SOLD OUT",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 44.0,
+      "limited": false
     },
     {
       "id": "cypher-legacy-cognac",
@@ -1107,7 +1259,9 @@
       "movement": "Quartz",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": 40.0,
+      "limited": true
     },
     {
       "id": "cypher-aphelion",
@@ -1120,7 +1274,9 @@
       "series": "APHELION",
       "addedAt": "2026-09-20",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 38.0,
+      "limited": true
     },
     {
       "id": "czard-veni",
@@ -1136,7 +1292,9 @@
       "watchType": [
         "Chronograph",
         "Limited Edition"
-      ]
+      ],
+      "dialSize": 38.0,
+      "limited": true
     },
     {
       "id": "czard-lac-leman",
@@ -1151,7 +1309,9 @@
       "movement": "Unknown",
       "watchType": [
         "Limited Edition"
-      ]
+      ],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "muse-grandeur",
@@ -1166,7 +1326,9 @@
       "movement": "Unknown",
       "watchType": [
         "Smartwatch"
-      ]
+      ],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "timex-automatic-silver-tweg208smu08",
@@ -1182,7 +1344,9 @@
       "watchType": [
         "Ladies",
         "Dress"
-      ]
+      ],
+      "dialSize": 37.3,
+      "limited": false
     },
     {
       "id": "timex-automatic-silver-tweg311smu01",
@@ -1198,7 +1362,9 @@
       "movement": "Automatic",
       "watchType": [
         "Dress"
-      ]
+      ],
+      "dialSize": 37.0,
+      "limited": false
     },
     {
       "id": "seiko-presage-mojito-srpe45j1",
@@ -1213,7 +1379,9 @@
       "movement": "Automatic",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70021sl02w",
@@ -1228,7 +1396,9 @@
       "movement": "Quartz",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70048nm01",
@@ -1243,7 +1413,9 @@
       "movement": "Quartz",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-wedding-77157bm01",
@@ -1258,7 +1430,9 @@
       "movement": "Quartz",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-sleek-7152qm01",
@@ -1271,7 +1445,9 @@
       "series": "SLEEK",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-sleek-7152qm02",
@@ -1284,7 +1460,9 @@
       "series": "SLEEK",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-77149sm01",
@@ -1297,7 +1475,9 @@
       "series": "SONATA",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70066sm01",
@@ -1310,7 +1490,9 @@
       "series": "POZE",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70006qm02",
@@ -1323,7 +1505,9 @@
       "series": "POZE",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70006qm01",
@@ -1336,7 +1520,9 @@
       "series": "POZE",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70109nm01",
@@ -1349,7 +1535,9 @@
       "series": "POZE",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70077nm02",
@@ -1362,7 +1550,9 @@
       "series": "POZE",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-poze-sp70094nm01",
@@ -1375,7 +1565,9 @@
       "series": "POZE",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-eternia-77156nm01",
@@ -1388,7 +1580,9 @@
       "series": "ETERNIA",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-jashn-77206sm01",
@@ -1401,7 +1595,9 @@
       "series": "JASHN",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "sonata-jashn-77205sm03",
@@ -1414,7 +1610,9 @@
       "series": "JASHN",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "ist1947-2026",
@@ -1429,7 +1627,9 @@
       "movement": "Automatic",
       "watchType": [
         "Limited Edition"
-      ]
+      ],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "sonata-vector-77197sm02",
@@ -1442,7 +1642,9 @@
       "series": "VECTOR",
       "addedAt": "2026-09-21",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "tissot-pr100-t1502103329100",
@@ -1455,7 +1657,9 @@
       "series": "PR 100",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "tissot-ballade-t1564101135100",
@@ -1468,7 +1672,9 @@
       "series": "BALLADE",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "edge-whimsey-10056qm02",
@@ -1481,7 +1687,9 @@
       "series": "WHIMSEY",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "citizen-an8223-54x",
@@ -1496,7 +1704,9 @@
       "movement": "Quartz",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "edge-wine-1696qc19",
@@ -1509,7 +1719,9 @@
       "series": "WINE",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "movado-bold-3600307",
@@ -1522,7 +1734,9 @@
       "series": "BOLD",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "tissot-pr100-t1504101135100",
@@ -1535,7 +1749,9 @@
       "series": "PR 100",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "tissot-pr100-t1504171135100",
@@ -1548,7 +1764,9 @@
       "series": "PR 100",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "citizen-ecodrive-at2577-57l",
@@ -1563,7 +1781,9 @@
       "movement": "Eco-Drive",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "citizen-ecodrive-at2576-50x",
@@ -1578,7 +1798,9 @@
       "movement": "Eco-Drive",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "citizen-tsuyosa-nk5010-51l",
@@ -1591,7 +1813,9 @@
       "series": "TSUYOSA",
       "addedAt": "2026-09-21",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "addieskin-k006",
@@ -1606,7 +1830,9 @@
       "movement": "Automatic",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "addiesdive-ad2073",
@@ -1621,7 +1847,9 @@
       "movement": "Quartz",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 36.0,
+      "limited": false
     },
     {
       "id": "addiesdive-ad2096",
@@ -1636,7 +1864,9 @@
       "movement": "Quartz",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 36.0,
+      "limited": false
     },
     {
       "id": "addiesdive-ad2075",
@@ -1651,7 +1881,9 @@
       "movement": "Automatic",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 39.0,
+      "limited": false
     },
     {
       "id": "addies-aw25913",
@@ -1667,7 +1899,9 @@
       "watchType": [
         "Ladies",
         "Gents"
-      ]
+      ],
+      "dialSize": 31.0,
+      "limited": false
     },
     {
       "id": "spinnaker-branner-sp-5062-11",
@@ -1680,7 +1914,9 @@
       "series": "BRADNER",
       "addedAt": "2026-09-22",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "addiesdive-ad2030",
@@ -1695,7 +1931,9 @@
       "movement": "Quartz",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 36.0,
+      "limited": false
     },
     {
       "id": "casio-mtp-sn4kd-2a",
@@ -1708,7 +1946,9 @@
       "series": "CLASSIC",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "casio-mtp-vd03b-2a",
@@ -1721,7 +1961,9 @@
       "series": "CLASSIC",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "casio-mtp-1375d-7av",
@@ -1734,7 +1976,9 @@
       "series": "CLASSIC",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "casio-edifice-eqb-1300d-2a",
@@ -1747,7 +1991,9 @@
       "series": "EDIFICE",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "vostok-prestige-581096",
@@ -1760,7 +2006,9 @@
       "series": "PRESTIGE",
       "addedAt": "2026-09-22",
       "movement": "Mechanical",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "narion-bihango",
@@ -1773,7 +2021,9 @@
       "series": "BIHANGO",
       "addedAt": "2026-09-22",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": true
     },
     {
       "id": "anka-east-india-co-1840",
@@ -1786,7 +2036,9 @@
       "series": "EAST INDIA CO.",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "ovd-da-vinci-1452",
@@ -1800,7 +2052,9 @@
       "addedAt": "2026-09-22",
       "notes": "PRE-ORDER (2023)",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "ovd-full-moon-m1-f01",
@@ -1814,7 +2068,9 @@
       "addedAt": "2026-09-22",
       "notes": "PRE-ORDER",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "ando-vinyl-record-classic",
@@ -1830,7 +2086,9 @@
       "movement": "Automatic",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "baltic-hms-003-silver-blue",
@@ -1845,7 +2103,9 @@
       "movement": "Automatic",
       "watchType": [
         "Minimalist"
-      ]
+      ],
+      "dialSize": 36.5,
+      "limited": false
     },
     {
       "id": "kala-warli-terracotta",
@@ -1860,7 +2120,9 @@
       "movement": "Quartz",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "coromandel-bhoomi-ii",
@@ -1877,7 +2139,9 @@
       "watchType": [
         "Heritage",
         "Limited Edition"
-      ]
+      ],
+      "dialSize": 38.0,
+      "limited": true
     },
     {
       "id": "watchdives-wd0003c",
@@ -1892,7 +2156,9 @@
       "movement": "Quartz",
       "watchType": [
         "Dive"
-      ]
+      ],
+      "dialSize": 37.0,
+      "limited": false
     },
     {
       "id": "mandetbrote-orbital-orange-crush",
@@ -1905,7 +2171,9 @@
       "series": "ORBITAL",
       "addedAt": "2026-09-22",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 41.2,
+      "limited": true
     },
     {
       "id": "elfen-witty-walnut",
@@ -1918,7 +2186,9 @@
       "series": "WITTY WALNUT",
       "addedAt": "2026-09-22",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 43.0,
+      "limited": false
     },
     {
       "id": "elfen-wengen-grail",
@@ -1931,7 +2201,9 @@
       "series": "WENGEN GRAIL",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "elfen-aston-dark",
@@ -1944,7 +2216,9 @@
       "series": "ASTON DARK",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "elfen-7-black",
@@ -1957,7 +2231,9 @@
       "series": "7 BLACK",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "elfen-lost-wade",
@@ -1970,7 +2246,9 @@
       "series": "LOST WADE",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "ajanta-orian-green-awcexl0201g2",
@@ -1986,7 +2264,9 @@
       "watchType": [
         "Minimalist",
         "Slim"
-      ]
+      ],
+      "dialSize": 38.7,
+      "limited": false
     },
     {
       "id": "ajanta-halo-blue-awc132esg4",
@@ -1999,7 +2279,9 @@
       "series": "HALO",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "ajanta-orian-silver-awcexl0201g3",
@@ -2015,7 +2297,9 @@
       "watchType": [
         "Minimalist",
         "Slim"
-      ]
+      ],
+      "dialSize": 38.7,
+      "limited": false
     },
     {
       "id": "ajanta-halo-black-awc132esg2",
@@ -2028,7 +2312,9 @@
       "series": "HALO",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "ajanta-zorren-black-awc502blsbbbl",
@@ -2043,7 +2329,9 @@
       "movement": "Unknown",
       "watchType": [
         "Minimalist"
-      ]
+      ],
+      "dialSize": 25.0,
+      "limited": false
     },
     {
       "id": "avarth-avanti",
@@ -2058,7 +2346,9 @@
       "movement": "Quartz",
       "watchType": [
         "GMT"
-      ]
+      ],
+      "dialSize": 20.0,
+      "limited": false
     },
     {
       "id": "extreme-ignition",
@@ -2073,7 +2363,9 @@
       "movement": "Unknown",
       "watchType": [
         "GMT"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "extreme-torque",
@@ -2088,7 +2380,9 @@
       "movement": "Unknown",
       "watchType": [
         "GMT"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "extreme-saturn",
@@ -2101,7 +2395,9 @@
       "series": "SATURN",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "oblik-velocity-silver",
@@ -2116,7 +2412,9 @@
       "movement": "Automatic",
       "watchType": [
         "Skeletal"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "extreme-nebula",
@@ -2129,7 +2427,9 @@
       "series": "NEBULA",
       "addedAt": "2026-09-22",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "maxima-apex-75301cmgr",
@@ -2142,7 +2442,9 @@
       "series": "APEX",
       "addedAt": "2026-09-23",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "maxima-apex-mf-black-74492lmgb",
@@ -2157,7 +2459,9 @@
       "movement": "Unknown",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "maxima-72141cmgt",
@@ -2170,7 +2474,9 @@
       "series": "MAXIMA",
       "addedAt": "2026-09-23",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "maxima-apex-mf-73021cmgi",
@@ -2185,7 +2491,9 @@
       "movement": "Unknown",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "maxima-attivo-67160lmgr",
@@ -2200,7 +2508,9 @@
       "movement": "Unknown",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "verte-urbn",
@@ -2213,7 +2523,9 @@
       "series": "URBN",
       "addedAt": "2026-09-23",
       "movement": "Mechanical",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "daniel-klein-dk12221-5",
@@ -2228,7 +2540,9 @@
       "movement": "Unknown",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "zenmo-casino-metal-diamond-chrome",
@@ -2241,7 +2555,9 @@
       "series": "CASINO",
       "addedAt": "2026-09-24",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "zenmo-cosmos-guru-jupiter",
@@ -2254,7 +2570,9 @@
       "series": "COSMOS GURU",
       "addedAt": "2026-09-24",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "franklord-empress-emerald-green",
@@ -2270,7 +2588,9 @@
       "watchType": [
         "Ladies",
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "franklord-optimus-20-crimson-red",
@@ -2283,7 +2603,9 @@
       "series": "OPTIMUS 2.0",
       "addedAt": "2026-09-24",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "franklord-ultra-slim-cognac-brown",
@@ -2299,7 +2621,9 @@
       "watchType": [
         "Minimalist",
         "Slim"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "franklord-heritage-open-heart-rustic-luxe",
@@ -2315,7 +2639,9 @@
       "watchType": [
         "Skeletal",
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "franklord-regal-roman-eclipse-blue",
@@ -2328,7 +2654,9 @@
       "series": "REGAL SAPPHIRE ROMAN",
       "addedAt": "2026-09-24",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "fastrack-gelato-3344kl01",
@@ -2343,7 +2671,9 @@
       "movement": "Unknown",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "casio-enticer-mtp-1302pe-2av-a2394",
@@ -2356,7 +2686,9 @@
       "series": "ENTICER",
       "addedAt": "2026-09-25",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "fastrack-vyb-limitless-fv30012km02w",
@@ -2369,7 +2701,9 @@
       "series": "VYB LIMITLESS",
       "addedAt": "2026-09-25",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "olevs-analog-men",
@@ -2382,7 +2716,9 @@
       "series": "OLEVS",
       "addedAt": "2026-09-25",
       "movement": "Unknown",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "coromandel-kaappi-edition-no-date",
@@ -2396,7 +2732,9 @@
       "addedAt": "2026-09-25",
       "notes": "PRE-ORDER",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 36.0,
+      "limited": false
     },
     {
       "id": "timex-automatic-black-tweg",
@@ -2411,7 +2749,9 @@
       "movement": "Automatic",
       "watchType": [
         "Gents"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "timex-q-falcon-eye-tw2w33700uj",
@@ -2427,7 +2767,9 @@
       "watchType": [
         "Chronograph",
         "Heritage"
-      ]
+      ],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "meridian-equinox-celeste-blue",
@@ -2440,7 +2782,9 @@
       "series": "EQUINOX",
       "addedAt": "2026-10-07",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "klaauw-cvdK-grand-planetarium-eccentric-ckgp1104",
@@ -2453,7 +2797,9 @@
       "series": "GRAND PLANETARIUM ECCENTRIC",
       "addedAt": "2026-10-12",
       "movement": "Mechanical",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": true
     },
     {
       "id": "swatch-blurang-yis430",
@@ -2466,7 +2812,9 @@
       "series": "BLURANG",
       "addedAt": "2026-10-12",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "fateh-phulkari",
@@ -2480,7 +2828,9 @@
       "addedAt": "2026-10-12",
       "notes": "PRE-ORDER ($325 USD, ships Jan 13 2027)",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 40.0,
+      "limited": true
     },
     {
       "id": "hmt-vintage-pilot-417048-b1515",
@@ -2497,7 +2847,9 @@
         "Pilot",
         "Heritage",
         "Minimalist"
-      ]
+      ],
+      "dialSize": 35.0,
+      "limited": false
     },
     {
       "id": "vintage-roamer-red-face-d61",
@@ -2512,7 +2864,9 @@
       "movement": "Mechanical",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "vintage-roamer-blue-face-d56",
@@ -2527,7 +2881,9 @@
       "movement": "Mechanical",
       "watchType": [
         "Heritage"
-      ]
+      ],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "vintage-le-montres-quartz-lm05",
@@ -2543,7 +2899,9 @@
       "watchType": [
         "Heritage",
         "Gents"
-      ]
+      ],
+      "dialSize": 26.0,
+      "limited": false
     },
     {
       "id": "vintage-le-montres-manual-lm20",
@@ -2560,7 +2918,9 @@
         "Heritage",
         "Minimalist",
         "Gents"
-      ]
+      ],
+      "dialSize": 35.0,
+      "limited": false
     },
     {
       "id": "allwyn-y381-8030-1983",
@@ -2575,7 +2935,9 @@
       "movement": "Automatic",
       "watchType": [
         "Dress"
-      ]
+      ],
+      "dialSize": 36.0,
+      "limited": false
     },
     {
       "id": "alexander-ferros-5052s",
@@ -2590,7 +2952,9 @@
       "movement": "Mechanical",
       "watchType": [
         "Sports"
-      ]
+      ],
+      "dialSize": 38.0,
+      "limited": false
     },
     {
       "id": "antriac-crown-day-date-cigar-brown",
@@ -2606,7 +2970,9 @@
       "watchType": [
         "Dress",
         "Cigar"
-      ]
+      ],
+      "dialSize": 42.0,
+      "limited": false
     },
     {
       "id": "galaxy-majestic-brown-roman",
@@ -2619,7 +2985,9 @@
       "series": "MAJESTIC",
       "addedAt": "2026-10-14",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 39.0,
+      "limited": false
     },
     {
       "id": "diollo-lunar-20-emerald-green",
@@ -2632,7 +3000,9 @@
       "series": "LUNAR 2.0",
       "addedAt": "2026-10-14",
       "movement": "Automatic",
-      "watchType": []
+      "watchType": [],
+      "dialSize": null,
+      "limited": false
     },
     {
       "id": "majestic-craftsmen-eye-of-the-tiger",
@@ -2648,7 +3018,9 @@
       "watchType": [
         "Heritage",
         "Limited Edition"
-      ]
+      ],
+      "dialSize": 38.0,
+      "limited": true
     },
     {
       "id": "deccan-tiger-ferrum-glk001tfe",
@@ -2663,7 +3035,9 @@
       "movement": "Unknown",
       "watchType": [
         "Minimalist"
-      ]
+      ],
+      "dialSize": 35.5,
+      "limited": false
     },
     {
       "id": "crolot-canvas",
@@ -2678,7 +3052,9 @@
       "movement": "Quartz",
       "watchType": [
         "Chronograph"
-      ]
+      ],
+      "dialSize": 40.0,
+      "limited": false
     },
     {
       "id": "mnmlst-viraasat-hyderabad",
@@ -2691,7 +3067,9 @@
       "series": "VIRAASAT",
       "addedAt": "2026-10-14",
       "movement": "Quartz",
-      "watchType": []
+      "watchType": [],
+      "dialSize": 42.0,
+      "limited": true
     }
   ],
   "lastUpdated": "2026-10-14T20:25:00.000Z"

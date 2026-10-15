@@ -440,6 +440,29 @@
       opacity: 0.9;
     }
 
+    .spec-size {
+      background: linear-gradient(135deg, #1a1a1a 0%, #1f1f1f 100%);
+      color: #9b8ce8;
+      border-color: #211b30;
+    }
+
+    .spec-size svg {
+      color: #9b8ce8;
+      opacity: 0.9;
+    }
+
+    .spec-limited {
+      background: linear-gradient(135deg, #2a1a0a 0%, #1f1f1f 100%);
+      color: #e8a85c;
+      border-color: #4a3a1a;
+      font-weight: 600;
+    }
+
+    .spec-limited svg {
+      color: #e8a85c;
+      opacity: 1;
+    }
+
     /* Empty State */
     .empty-state {
       text-align: center;
@@ -658,6 +681,15 @@
               <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
             </svg>
             Hearted only
+          </span>
+        </label>
+        <label class="checkbox-item">
+          <input type="checkbox" id="showLimited">
+          <span style="display: flex; align-items: center; gap: 0.35rem;">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="#e8a85c" stroke="#e8a85c" stroke-width="2">
+              <path d="M12 2l2.5 7H22l-6 4.5 2 7.5-6-4.5-6 4.5 2-7.5-6-4.5h7.5L12 2z"/>
+            </svg>
+            Limited Edition only
           </span>
         </label>
       </div>
@@ -936,6 +968,7 @@
       document.getElementById('minPrice').addEventListener('input', debounce(applyFilters, 300));
       document.getElementById('maxPrice').addEventListener('input', debounce(applyFilters, 300));
       document.getElementById('showHearted').addEventListener('change', applyFilters);
+      document.getElementById('showLimited').addEventListener('change', applyFilters);
     }
 
     // Apply filters
@@ -948,6 +981,7 @@
       const selectedWatchTypes = [...document.querySelectorAll('#watchTypeFilters input:checked')].map(cb => cb.value);
       const hasPriceFilter = document.getElementById('minPrice').value || document.getElementById('maxPrice').value;
       const showHeartedOnly = document.getElementById('showHearted').checked;
+      const showLimitedOnly = document.getElementById('showLimited').checked;
       const hearted = getHearted();
 
       filteredWatches = watches.filter(watch => {
@@ -977,8 +1011,11 @@
 
         // Hearted filter
         const matchesHearted = !showHeartedOnly || hearted.includes(watch.id);
+        
+        // Limited filter
+        const matchesLimited = !showLimitedOnly || watch.limited;
 
-        return matchesSearch && matchesBrand && matchesMovement && matchesWatchType && matchesPrice && matchesHearted;
+        return matchesSearch && matchesBrand && matchesMovement && matchesWatchType && matchesPrice && matchesHearted && matchesLimited;
       });
 
       renderWatches(filteredWatches);
@@ -1042,6 +1079,8 @@
             <p class="description">${escapeHtml(watch.description || '')}</p>
             <div class="specs-strip">
               ${watch.movement && watch.movement !== 'Unknown' ? `<span class="spec-item spec-movement"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>${watch.movement}</span>` : ''}
+              ${watch.dialSize ? `<span class="spec-item spec-size"><svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3"/></svg>${watch.dialSize}mm</span>` : ''}
+              ${watch.limited ? `<span class="spec-item spec-limited"><svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.5 7H22l-6 4.5 2 7.5-6-4.5-6 4.5 2-7.5-6-4.5h7.5L12 2z"/></svg>Limited</span>` : ''}
               ${watch.watchType && watch.watchType.length > 0 ? watch.watchType.slice(0, 3).map(t => {
                 const icon = getWatchTypeIcon(t);
                 return `<span class="spec-item spec-type">${icon}${t}</span>`;
