@@ -3070,7 +3070,24 @@
       "watchType": [],
       "dialSize": 42.0,
       "limited": true
+    },
+    {
+      "id": "sbry-awadh",
+      "name": "SBRY AWADH - INSPIRED BY AYODHYA",
+      "brand": "SBRY",
+      "price": 4500,
+      "image": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/cdn-ecommerce/store_01M05GRTC8P3178S5BSC04MF68/assets/807b7281-4503-4340-8ca5-5fd9578da305.png",
+      "link": "https://sbry.in/sbry-awadh-inspired-by-ayodhya",
+      "description": "SBRY Awadh | Inspired by Ayodhya and Shri Ram's homecoming | Ram Mandir-inspired design | Synthetic Mother-of-Pearl dial | 37.5mm brass case | Mesh bracelet | Two-hand layout | Miyota 2030 Quartz | Pre-booking (Shipping Oct 31st onwards)",
+      "series": "AWADH",
+      "movement": "Quartz",
+      "dialSize": 37.5,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "addedAt": "2026-10-15"
     }
   ],
-  "lastUpdated": "2026-10-14T20:25:00.000Z"
+  "lastUpdated": "2026-10-15T20:10:00.000Z"
 }
