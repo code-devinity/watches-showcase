@@ -430,53 +430,7 @@
       color: #888;
     }
 
-    /* Active filters */
-    .active-filters {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      margin-bottom: 1rem;
-    }
-
-    .filter-tag {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.25rem;
-      padding: 0.25rem 0.625rem;
-      background: #1a1a1a;
-      border: 1px solid #2a2a2a;
-      border-radius: 100px;
-      font-size: 0.75rem;
-      color: #888;
-    }
-
-    .filter-tag button {
-      background: none;
-      border: none;
-      color: #666;
-      cursor: pointer;
-      padding: 0;
-      display: flex;
-      align-items: center;
-    }
-
-    .filter-tag button:hover {
-      color: #fff;
-    }
-
-    .clear-all {
-      background: none;
-      border: none;
-      color: #0066ff;
-      cursor: pointer;
-      font-size: 0.75rem;
-      font-family: inherit;
-      padding: 0.25rem;
-    }
-
-    .clear-all:hover {
-      text-decoration: underline;
-    }
+    /* Active filters chips removed */
 
     /* Heart button */
     .heart-btn {
@@ -719,7 +673,8 @@
         <span class="count" id="watch-count">0 watches</span>
       </div>
 
-      <div class="active-filters" id="activeFilters"></div>
+      <!-- Active filters chips removed as per user request -->
+
 
       <div class="watches-grid" id="watches-grid">
         <div class="empty-state" id="empty-state">
@@ -954,7 +909,6 @@
       });
 
       renderWatches(filteredWatches);
-      updateActiveFilters();
     }
 
     // Render watches
@@ -1027,81 +981,6 @@
 
         grid.appendChild(card);
       });
-    }
-
-    // Update active filters display
-    function updateActiveFilters() {
-      const container = document.getElementById('activeFilters');
-      const filters = [];
-
-      const searchTerm = document.getElementById('searchInput').value;
-      const minPrice = document.getElementById('minPrice').value;
-      const maxPrice = document.getElementById('maxPrice').value;
-      const selectedBrands = [...document.querySelectorAll('#brandFilters input:checked')].map(cb => cb.value);
-      const selectedSeries = [...document.querySelectorAll('#seriesFilters input:checked')].map(cb => cb.value);
-
-      if (searchTerm) {
-        filters.push({ label: `Search: "${searchTerm}"`, clear: () => { document.getElementById('searchInput').value = ''; applyFilters(); }});
-      }
-      if (minPrice) {
-        filters.push({ label: `Min: ₹${parseInt(minPrice).toLocaleString('en-IN')}`, clear: () => { document.getElementById('minPrice').value = ''; applyFilters(); }});
-      }
-      if (maxPrice) {
-        filters.push({ label: `Max: ₹${parseInt(maxPrice).toLocaleString('en-IN')}`, clear: () => { document.getElementById('maxPrice').value = ''; applyFilters(); }});
-      }
-
-      // Show deselected filters as tags
-      const allBrands = [...new Set(watches.map(w => w.brand))];
-      const allSeries = [...new Set(watches.map(w => w.series).filter(Boolean))];
-      
-      allBrands.forEach(brand => {
-        if (!selectedBrands.includes(brand)) {
-          const idx = filters.length;
-          filters.push({ 
-            label: brand, 
-            clear: () => { 
-              const cb = document.querySelector(`#brandFilters input[value="${brand}"]`);
-              if (cb) cb.checked = true;
-              applyFilters(); 
-            }
-          });
-        }
-      });
-      
-      allSeries.forEach(series => {
-        if (!selectedSeries.includes(series)) {
-          filters.push({ 
-            label: series.replace(/-/g, ' '), 
-            clear: () => { 
-              const cb = document.querySelector(`#seriesFilters input[value="${series}"]`);
-              if (cb) cb.checked = true;
-              applyFilters(); 
-            }
-          });
-        }
-      });
-
-      container.innerHTML = filters.map((f, i) => `
-        <span class="filter-tag">
-          ${f.label}
-          <button onclick="filterTags[${i}].clear()">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <line x1="18" y1="6" x2="6" y2="18"/>
-              <line x1="6" y1="6" x2="18" y2="18"/>
-            </svg>
-          </button>
-        </span>
-      `).join('') + (filters.length > 0 ? '<button class="clear-all" onclick="clearAllFilters()">Clear all</button>' : '');
-
-      window.filterTags = filters;
-    }
-
-    function clearAllFilters() {
-      document.getElementById('searchInput').value = '';
-      document.getElementById('minPrice').value = '';
-      document.getElementById('maxPrice').value = '';
-      document.querySelectorAll('#brandFilters input, #seriesFilters input').forEach(cb => cb.checked = true);
-      applyFilters();
     }
 
     function escapeHtml(text) {
