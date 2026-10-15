@@ -641,16 +641,29 @@
         </div>
       </div>
 
-      <!-- Series Filter -->
+      <!-- Movement Filter -->
       <div class="filter-section">
         <div class="filter-header">
-          <label class="filter-label">Series</label>
+          <label class="filter-label">Movement</label>
           <div class="select-buttons">
-            <button class="select-btn" data-target="seriesFilters" data-action="all">All</button>
-            <button class="select-btn" data-target="seriesFilters" data-action="none">None</button>
+            <button class="select-btn" data-target="movementFilters" data-action="all">All</button>
+            <button class="select-btn" data-target="movementFilters" data-action="none">None</button>
           </div>
         </div>
-        <div class="checkbox-group" id="seriesFilters">
+        <div class="checkbox-group" id="movementFilters">
+        </div>
+      </div>
+
+      <!-- Watch Type Filter -->
+      <div class="filter-section">
+        <div class="filter-header">
+          <label class="filter-label">Watch Type</label>
+          <div class="select-buttons">
+            <button class="select-btn" data-target="watchTypeFilters" data-action="all">All</button>
+            <button class="select-btn" data-target="watchTypeFilters" data-action="none">None</button>
+          </div>
+        </div>
+        <div class="checkbox-group" id="watchTypeFilters">
         </div>
       </div>
     </aside>
@@ -825,7 +838,7 @@
     // Initialize filters from data
     function initFilters() {
       // Extract unique brands
-      const brands = [...new Set(watches.map(w => w.brand))];
+      const brands = [...new Set(watches.map(w => w.brand))].sort();
       const brandContainer = document.getElementById('brandFilters');
       brandContainer.innerHTML = brands.map(brand => `
         <label class="checkbox-item">
@@ -834,18 +847,30 @@
         </label>
       `).join('');
 
-      // Extract unique series
-      const series = [...new Set(watches.map(w => w.series).filter(Boolean))];
-      const seriesContainer = document.getElementById('seriesFilters');
-      seriesContainer.innerHTML = series.map(s => `
+      // Extract unique movements
+      const movements = [...new Set(watches.map(w => w.movement).filter(Boolean))].sort();
+      const movementContainer = document.getElementById('movementFilters');
+      movementContainer.innerHTML = movements.map(m => `
         <label class="checkbox-item">
-          <input type="checkbox" value="${s}">
-          ${s.replace(/-/g, ' ')}
+          <input type="checkbox" value="${m}">
+          ${m}
+        </label>
+      `).join('');
+
+      // Extract unique watch types
+      const allTypes = new Set();
+      watches.forEach(w => (w.watchType || []).forEach(t => allTypes.add(t)));
+      const watchTypes = [...allTypes].sort();
+      const watchTypeContainer = document.getElementById('watchTypeFilters');
+      watchTypeContainer.innerHTML = watchTypes.map(t => `
+        <label class="checkbox-item">
+          <input type="checkbox" value="${t}">
+          ${t}
         </label>
       `).join('');
 
       // Add event listeners for checkbox changes
-      document.querySelectorAll('#brandFilters input, #seriesFilters input').forEach(cb => {
+      document.querySelectorAll('#brandFilters input, #movementFilters input, #watchTypeFilters input').forEach(cb => {
         cb.addEventListener('change', applyFilters);
       });
 
@@ -875,7 +900,8 @@
       const minPrice = parseInt(document.getElementById('minPrice').value) || 0;
       const maxPrice = parseInt(document.getElementById('maxPrice').value) || Infinity;
       const selectedBrands = [...document.querySelectorAll('#brandFilters input:checked')].map(cb => cb.value);
-      const selectedSeries = [...document.querySelectorAll('#seriesFilters input:checked')].map(cb => cb.value);
+      const selectedMovements = [...document.querySelectorAll('#movementFilters input:checked')].map(cb => cb.value);
+      const selectedWatchTypes = [...document.querySelectorAll('#watchTypeFilters input:checked')].map(cb => cb.value);
       const hasPriceFilter = document.getElementById('minPrice').value || document.getElementById('maxPrice').value;
       const showHeartedOnly = document.getElementById('showHearted').checked;
       const hearted = getHearted();
@@ -883,14 +909,17 @@
       filteredWatches = watches.filter(watch => {
         const matchesSearch = !searchTerm || 
           watch.name.toLowerCase().includes(searchTerm) ||
-          (watch.description && watch.description.toLowerCase().includes(searchTerm)) ||
-          (watch.series && watch.series.toLowerCase().includes(searchTerm));
+          (watch.description && watch.description.toLowerCase().includes(searchTerm));
 
         // If no brands selected, show all brands
         const matchesBrand = selectedBrands.length === 0 || selectedBrands.includes(watch.brand);
         
-        // If no series selected, show all series
-        const matchesSeries = selectedSeries.length === 0 || (watch.series && selectedSeries.includes(watch.series));
+        // If no movements selected, show all movements
+        const matchesMovement = selectedMovements.length === 0 || selectedMovements.includes(watch.movement);
+        
+        // If no watch types selected, show all watch types
+        const matchesWatchType = selectedWatchTypes.length === 0 || 
+          (watch.watchType && watch.watchType.some(t => selectedWatchTypes.includes(t)));
         
         // Only filter by price if user entered a price range AND watch has a price
         let matchesPrice = true;
@@ -905,7 +934,7 @@
         // Hearted filter
         const matchesHearted = !showHeartedOnly || hearted.includes(watch.id);
 
-        return matchesSearch && matchesBrand && matchesSeries && matchesPrice && matchesHearted;
+        return matchesSearch && matchesBrand && matchesMovement && matchesWatchType && matchesPrice && matchesHearted;
       });
 
       renderWatches(filteredWatches);

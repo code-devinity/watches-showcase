@@ -9,7 +9,12 @@
       "link": "https://casiostore.bhawar.com/products/casio-edifice-ecb-2000np-1adf-black-analog-digital-mens-watch",
       "description": "NIGHTTIME DRIVE SERIES | Analog-Digital, Blue-to-gold gradient bezel, Carbon fiber case, Bluetooth, Tough Solar, 100M water resistance, 51mm",
       "series": "NIGHTTIME DRIVE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Solar",
+      "watchType": [
+        "Dive",
+        "Smartwatch"
+      ]
     },
     {
       "id": "efr-574dc-2av",
@@ -20,7 +25,12 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFR-574DC-2AV/",
       "description": "Standard Chronograph | Analog, Blue dial, Black SS band, Chronograph, Tachymeter, 100M water resistance",
       "series": "STANDARD CHRONOGRAPH",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Dive",
+        "Chronograph"
+      ]
     },
     {
       "id": "eqs-940nl-1avdf",
@@ -31,7 +41,11 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EQS-940NL-1AV/",
       "description": "Solar-powered chronograph with stainless steel band. Check official Casio site for full specs.",
       "series": "EDIFICE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Solar",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "ecb-40np-1a",
@@ -42,7 +56,12 @@
       "link": "https://www.casio.com/in/watches/edifice/product.ECB-40NP-1A/",
       "description": "NIGHTTIME DRIVE SERIES | Analog-Digital chronograph with Bluetooth & Tough Solar. Check Amazon/Casio site for price.",
       "series": "NIGHTTIME DRIVE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Solar",
+      "watchType": [
+        "Chronograph",
+        "Smartwatch"
+      ]
     },
     {
       "id": "ecb-2300d-1a",
@@ -53,7 +72,12 @@
       "link": "https://www.casio.com/in/watches/edifice/product.ECB-2300D-1A/",
       "description": "Stainless steel men's watch with sporty, industrial design.",
       "series": "EDIFICE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Sports",
+        "Gents"
+      ]
     },
     {
       "id": "efr-539de-2av",
@@ -64,7 +88,12 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFR-539DE-2AV/",
       "description": "Standard Chronograph | Analog, Blue dial, Stainless steel band, Aluminum case, 1/10-second stopwatch, 3D dial design, Blue ion plated bezel, 100M water resistance",
       "series": "STANDARD CHRONOGRAPH",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Dive",
+        "Chronograph"
+      ]
     },
     {
       "id": "eqs-940dc-1bv",
@@ -75,7 +104,9 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EQS-940DC-1BV/",
       "description": "Solar-powered watch in all-black ion-plated stainless steel.",
       "series": "EDIFICE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Solar",
+      "watchType": []
     },
     {
       "id": "efs-s570db-2a",
@@ -86,7 +117,11 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFS-S570DB-2A/",
       "description": "Edifice timepiece with solar-powered chronograph functionality. Check official Casio site for full specs.",
       "series": "EDIFICE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Solar",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "efr-556dc-1av",
@@ -97,7 +132,12 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFR-556DC-1AV/",
       "description": "STANDARD CHRONOGRAPH | Black Series | Analog, Black dial, Black ion plated SS case & band, Stopwatch, Date, 100M water resistance, 49mm",
       "series": "STANDARD CHRONOGRAPH",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Dive",
+        "Chronograph"
+      ]
     },
     {
       "id": "utp-1302pd-2a2v",
@@ -108,7 +148,9 @@
       "link": "https://www.casio.com/in/watches/casio/product.UTP-1302PD-2A2V/",
       "description": "Casio Classic timepiece. Check official Casio site for full specs.",
       "series": "CASIO",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "eqb-1300dc-3a",
@@ -119,7 +161,11 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EQB-1300DC-3A/",
       "description": "Edifice analog-digital chronograph. Check official Casio site for full specs.",
       "series": "EDIFICE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "efr-539l-5av",
@@ -130,7 +176,11 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFR-539L-5AV/",
       "description": "Edifice chronograph with brown dial and stainless steel band. Check official Casio site for full specs.",
       "series": "STANDARD CHRONOGRAPH",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "efr-571d-1av",
@@ -141,7 +191,12 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFR-571D-1AV/",
       "description": "STANDARD CHRONOGRAPH | Analog, Black dial, SS band, 1-second stopwatch, 100M water resistance, 47mm",
       "series": "STANDARD CHRONOGRAPH",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Dive",
+        "Chronograph"
+      ]
     },
     {
       "id": "efv-650d-2bv",
@@ -152,7 +207,11 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFV-650D-2BV/",
       "description": "Edifice analog chronograph. Check official Casio site for full specs.",
       "series": "EDIFICE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "efr-526d-2av",
@@ -163,7 +222,11 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EFR-526D-2AV/",
       "description": "Edifice chronograph. Check official Casio site for full specs.",
       "series": "STANDARD CHRONOGRAPH",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "argos-olympus-ii-celestial-zen",
@@ -174,7 +237,11 @@
       "link": "https://www.argoswatch.in/products/olympus-ii-celestial-zen?variant=52532060324127",
       "description": "Automatic | Miyota 82S5 | Open Heart Dial | SS 316L case 39MM | Double Dome Sapphire Crystal | 60-second subdial | Gilt finishing | 50M water resistance | ~40hr power reserve",
       "series": "OLYMPUS II",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "argos-apollo-iii-constellation-blue",
@@ -185,7 +252,9 @@
       "link": "https://www.argoswatch.in/products/apollo3-constellation-blue-silver-jubilee-bracelet",
       "description": "Automatic | 2706 Movement | Blue dial | SS 316L case 40MM | K1 Scratch Resistant Sapphire Crystal | 5-row solid link bracelet | 50M water resistance | ~42hr power reserve",
       "series": "APOLLO III",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "argos-apollo-iii-wine-red",
@@ -196,7 +265,9 @@
       "link": "https://www.argoswatch.in/products/apollo3-wine-red-silver-jubilee-bracelet",
       "description": "Automatic | 2706 Movement | Wine Red dial | SS 316L case 40MM | K1 Scratch Resistant Sapphire Crystal | 5-row solid link bracelet | 50M water resistance | ~42hr power reserve",
       "series": "APOLLO III",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "argos-olympus-basil-green",
@@ -207,7 +278,9 @@
       "link": "https://www.argoswatch.in/products/olympus-basil-green-silver",
       "description": "Automatic | 2530 Movement with Power Reserve & Small Seconds | Green dial | SS 316L case 40MM | Double Dome Sapphire Crystal | 9-row solid link bracelet | 50M water resistance | ~40hr power reserve",
       "series": "OLYMPUS",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "argos-apollo-iii-onyx-black",
@@ -218,7 +291,11 @@
       "link": "https://www.argoswatch.in/products/apollo-iii-onyx-black-silver",
       "description": "Automatic | 2706 Movement | Black dial | SS 316L case 40MM | K1 Scratch Resistant Sapphire Crystal | 5-row solid link bracelet | 50M water resistance | ~42hr power reserve | Limited Edition",
       "series": "APOLLO III",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": [
+        "Limited Edition"
+      ]
     },
     {
       "id": "timex-waterbury-39mm-blue",
@@ -229,7 +306,12 @@
       "link": "https://shop.timexindia.com/collections/waterbury/products/timex-waterbury-round-39mm-blue-dial-analog-men-watch-tw2y70500ik",
       "description": "Waterbury Heritage | 39mm Stainless Steel Bracelet | Blue dial | Analog | Quartz | Water resistant",
       "series": "WATERBURY",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": [
+        "Chronograph",
+        "Heritage"
+      ]
     },
     {
       "id": "timex-signio-black-47mm",
@@ -240,7 +322,9 @@
       "link": "https://shop.timexindia.com/collections/signio/products/timex-black-round-dial-analog-men-s-watch-tweg27802",
       "description": "Signio | 47.07mm Black dial | Black Leather strap | Quartz | 50m water resistance | SS case",
       "series": "SIGNIO",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "timex-signio-brown-42mm",
@@ -251,7 +335,9 @@
       "link": "https://shop.timexindia.com/collections/signio/products/timex-signio-round-42mm-brown-dial-analog-men-watch-tweg34502",
       "description": "Signio | 42mm Brown dial | Analog | Quartz | Stylish classic design",
       "series": "SIGNIO",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "timex-signio-grey-42mm",
@@ -262,7 +348,9 @@
       "link": "https://shop.timexindia.com/collections/signio/products/timex-round-grey-dial-analog-men-s-watch-tweg28003",
       "description": "Signio | 42mm Grey dial | Two Tone Stainless Steel | Quartz | 50m water resistance",
       "series": "SIGNIO",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "timex-signio-gunmetal-44mm",
@@ -273,7 +361,9 @@
       "link": "https://shop.timexindia.com/collections/signio/products/timex-signio-round-44mm-gunmetal-dial-automatic-men-watch-tweg34001",
       "description": "Signio | 44mm Gunmetal dial | Automatic movement | Men | Bold classic design",
       "series": "SIGNIO",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "timex-vector-grey-45mm",
@@ -284,7 +374,11 @@
       "link": "https://shop.timexindia.com/products/timex-vector-round-45mm-grey-dial-analog-men-watch-tweg34902",
       "description": "Vector | 45mm Grey dial | Analog | Quartz | Classic design",
       "series": "VECTOR",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": [
+        "Minimalist"
+      ]
     },
     {
       "id": "qorum-equinox-skeleton-multi",
@@ -295,7 +389,11 @@
       "link": "https://www.qorumindia.com/products/qorum-equinox-men-s-multi-function-skeleton-watch-black-dial-rose-gold-detailing-black-silicon-strap-1?variant=51932466872551",
       "description": "Equinox | SS case 44mm | EPSON VX7P movement | Skeleton dial | Rose Gold detailing | Black Silicon strap | Hardened Mineral Crystal | 3ATM | 1 year warranty",
       "series": "EQUINOX",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "qorum-equinox-skeleton-auto",
@@ -306,7 +404,12 @@
       "link": "https://www.qorumindia.com/products/qorum-equinox-men-s-automatic-skeleton-watch-black-dial-steel-and-rose-gold-detailing-black-fluoro-rubber-strap?variant=51932767748327",
       "description": "Equinox | SS case 45mm | Automatic Mechanical Movement 2806 | Skeleton dial | Steel & Rose Gold detailing | Black Fluoro Rubber strap | ~42hr power reserve | Hardened Mineral Crystal | 3ATM | 1 year warranty",
       "series": "EQUINOX",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal",
+        "Minimalist"
+      ]
     },
     {
       "id": "seiko-presage-sakura-ssa421j1",
@@ -317,7 +420,9 @@
       "link": "https://seikowatches.co.in/products/presage-zen-garden-sakura-by-night-ssa421j1",
       "description": "Zen Garden Collection | Mechanical Automatic | Blue cream dial 41.8mm | SS case | Calibre 4R39 | ~41hr power reserve | Dual-curved sapphire crystal | Blue leather strap | Date display | 23 jewels | Japanese aesthetic",
       "series": "PRESAGE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "titan-stellar-1890ql01",
@@ -328,7 +433,9 @@
       "link": "https://www.titan.co.in/product/titan-stellar-analog-with-earth-disc-and-blue-dial-blue-leather-strap-watch-for-men-1890ql01.html",
       "description": "Titan Stellar with Earth disc and blue dial, blue leather strap. Pending full specs.",
       "series": "STELLAR",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "titan-micromotors-90181nm01",
@@ -339,7 +446,9 @@
       "link": "https://www.titan.co.in/product/titan-micromotors-analog-with-date-and-sun-moon-sub-dial-and-blue-dial-black-stainless-steel-strap-watch-for-men-90181nm01.html",
       "description": "Titan Micromotors with sun-moon sub dial, blue dial, black SS strap. Pending full specs.",
       "series": "MICROMOTORS",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "titan-stellar-10028km01",
@@ -350,7 +459,9 @@
       "link": "https://www.titan.co.in/product/titan-stellar-quartz-analog-sun-moon-phase-watch-for-men-with-black-colour-stainless-steel-strap-10028km01.html",
       "description": "Titan Stellar Quartz with sun-moon phase, black SS strap. Pending full specs.",
       "series": "STELLAR",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "titan-orbital-open-heart-90226sm01",
@@ -361,7 +472,11 @@
       "link": "https://www.titan.co.in/product/titan-orbital-open-heart-automatic-analog-with-black-dial-silver-stainless-steel-strap-watch-for-men-90226sm01.html",
       "description": "Titan Orbital Open Heart Automatic, black dial, silver SS strap. Pending full specs.",
       "series": "ORBITAL",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "mark-fairwhale-fw-6020-5",
@@ -372,7 +487,9 @@
       "link": "https://labdhiwatches.in/products/mark-fairwhale-fw-6020-5",
       "description": "Automatic | Black finish | Clean design | Suitable for office wear, daily styling, special occasions | Ideal for gifting",
       "series": "FAIRWHALE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "alexandre-christie-8707mdbigdg",
@@ -383,7 +500,11 @@
       "link": "https://labdhiwatches.in/products/alexandre-8707mdbigdg",
       "description": "Slim Quartz | 41mm Black dial | SS bracelet | Quartz movement | Elegant & sophisticated | Modern man's accessory",
       "series": "SLIM QUARTZ",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": [
+        "Slim"
+      ]
     },
     {
       "id": "seiko-coutura-ssc788p9",
@@ -394,7 +515,9 @@
       "link": "https://www.ethoswatches.com/product-seiko-coutura-ssc788p9.html",
       "description": "Seiko Coutura. Pending full specs (Ethos blocked).",
       "series": "COUTURA",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "britime-962-l40406",
@@ -405,7 +528,9 @@
       "link": "https://justintime.in/products/britime-men-automatic-grey-dial-multi-function-leather-watch-962-l40406",
       "description": "Automatic | Grey dial | Multi-function | 43.33mm | Black leather strap | 5 ATM water resistance | Secure pin buckle",
       "series": "BRITIME",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "sylvi-urbane-silver-blue",
@@ -416,7 +541,9 @@
       "link": "https://sylvi.in/collections/urbane-watches/products/urbane-silver-blue",
       "description": "Quartz | 41mm squircle | Glossy blue dial | Stick markers | SS silver strap | Butterfly buckle | 3 ATM | Date | Made in India",
       "series": "URBANE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-elegare-black-steel",
@@ -427,7 +554,9 @@
       "link": "https://sylvi.in/collections/elegare-watches/products/elegare-black-steel",
       "description": "Quartz | 42mm round | Glossy black dial (no indexes) | Black SS strap | Butterfly buckle | 3 ATM | Made in India",
       "series": "ELEGARE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-urbane-moon-aqua-blue",
@@ -438,7 +567,9 @@
       "link": "https://sylvi.in/products/urbane-moon-aqua-blue",
       "description": "Quartz | 40mm squircle | Aqua blue glossy dial | Moon phase subdial | Date display | SS silver strap | 3 ATM | Made in India",
       "series": "URBANE MOON",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-specter-blue-silver-steel",
@@ -449,7 +580,9 @@
       "link": "https://sylvi.in/collections/specter-watches/products/specter-blue-silver-steel",
       "description": "Quartz | 40mm octagon | Glossy blue dial | No indexes | SS silver bracelet | Butterfly buckle | 3 ATM | Made in India",
       "series": "SPECTER",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-professional-edge-blue-silver",
@@ -460,7 +593,9 @@
       "link": "https://sylvi.in/collections/professional-edge/products/professional-edge-blue-silver",
       "description": "Quartz | 40mm round | Navy blue glossy dial | Stick markers | Date | SS silver bracelet | Butterfly buckle | 3 ATM | Made in India",
       "series": "PROFESSIONAL EDGE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-professional-edge-electric-blue",
@@ -471,7 +606,9 @@
       "link": "https://sylvi.in/collections/professional-edge/products/professional-edge-electric-blue",
       "description": "Quartz | 40mm round | Electric blue glossy dial | Stick markers | Date | SS silver bracelet | Butterfly buckle | 3 ATM | Made in India",
       "series": "PROFESSIONAL EDGE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-core-x-all-black-steel",
@@ -482,7 +619,11 @@
       "link": "https://sylvi.in/products/core-x-all-black-steel",
       "description": "Quartz skeleton | Octagonal case | Open skeleton dial | 33 jewels | Matte black finish | Premium Swiss-inspired | Made in India",
       "series": "CORE-X",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "sylvi-pulse-skeleton-all-black-steel",
@@ -493,7 +634,11 @@
       "link": "https://sylvi.in/collections/pulse-skeleton-watches/products/pulse-skeleton-all-black-steel",
       "description": "Automatic skeleton | Open skeleton dial | 21 jewels | Matte black | SS strap | Self-winding | 3 ATM | Made in India",
       "series": "PULSE SKELETON",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "sylvi-gravitas-black-silver-steel",
@@ -504,7 +649,11 @@
       "link": "https://sylvi.in/collections/gravitas-watches/products/gravitas-black-silver-steel",
       "description": "Automatic skeleton | Octagonal case | Open skeleton dial | 33 jewels | Brushed silver | SS 5-link bracelet | Deployant clasp | Screw-down crown | 3 ATM | Made in India",
       "series": "GRAVITAS",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "meridian-lunar-slate-grey",
@@ -515,7 +664,11 @@
       "link": "https://meridianwatches.in/products/lunar-slate-grey",
       "description": "Moonphase dress watch | Classical design | Textured dial | Roman numerals | Polished case | Elegant sophistication",
       "series": "LUNAR",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Dress"
+      ]
     },
     {
       "id": "kala-warli-indus",
@@ -527,7 +680,11 @@
       "description": "LIMITED EDITION (100 pieces) | Blue & cyan colourway | Warli Art inspired | Two straps (deerskin leather + Warli NATO) | Numbered caseback with cow illustration | Exclusive packaging",
       "series": "WARLI ART EDITION",
       "addedAt": "2026-09-06",
-      "notes": "SOLD OUT"
+      "notes": "SOLD OUT",
+      "movement": "Unknown",
+      "watchType": [
+        "Limited Edition"
+      ]
     },
     {
       "id": "horpa-c1-urbane-c1sg4506",
@@ -538,7 +695,13 @@
       "link": "https://horpawatch.com/products/c1sg4506",
       "description": "Chronograph | 45mm gunmetal PVD SS case | 3-layered semi-skeletonized blue dial | SII Quartz movement | Hardened mineral crystal | Super-LumiNova | Full grain grey leather strap | 5 bar | Date at 12 | Chronograph, 24hr counter, split time | 2yr warranty",
       "series": "C1 URBANE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": [
+        "Chronograph",
+        "Skeletal",
+        "Minimalist"
+      ]
     },
     {
       "id": "horpa-c1-phantom-c1sb4503",
@@ -549,7 +712,13 @@
       "link": "https://horpawatch.com/products/c1sb4503",
       "description": "Chronograph | 45mm black PVD SS case | 3-layered semi-skeletonized black dial | SII Quartz movement | Hardened mineral crystal | Super-LumiNova | Full grain black leather strap with white stitching | 5 bar | Date at 12 | Chronograph, 24hr counter, split time | 2yr warranty | Best-seller",
       "series": "C1 PHANTOM",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Quartz",
+      "watchType": [
+        "Chronograph",
+        "Skeletal",
+        "Minimalist"
+      ]
     },
     {
       "id": "horpa-charcoal-fgss40ch",
@@ -560,7 +729,9 @@
       "link": "https://horpawatch.com/products/charcoal",
       "description": "FORGE Line | 40mm sandblasted 316L SS | Sapphire crystal | 3-layer charcoal textured dial (stamping, etching, laser, lacquering) | NH35 Automatic movement | Super-LumiNova C3 | Grey top-grain leather strap | 5 bar | Date | Connoisseur edition | 2yr warranty",
       "series": "FORGE",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "dwc-everest-iii-8215",
@@ -571,7 +742,9 @@
       "link": "https://delhiwatchcompany.com/products/dwc-everest-summit-series?variant=43196096774293",
       "description": "All-terrain automatic | Miyota 8215 | 316L SS case | 10 ATM WR | Sapphire crystal | 2-layer floating dial | BGW9 lume indices | Diamond pattern + sunburst effect | Screw-down crown | 4 variants: Black, Salmon, Ice Blue, Sunrise Gradient",
       "series": "EVEREST III",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "dwc-everest-iii-9015",
@@ -582,7 +755,9 @@
       "link": "https://delhiwatchcompany.com/products/dwc-everest-iii-9015?variant=47616682688661",
       "description": "All-terrain automatic | Miyota 9015 (premium movement) | 316L SS case | 10 ATM WR | Sapphire crystal | 2-layer floating dial | BGW9 lume indices | Diamond pattern + sunburst effect | Screw-down crown | 3 variants: Ice Blue, Black, Sunrise Gradient",
       "series": "EVEREST III",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "dwc-havelock-diveindia",
@@ -593,7 +768,11 @@
       "link": "https://delhiwatchcompany.com/products/dwc-havelock-x-diveindia?variant=46283866210453",
       "description": "Diver's watch | Collaboration with Dive India | 316L SS | 500M water resistance (50 ATM) | Helium escape valve | Dive-tested by Dive India | Blue or Black dial | Bracelet or Black strap | Multiple variants",
       "series": "HAVELOCK",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Unknown",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "verte-karbon",
@@ -604,7 +783,9 @@
       "link": "https://verte.co.in/products/karbon",
       "description": "Carbon fibre built case | Each piece unique pattern | Miyota 9015 / Sellita SW200-1 movement | Vulcanized FKM strap | 20 ATM water resistance | 5-year international warranty | Limited (~69 pieces left) | 2 series variants",
       "series": "PROJECT KARBON",
-      "addedAt": "2026-09-06"
+      "addedAt": "2026-09-06",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "dwc-terra",
@@ -616,7 +797,9 @@
       "description": "5th Anniversary watch | Carabiner-inspired design | 316L SS | Multiple finishes: Sandblasted SS (\u20b94,499), Black DLC SS (\u20b94,999), Vertically Brushed SS | Pre-orders closed \u2014 dispatch Oct 2026 onwards",
       "series": "TERRA",
       "addedAt": "2026-09-06",
-      "notes": "PRE-ORDERS CLOSED"
+      "notes": "PRE-ORDERS CLOSED",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "jaipur-roman-baagh-steel-bw02",
@@ -627,7 +810,9 @@
       "link": "https://jaipur.watch/products/bw02",
       "description": "Baagh Collection | Made from 1947 British India One Rupee Coin (Tiger) | Miyota 8215 Automatic | 43mm 316L SS | Sapphire crystal (front & back) with AR coating | 22mm genuine leather strap | 5 ATM | 42hr power reserve",
       "series": "BAAGH",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "jaipur-devanagari-baagh-steel-bw03",
@@ -638,7 +823,9 @@
       "link": "https://jaipur.watch/products/bw03",
       "description": "Baagh Collection | Made from 1947 British India One Rupee Coin (Tiger) | Miyota 8215 Automatic | 43mm 316L SS | Sapphire crystal (front & back) with AR coating | 22mm genuine leather strap | 5 ATM | 42hr power reserve | Devanagari numerals",
       "series": "BAAGH",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "sylvi-certified-imperfect-vanguard-black",
@@ -649,7 +836,9 @@
       "link": "https://sylvi.in/collections/certified-imperfect-watches/products/certified-imperfect-vanguard-black-silver-silicone",
       "description": "Certified Imperfect | Vanguard | Black dial | Silicone strap | Quartz | Budget-friendly",
       "series": "CERTIFIED IMPERFECT",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sylvi-rig-one-o-one-rosegold-black",
@@ -660,7 +849,9 @@
       "link": "https://sylvi.in/collections/watches-for-men/products/certified-imperfect-rig-one-o-one-rosegold-black-wt-max",
       "description": "Certified Imperfect | Rig One O One | Rose Gold & Black | WT Max",
       "series": "CERTIFIED IMPERFECT",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "orient-revival-world-map-ra-aa0e02e",
@@ -671,7 +862,13 @@
       "link": "https://orient-watch.com/en/orient/collection/revival/world-map/RA-AA0E02E/",
       "description": "Revival World Map | F6922 Automatic movement | Green dial | 43.5mm SS case | 200m water resistance | Curved crystal | 22 jewels | Day/date display | Screw-back | Magnetic resistance JIS Type 1 | 3yr warranty",
       "series": "REVIVAL WORLD MAP",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Dive",
+        "Heritage",
+        "Minimalist"
+      ]
     },
     {
       "id": "orient-retro-future-camera-ra-ar0202e",
@@ -682,7 +879,11 @@
       "link": "https://orient-watch.com/en/orient/collection/revival/retro-future-camera/RA-AR0202E/",
       "description": "Retro Future Camera | F6S22 Automatic | Green dial | 40.8mm Black PVD SS case | Rotating bezel | 50m water resistance | Luminous light | See-through caseback | 3yr warranty",
       "series": "RETRO FUTURE",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "orient-flusso-ra-bb0203l",
@@ -693,7 +894,11 @@
       "link": "https://orient-watch.com/en/orient/collection/contemporary/flusso/RA-BB0203L/",
       "description": "Flusso | F6522 Automatic | Blue dial | 39mm SS case | 100m water resistance | Sapphire crystal | Luminous | 22 jewels | Trifold deployant buckle | 3yr warranty",
       "series": "FLUSSO",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "orient-diver-chrono-solar-ra-tx0210l",
@@ -704,7 +909,12 @@
       "link": "https://orient-watch.com/en/orient/collection/sports/diver-design-choronograph-solar-powered/RA-TX0210L/",
       "description": "Diver Design Chronograph Solar Powered | VS752 Solar movement | Sky blue dial | 42.8mm SS case | 200m water resistance | Sapphire crystal | Rotating bezel | Screw down crown | Limited to 1000 pieces",
       "series": "DIVER DESIGN CHRONO",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Solar",
+      "watchType": [
+        "Dive",
+        "Chronograph"
+      ]
     },
     {
       "id": "orient-day-night-ra-as0008b",
@@ -715,7 +925,9 @@
       "link": "https://orient-watch.com/en/orient/collection/classic/day-and-night/RA-AS0008B/",
       "description": "Day & Night | F6L24 Automatic | Black dial | 42mm SS case | 50m water resistance | Curved sapphire crystal | See-through caseback | Magnetic resistance | 3yr warranty",
       "series": "DAY & NIGHT",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "orient-classic-day-night-ra-ak0806l",
@@ -726,7 +938,11 @@
       "link": "https://orient-watch.com/en/orient/collection/classic/classic-and-simple-style-day-and-night/RA-AK0806L/",
       "description": "Classic & Simple Day & Night | F6B24 Automatic | Navy dial | 41.5mm SS case | 30m water resistance | Box crystal | Day/date display | See-through caseback | Magnetic resistance | 3yr warranty",
       "series": "CLASSIC DAY & NIGHT",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Minimalist"
+      ]
     },
     {
       "id": "orient-stretto-semi-skeleton-ra-ar0001s",
@@ -737,7 +953,11 @@
       "link": "https://orient-watch.com/en/orient/collection/contemporary/stretto-semi-skeleton/RA-AR0001S/",
       "description": "Stretto Semi Skeleton | F6S22 Automatic | White dial | 40.8mm Gold PVD SS case | Sapphire crystal | Luminous | See-through caseback | 3yr warranty",
       "series": "STRETTO SEMI SKELETON",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "orient-stretto-semi-skeleton-ra-ar0012n",
@@ -748,7 +968,11 @@
       "link": "https://orient-watch.com/en/orient/collection/contemporary/stretto-semi-skeleton/RA-AR0012N/",
       "description": "Stretto Semi Skeleton | F6S22 Automatic | Grey dial | 40.8mm SS case | 24 jewels | Sapphire crystal | Luminous | See-through caseback | Magnetic resistance | Limited to 2800 pieces",
       "series": "STRETTO SEMI SKELETON",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "orient-stretto-semi-skeleton-ra-ar0009l",
@@ -759,7 +983,11 @@
       "link": "https://orient-watch.com/en/orient/collection/contemporary/stretto-semi-skeleton/RA-AR0009L/",
       "description": "Stretto Semi Skeleton | F6S22 Automatic | Light Blue dial | 40.8mm SS case | 24 jewels | Sapphire crystal | Luminous | See-through caseback | Magnetic resistance | 3yr warranty",
       "series": "STRETTO SEMI SKELETON",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "orient-stretto-day-night-ra-ak0311n",
@@ -770,7 +998,11 @@
       "link": "https://orient-watch.com/en/orient/collection/contemporary/stretto-day-and-night/RA-AK0311N/",
       "description": "Stretto Day & Night | F6B24 Automatic | Grey dial | 41.5mm SS case | 50m water resistance | Sapphire crystal | Day/date | Luminous | See-through caseback | Limited to 2500 pieces",
       "series": "STRETTO DAY & NIGHT",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Minimalist"
+      ]
     },
     {
       "id": "sebastian-baori",
@@ -781,7 +1013,11 @@
       "link": "https://sebastianwatchco.com/watches/baori/",
       "description": "Meenakari Collection | Solid silver hand-etched dial | Kachhi Meenakari enamel work | 0231 mechanical winding movement | Preorder edition of 101 numbered pieces",
       "series": "MEENAKARI",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Mechanical",
+      "watchType": [
+        "Limited Edition"
+      ]
     },
     {
       "id": "majestic-craftsmen-monarch-bronze",
@@ -792,7 +1028,11 @@
       "link": "https://majesticcraftsmen.com/product/monarch-bronze/",
       "description": "Monarch | Miyota 8205 Automatic (gilt finish) | Sector dial inspired by Ashoka Chakra | Hidden lume at night | 316L SS case | Weekdater (day+date) | Exhibition caseback | Indian Heritage theme",
       "series": "MONARCH",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "horpa-forge-ash-fgss40as",
@@ -803,7 +1043,9 @@
       "link": "https://horpawatch.com/products/ash",
       "description": "FORGE Line | 40mm sandblasted 316L SS | Special grey 3-layer dial (stamping, etching, laser cutting) | Sapphire crystal | NH35 Automatic | Luminous hands | Green buffalo leather strap | 5 bar | Date",
       "series": "FORGE",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "horpa-c1-military-c1sg4507",
@@ -814,7 +1056,13 @@
       "link": "https://horpawatch.com/products/c1sg4507",
       "description": "C1 Military | 45mm gunmetal PVD SS case | 3-layered semi-skeletonized green lacquered dial | SII Quartz movement | Super-LumiNova | Full grain green leather strap with white stitching | 5 bar | Date at 12 | Chronograph, 24hr counter, split time",
       "series": "C1 MILITARY",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Quartz",
+      "watchType": [
+        "Chronograph",
+        "Skeletal",
+        "Minimalist"
+      ]
     },
     {
       "id": "avarth-waqt",
@@ -825,7 +1073,11 @@
       "link": "https://avarth.com/products/waqt",
       "description": "Jump Hour Complication | Modified Miyota Gearbox Quartz | 24-hour sub-dial | Radial guilloch\u00e9 sunray dial | 304 SS case | Embossed Guilloche Pattern dial | Genuine leather strap with saddle stitching | 5 ATM | 43mm",
       "series": "WAQT",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Quartz",
+      "watchType": [
+        "GMT"
+      ]
     },
     {
       "id": "mnmlst-phantom-2-nebula",
@@ -837,7 +1089,9 @@
       "description": "Cushion case | Brass | 44mm | Blue nebula dial with rose gold details | Miyota quartz | Genuine leather strap | Toughened mineral glass | 30M WR | Date complication",
       "series": "PHANTOM 2.0",
       "addedAt": "2026-09-20",
-      "notes": "SOLD OUT"
+      "notes": "SOLD OUT",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "cypher-legacy-cognac",
@@ -849,7 +1103,11 @@
       "description": "Return of the Curve | Japanese Quartz Epson VL57 | 40mm | Domed sapphire crystal | Hobnail guilloch\u00e9 dial | Rose gold two-tone | Small seconds at 6 | Vintage curved/dished dial | India 1960s caseback story | Lifetime Promise option | Limited to 600 pieces",
       "series": "LEGACY",
       "addedAt": "2026-09-20",
-      "notes": "PRE-BOOKING (dispatch Oct 30, 2026)"
+      "notes": "PRE-BOOKING (dispatch Oct 30, 2026)",
+      "movement": "Quartz",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "cypher-aphelion",
@@ -860,7 +1118,9 @@
       "link": "https://cypherwatches.com/products/cypher-aphelion",
       "description": "LIMITED 475 PIECES | Miyota 8247 Automatic (discontinued, 21 jewels, 21,600 vph) | \u00b115 sec/day regulated by hand in Mumbai | 38mm 316L SS cushion case | Multi-pass nebula dial (deep space, printed on brass) | Domed sapphire crystal AR-coated | Sapphire exhibition caseback with nebula PRINTED ON SAPPHIRE | 10 ATM | Deep navy suede strap",
       "series": "APHELION",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "czard-veni",
@@ -871,7 +1131,12 @@
       "link": "https://www.czard.com/products/veni",
       "description": "LIMITED (numbered) | Rose gold over charcoal finished dial | Inspired by Patek Philippe Ref. 1463 \"Tasti Tondi\" chronograph | Round fluted pushers reinterpreted in rose gold | 38mm case | Chronograph | 1yr warranty standard | Extended warranty add-ons available",
       "series": "VENI",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph",
+        "Limited Edition"
+      ]
     },
     {
       "id": "czard-lac-leman",
@@ -882,7 +1147,11 @@
       "link": "https://www.czard.com/products/lac-leman",
       "description": "LIMITED | Deep glassy blue dial | Calm at first glance, endlessly shifting beneath the light | High-end Czard piece | Extended warranty add-ons available (+\u20b91999/+\u20b93999/+\u20b99999 for numbered watch)",
       "series": "LAC L\u00c9MAN",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Unknown",
+      "watchType": [
+        "Limited Edition"
+      ]
     },
     {
       "id": "muse-grandeur",
@@ -893,7 +1162,11 @@
       "link": "https://in.musewearables.com/products/muse-grandeur",
       "description": "Hybrid Smartwatch | Own Muse Movement (Bluetooth 4.2, accelerometer, vibration motor) | Activity sub-dial | Bi-directional hand movement | Premium matte finish dial (Black/Blue/White/Green) | SS case 40mm | Glass | 50M WR | Android 6.0+ / iOS 15+ | CR2430 battery (1yr life) | Multiple strap options",
       "series": "GRANDEUR",
-      "addedAt": "2026-09-20"
+      "addedAt": "2026-09-20",
+      "movement": "Unknown",
+      "watchType": [
+        "Smartwatch"
+      ]
     },
     {
       "id": "timex-automatic-silver-tweg208smu08",
@@ -904,7 +1177,12 @@
       "link": "https://www.flipkart.com/timex-automatic-silver-dial-analog-watch-men/p/itm1d2eb5fb5f447",
       "description": "Automatic | Silver dial | 37.3mm | Formal | Analog | SS case | 12 months Flipkart warranty | 4.5\u2605 rating (764 reviews)",
       "series": "AUTOMATIC",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Automatic",
+      "watchType": [
+        "Ladies",
+        "Dress"
+      ]
     },
     {
       "id": "timex-automatic-silver-tweg311smu01",
@@ -916,7 +1194,11 @@
       "description": "Automatic | Silver/black dial | 37mm | Formal | Analog | 4.6\u2605 rating (668 reviews)",
       "series": "AUTOMATIC",
       "addedAt": "2026-09-21",
-      "notes": "OUT OF STOCK"
+      "notes": "OUT OF STOCK",
+      "movement": "Automatic",
+      "watchType": [
+        "Dress"
+      ]
     },
     {
       "id": "seiko-presage-mojito-srpe45j1",
@@ -927,7 +1209,11 @@
       "link": "https://www.kamalwatch.com/products/seiko-presage-cocktail-time-mojito-watch-srpe45j1",
       "description": "Cocktail Time 'Mojito' | SRPE45J1 | Green dial | Inspired by Japanese cocktail culture | Skybar Tokyo Ginza | Light refraction pattern dial | Vintage numerals | Date display | 4R35 Automatic | Made in Japan",
       "series": "PRESAGE COCKTAIL TIME",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Automatic",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "sonata-poze-sp70021sl02w",
@@ -938,7 +1224,11 @@
       "link": "https://www.sonatawatches.in/product/poze-by-sonata-quartz-analog-green-dial-green-leather-strap-watch-for-men-sp70021sl02w.html",
       "description": "Poze by Sonata | Quartz Analog | Green dial | Green leather strap | Men's watch",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "sonata-poze-sp70048nm01",
@@ -949,7 +1239,11 @@
       "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-black-dial-watch-for-men-with-black-color-stainless-steel-strap-sp70048nm01.html",
       "description": "Poze by Sonata | Quartz Analog | Black dial | Black stainless steel strap | Men's watch",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "sonata-wedding-77157bm01",
@@ -960,7 +1254,11 @@
       "link": "https://www.sonatawatches.in/product/sonata-wedding-quartz-analog-blue-dial-watch-for-men-with-two-toned-stainless-steel-strap-77157bm01.html",
       "description": "Sonata Wedding | Quartz Analog | Blue dial | Two-toned stainless steel strap | Men's wedding collection",
       "series": "WEDDING",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "sonata-sleek-7152qm01",
@@ -971,7 +1269,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-sleek-quartz-analog-blue-dial-watch-for-men-with-blue-stainless-steel-strap-7152qm01.html",
       "description": "Sonata Sleek | Quartz Analog | Blue dial | Blue stainless steel strap",
       "series": "SLEEK",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-sleek-7152qm02",
@@ -982,7 +1282,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-sleek-quartz-analog-blue-dial-watch-for-men-with-blue-stainless-steel-strap-7152qm02.html",
       "description": "Sonata Sleek | Quartz Analog | Blue dial | Blue stainless steel strap",
       "series": "SLEEK",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-77149sm01",
@@ -993,7 +1295,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-quartz-analog-blue-dial-watch-for-men-with-silver-stainless-steel-strap-77149sm01.html",
       "description": "Sonata | Quartz Analog | Blue dial | Silver stainless steel strap",
       "series": "SONATA",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-poze-sp70066sm01",
@@ -1004,7 +1308,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-two-toned-dial-silver-colour-stainless-steel-strap-watch-for-men-sp70066sm01w.html",
       "description": "Sonata Poze | Quartz Analog | Two-toned dial | Silver stainless steel strap",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-poze-sp70006qm02",
@@ -1015,7 +1321,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-blue-dial-watch-for-men-with-blue-metal-strap-sp70006qm02.html",
       "description": "Sonata Poze | Quartz Analog | Blue dial | Blue metal strap",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-poze-sp70006qm01",
@@ -1026,7 +1334,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-grey-dial-watch-for-men-with-grey-metal-strap-sp70006qm01.html",
       "description": "Sonata Poze | Quartz Analog | Grey dial | Grey metal strap",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-poze-sp70109nm01",
@@ -1037,7 +1347,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-black-dial-black-metal-strap-watch-for-men-sp70109nm01w.html",
       "description": "Sonata Poze | Quartz Analog | Black dial | Black metal strap",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-poze-sp70077nm02",
@@ -1048,7 +1360,9 @@
       "link": "https://www.sonatawatches.in/product/poze-poze-quartz-analog-black-dial-black-metal-strap-watch-for-men-sp70077nm02w.html",
       "description": "Sonata Poze | Quartz Analog | Black dial | Black metal strap",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-poze-sp70094nm01",
@@ -1059,7 +1373,9 @@
       "link": "https://www.sonatawatches.in/product/poze-by-sonata-quartz-analog-black-dial-black-metal-strap-watch-for-men-sp70094nm01w.html",
       "description": "Sonata Poze | Quartz Analog | Black dial | Black metal strap",
       "series": "POZE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-eternia-77156nm01",
@@ -1070,7 +1386,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-eternia-quartz-analog-black-dial-metal-strap-watch-for-men-77156nm01.html",
       "description": "Sonata Eternia | Quartz Analog | Black dial | Metal strap",
       "series": "ETERNIA",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-jashn-77206sm01",
@@ -1081,7 +1399,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-jashn-quartz-analog-beige-dial-silver-metal-strap-watch-for-men-77206sm01.html",
       "description": "Sonata Jashn | Quartz Analog | Beige dial | Silver metal strap",
       "series": "JASHN",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "sonata-jashn-77205sm03",
@@ -1092,7 +1412,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-jashn-quartz-analog-black-dial-silver-metal-strap-watch-for-men-77205sm03.html",
       "description": "Sonata Jashn | Quartz Analog | Black dial | Silver metal strap",
       "series": "JASHN",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "ist1947-2026",
@@ -1103,7 +1425,11 @@
       "link": "https://ist1947.com/products/2026",
       "description": "Limited Edition 100 pieces | Cricket World Cup 2026 tribute | Grey carbon fiber dial | Dark blue strap | Small seconds | Automatic | 97g",
       "series": "2026",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Automatic",
+      "watchType": [
+        "Limited Edition"
+      ]
     },
     {
       "id": "sonata-vector-77197sm02",
@@ -1114,7 +1440,9 @@
       "link": "https://www.sonatawatches.in/product/sonata-vector-quartz-analog-black-dial-silver-stainless-steel-strap-watch-for-men-77197sm02.html",
       "description": "Sonata Vector | Quartz Analog | Black dial | Silver stainless steel strap",
       "series": "VECTOR",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "tissot-pr100-t1502103329100",
@@ -1125,7 +1453,9 @@
       "link": "https://www.helioswatchstore.com/tissot-unisex-pr-100-round-brown-watches-t1502103329100.html",
       "description": "Tissot PR 100 | Unisex | Round | Brown dial | Brown strap",
       "series": "PR 100",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "tissot-ballade-t1564101135100",
@@ -1136,7 +1466,9 @@
       "link": "https://www.helioswatchstore.com/tissot-men-ballade-round-blue-watches-t1564101135100.html",
       "description": "Tissot Ballade | Round | Blue dial",
       "series": "BALLADE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "edge-whimsey-10056qm02",
@@ -1147,7 +1479,9 @@
       "link": "https://www.helioswatchstore.com/edge-men-edge-whimsey-tonneau-blue-watches-10056qm02.html",
       "description": "Edge Whimsey | Tonneau case | Blue dial",
       "series": "WHIMSEY",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "citizen-an8223-54x",
@@ -1158,7 +1492,11 @@
       "link": "https://www.helioswatchstore.com/citizen-men-quartz-chronograph-round-green-watches-an822354x.html",
       "description": "Citizen Quartz Chronograph | Round | Green dial",
       "series": "CHRONOGRAPH",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Quartz",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "edge-wine-1696qc19",
@@ -1169,7 +1507,9 @@
       "link": "https://www.helioswatchstore.com/edge-men-wine-ceramic-round-maroon-watches-1696qc19.html",
       "description": "Edge Wine Ceramic | Round | Maroon dial | Ceramic",
       "series": "WINE",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "movado-bold-3600307",
@@ -1180,7 +1520,9 @@
       "link": "https://www.helioswatchstore.com/movado-men-bold-round-black-watches-3600307.html",
       "description": "Movado Bold | Round | Black dial",
       "series": "BOLD",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "tissot-pr100-t1504101135100",
@@ -1191,7 +1533,9 @@
       "link": "https://www.helioswatchstore.com/tissot-men-pr-100-round-blue-watches-t1504101135100.html",
       "description": "Tissot PR 100 | Round | Blue dial",
       "series": "PR 100",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "tissot-pr100-t1504171135100",
@@ -1202,7 +1546,9 @@
       "link": "https://www.helioswatchstore.com/tissot-men-pr-100-round-blue-watches-t1504171135100.html",
       "description": "Tissot PR 100 | Round | Blue dial",
       "series": "PR 100",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "citizen-ecodrive-at2577-57l",
@@ -1213,7 +1559,11 @@
       "link": "https://www.helioswatchstore.com/citizen-men-ecodrive-chronograph-round-blue-watches-at257757l.html",
       "description": "Citizen Eco-Drive Chronograph | Round | Blue dial",
       "series": "ECODRIVE CHRONOGRAPH",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Eco-Drive",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "citizen-ecodrive-at2576-50x",
@@ -1224,7 +1574,11 @@
       "link": "https://www.helioswatchstore.com/citizen-men-ecodrive-chronograph-round-green-watches-at257650x.html",
       "description": "Citizen Eco-Drive Chronograph | Round | Green dial",
       "series": "ECODRIVE CHRONOGRAPH",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Eco-Drive",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "citizen-tsuyosa-nk5010-51l",
@@ -1235,7 +1589,9 @@
       "link": "https://www.helioswatchstore.com/citizen-men-tsuyosa-small-second-round-blue-watches-nk501051l.html",
       "description": "Citizen Tsuyosa | Small seconds | Round | Blue dial",
       "series": "TSUYOSA",
-      "addedAt": "2026-09-21"
+      "addedAt": "2026-09-21",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "addieskin-k006",
@@ -1246,7 +1602,11 @@
       "link": "https://www.addiesdivewatches.com/products/addieskin-40mm-crystallized-titanium-dial-miyota-9015-luxury-automatic-watch-k006",
       "description": "40mm Crystallized Titanium Dial | Miyota 9015 Automatic | BGW9 Super Luminous | Sapphire Crystal | 316L SS Bracelet | 20 ATM (200m) | 40mm | 11mm thick | Multiple dial colors: Deep cobalt blue, light lake blue, teal grey",
       "series": "K006",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Automatic",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "addiesdive-ad2073",
@@ -1257,7 +1617,11 @@
       "link": "https://www.addiesdivewatches.com/products/india-warehouse-addiesdive-36mm-dj-homage-men-watch-ad2073",
       "description": "36mm DJ Homage | VH31 Sweeping Second Movement | 316L Stainless Steel | Sapphire Crystal | 10 ATM (100m) | BGW9 Swiss Luminous | Screw-down Crown | Multiple colors: Grey, Red, Green",
       "series": "AD2073",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "addiesdive-ad2096",
@@ -1268,7 +1632,11 @@
       "link": "https://www.addiesdivewatches.com/products/india-warehouse-addiesdive-36mm-explore-dive-watch-vh31-quartz-watch-ad2096",
       "description": "36mm Explore Dive | VH31 Quartz Movement | K1 Mineral Glass with Blue Light AG Coating | Black dial with BGW-9 Super Luminous | 316L SS Bracelet | 10 ATM (100m) | Screw-down Crown",
       "series": "AD2096",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "addiesdive-ad2075",
@@ -1279,7 +1647,11 @@
       "link": "https://www.addiesdivewatches.com/products/india-warehouse-addiesdive-39mm-3d-bark-texture-dial-nh35-automatic-watch-ad2075",
       "description": "39mm 3D Bark Texture Dial | NH35A Automatic Movement | Sapphire Glass with AR Coating | BGW9 Super Luminous | 316L SS | 10 ATM (100m) | Screw-down Crown",
       "series": "AD2075",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Automatic",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "addies-aw25913",
@@ -1290,7 +1662,12 @@
       "link": "https://www.addiesdivewatches.com/products/addies-31mm-womens-luxury-quartz-watch-aw25913",
       "description": "31mm Women's Luxury | GM12 Quartz Movement | Sapphire Crystal | Czech Rhinestone Accents | 316L SS Bracelet | Turtle Back Clasp | 5 ATM (50m) | 7.3mm thin",
       "series": "AW25913",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Ladies",
+        "Gents"
+      ]
     },
     {
       "id": "spinnaker-branner-sp-5062-11",
@@ -1301,7 +1678,9 @@
       "link": "https://www.amazon.in/Spinnaker-Automatic-Stainless-Bracelet-SP-5062-11/dp/B07XLCS9JV",
       "description": "42mm Bradner Automatic | Petrol Black dial | Solid Stainless Steel Bracelet | SP-5062-11",
       "series": "BRADNER",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "addiesdive-ad2030",
@@ -1312,7 +1691,11 @@
       "link": "https://www.addiesdivewatches.com/products/new-addiesdive-36mm-quartz-watch-vh31-movement-ad2030",
       "description": "36mm | VH31/VH60 sweep seconds quartz movement | Mineral Crystal Bubble Convex Glass with Blue Light AG Coating | Multiple dial colors: White, Blue, Desert Yellow | 316L SS Bracelet | 10 ATM (100m) | Screw-down Crown",
       "series": "AD2030",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "casio-mtp-sn4kd-2a",
@@ -1323,7 +1706,9 @@
       "link": "https://www.casio.com/in/watches/casio/product.MTP-SN4KD-2A/",
       "description": "Casio Classic | MTP-SN4KD-2A | Round dial | Stainless steel strap",
       "series": "CLASSIC",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "casio-mtp-vd03b-2a",
@@ -1334,7 +1719,9 @@
       "link": "https://www.casio.com/in/watches/casio/product.MTP-VD03B-2A/",
       "description": "Casio | MTP-VD03B-2A | Round dial | Black",
       "series": "CLASSIC",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "casio-mtp-1375d-7av",
@@ -1345,7 +1732,9 @@
       "link": "https://www.casio.com/in/watches/casio/product.MTP-1375D-7AV/",
       "description": "Casio | MTP-1375D-7AV | Round dial | Stainless steel",
       "series": "CLASSIC",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "casio-edifice-eqb-1300d-2a",
@@ -1356,7 +1745,9 @@
       "link": "https://www.casio.com/in/watches/edifice/product.EQB-1300D-2A/",
       "description": "Casio Edifice | EQB-1300D-2A | Round dial | Stainless steel",
       "series": "EDIFICE",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "vostok-prestige-581096",
@@ -1367,7 +1758,9 @@
       "link": "https://www.etsy.com/in-en/listing/1155189983/vostok-prestige-581096-mechanical-watch",
       "description": "Vostok Prestige | 581096 | Mechanical watch | From Etsy",
       "series": "PRESTIGE",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Mechanical",
+      "watchType": []
     },
     {
       "id": "narion-bihango",
@@ -1378,7 +1771,9 @@
       "link": "https://narionwatch.com/product/bihango/",
       "description": "Hand-painted bird artwork inspired by Midnapore pattachitra | Miyota 2035 Quartz | 40mm chromium-plated brass alloy case | Handmade leather strap | Butterfly clasp | Limited handmade production | Each piece unique",
       "series": "BIHANGO",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "anka-east-india-co-1840",
@@ -1389,7 +1784,9 @@
       "link": "https://anka.watch/products/east-india-co-1840-1-2-rupee-056",
       "description": "1835 East India Company \u00bd Rupee coin embedded in oak wood case | Victorian era relic | Silver coin with Victoria's portrait | Oak wood craftsmanship | ANKA-C-1840EIC-1/2R-M-VIC-056 | Limited collectible",
       "series": "EAST INDIA CO.",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "ovd-da-vinci-1452",
@@ -1401,7 +1798,9 @@
       "description": "42mm Stainless steel case | Miyota 90S5 Japan movement | Handcrafted leather strap | Pre-order (Nov 2023)",
       "series": "DA VINCI",
       "addedAt": "2026-09-22",
-      "notes": "PRE-ORDER (2023)"
+      "notes": "PRE-ORDER (2023)",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "ovd-full-moon-m1-f01",
@@ -1413,7 +1812,9 @@
       "description": "Stainless steel case | Miyota 9039 Japan movement | Genuine leather strap | Stainless steel caseback",
       "series": "FULL MOON",
       "addedAt": "2026-09-22",
-      "notes": "PRE-ORDER"
+      "notes": "PRE-ORDER",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "ando-vinyl-record-classic",
@@ -1425,7 +1826,11 @@
       "description": "Vinyl record player-inspired watch | Miyota 9039 Premium Automatic | Record label is the hour hand | Tonearm is the minute hand | Center disc is the second | Red-Black-Silver (RBS) | Pre-order (Shipping end of 2026)",
       "series": "VINTAGE RECORD",
       "addedAt": "2026-09-22",
-      "notes": "PRE-ORDER (shipping end of 2026)"
+      "notes": "PRE-ORDER (shipping end of 2026)",
+      "movement": "Automatic",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "baltic-hms-003-silver-blue",
@@ -1436,7 +1841,11 @@
       "link": "https://baltic-watches.com/en/products/hms-003-silver-blue",
       "description": "36.5mm 316L Stainless Steel | Miyota 8315 Automatic | 60 hours power reserve | High-domed hesalite glass | Brushed and sandy dial | 5 ATM (50m) | Multiple strap options: Navy blue stitched, Saffiano black, green, lion, beads of rice",
       "series": "HMS 003",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Automatic",
+      "watchType": [
+        "Minimalist"
+      ]
     },
     {
       "id": "kala-warli-terracotta",
@@ -1447,7 +1856,11 @@
       "link": "https://kalawatches.com/products/warli-art-edition-terracotta",
       "description": "3-layer dial inspired by Warli art | TMI VK64 (3 year battery) | 316L SS | Domed mineral glass vintage look | Etched Warli peacock on screw-down caseback | Multiple strap options",
       "series": "WARLI ART EDITION",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "coromandel-bhoomi-ii",
@@ -1459,7 +1872,12 @@
       "description": "Limited Edition 3,000pcs | Indian heritage artwork dial | Kalpavriksh Tree of Life, Mysore Palace, Temple Gopuram, Stone Chariot Wheel, Indian Elephant, Blue Bird | Miyota 8215 Automatic (40hr power reserve) | 38mm 316L SS | Sapphire Crystal with AR coating | Cathedral blued hands + red seconds | Green suede leather (develops patina) | 100m WR | Screw-down exhibition caseback | C3 Super-LumiNova",
       "series": "BHOOMI II",
       "addedAt": "2026-09-22",
-      "notes": "SOLD OUT"
+      "notes": "SOLD OUT",
+      "movement": "Automatic",
+      "watchType": [
+        "Heritage",
+        "Limited Edition"
+      ]
     },
     {
       "id": "watchdives-wd0003c",
@@ -1470,7 +1888,11 @@
       "link": "https://dream-watches.com/products/watchdives-wd0003c-enamel-dial-men-watch-ice-crystal-titanium-dial",
       "description": "Ice crystal titanium dial (Aventurine blue or black) | VH31 sweep seconds quartz | Sapphire Crystal with 3-layer AR coating | 37mm 316L SS | Super Luninova BGW9 BGW9 Blue Light on hands/markers | Screw-down crown & caseback | Split pin bracelet with quick release | 10 ATM (100m)",
       "series": "WD0003C",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Dive"
+      ]
     },
     {
       "id": "mandetbrote-orbital-orange-crush",
@@ -1481,7 +1903,9 @@
       "link": "https://mandetbrote.com/products/orbital-orange-crush",
       "description": "Limited 500pcs | 41.2mm 316L SS with DLC coating | Miyota 9015 (42hr power reserve) | Sapphire crystal with AR coating | Exhibition sapphire caseback | Swiss Super-LumiNova dial | Rotating disc/time-telling concept | 20-18mm leather strap with SS butterfly buckle | 5 ATM",
       "series": "ORBITAL",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "elfen-witty-walnut",
@@ -1492,7 +1916,9 @@
       "link": "https://elfenwatches.com/products/the-witty-walnut-1",
       "description": "Kosso natural grain wood case and strap | Japanese 6P20 Quartz Movement | 43mm | Rust dial with black/white hands | Cascade lock | Butterfly clasp | Splash proof | Weighs under 80g | Comes in wooden box | 1 year warranty",
       "series": "WITTY WALNUT",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "elfen-wengen-grail",
@@ -1503,7 +1929,9 @@
       "link": "https://elfenwatches.com/products/the-wengen-grail",
       "description": "Elfen Wengen Grail | Wooden watch | Kosso wood | Japanese movement | Under 80g | 1 year warranty",
       "series": "WENGEN GRAIL",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "elfen-aston-dark",
@@ -1514,7 +1942,9 @@
       "link": "https://elfenwatches.com/products/aston-dark",
       "description": "Elfen Aston Dark | Wooden watch | Dark finish | Japanese movement | Under 80g | 1 year warranty",
       "series": "ASTON DARK",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "elfen-7-black",
@@ -1525,7 +1955,9 @@
       "link": "https://elfenwatches.com/products/7-black",
       "description": "Elfen 7 Black | Wooden watch | Black finish | Japanese movement | Under 80g | 1 year warranty",
       "series": "7 BLACK",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "elfen-lost-wade",
@@ -1536,7 +1968,9 @@
       "link": "https://elfenwatches.com/products/lost-wade",
       "description": "Elfen Lost Wade | Wooden watch | Japanese movement | Under 80g | 1 year warranty",
       "series": "LOST WADE",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "ajanta-orian-green-awcexl0201g2",
@@ -1547,7 +1981,12 @@
       "link": "https://ajantawatchcompany.com/products/awcexl0201g-2",
       "description": "Orian Collection | 38.7mm dial | 8.9mm slim profile | Quartz PC32 movement | Green dial | Stainless steel bracelet with butterfly buckle | 3 ATM water resistant",
       "series": "ORIAN",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Minimalist",
+        "Slim"
+      ]
     },
     {
       "id": "ajanta-halo-blue-awc132esg4",
@@ -1558,7 +1997,9 @@
       "link": "https://ajantawatchcompany.com/collections/best-seller-men/products/ajanta-quartz-blue-dial-silver-analog-watch-for-men-stainless-steel-strap-with-day-date-display-awc132esg-4",
       "description": "Halo Collection | Blue textured dial | 42mm | Silver-tone stainless steel case and bracelet | Day-date display | Crystal-style hour markers | 42mm big dial for medium to large wrists",
       "series": "HALO",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "ajanta-orian-silver-awcexl0201g3",
@@ -1569,7 +2010,12 @@
       "link": "https://ajantawatchcompany.com/collections/all-watches-mens/products/awcexl0201g-3",
       "description": "Orian Collection | Silver stainless steel dial | 38.7mm | 8.9mm slim profile | Quartz PC32 movement | Stainless steel bracelet with butterfly buckle | 3 ATM water resistant",
       "series": "ORIAN",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "Minimalist",
+        "Slim"
+      ]
     },
     {
       "id": "ajanta-halo-black-awc132esg2",
@@ -1580,7 +2026,9 @@
       "link": "https://ajantawatchcompany.com/collections/all-watches-mens/products/ajanta-quartz-black-dial-silver-analog-watch-for-men-stainless-steel-strap-with-day-amp-date-display-awc132esg-2",
       "description": "Halo Collection | Black dial | 42mm | Silver-tone stainless steel case and bracelet | Day-date display | Crystal-style hour markers | 42mm big dial for medium to large wrists",
       "series": "HALO",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "ajanta-zorren-black-awc502blsbbbl",
@@ -1591,7 +2039,11 @@
       "link": "https://ajantawatchcompany.com/products/awc502-1isg-bls-b-bl",
       "description": "Zorren Collection | Black dial | Minimalist hour markers | White contrasting hands | Sweeping second hand | Day-date at 3 o'clock (red day display) | 43.25mm | Black-tone finish",
       "series": "ZORREN",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": [
+        "Minimalist"
+      ]
     },
     {
       "id": "avarth-avanti",
@@ -1602,7 +2054,11 @@
       "link": "https://avarth.com/products/avanti",
       "description": "India's prime meridian watch | Swiss Ronda 515.24H | IST GMT +5:30 offset display | Hours, Minutes, IST Hands, Date | Stainless Steel case | Sapphire Crystal with AR Coating | 20mm SS bracelet | 5 ATM (50m)",
       "series": "AVANTI",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Quartz",
+      "watchType": [
+        "GMT"
+      ]
     },
     {
       "id": "extreme-ignition",
@@ -1613,7 +2069,11 @@
       "link": "https://www.rugsac.co.in/products/ignition",
       "description": "Jumping hour complication | Inspired by revving engine rhythm | 316L stainless steel | Multiple colors: Black, Orange | Optional extra orange strap (+\u20b92,000) | Instrument-inspired dashboard design",
       "series": "IGNITION",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": [
+        "GMT"
+      ]
     },
     {
       "id": "extreme-torque",
@@ -1624,7 +2084,11 @@
       "link": "https://www.rugsac.co.in/products/torque",
       "description": "Jumping hour complication | Motorsports odometer-inspired | Drive Button + Shift Button controls | 316L stainless steel | Buttoned crystal | Grey and Orange variants | Precision instrument design",
       "series": "TORQUE",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": [
+        "GMT"
+      ]
     },
     {
       "id": "extreme-saturn",
@@ -1635,7 +2099,9 @@
       "link": "https://www.rugsac.co.in/products/saturn",
       "description": "Curved sapphire ball crystal (Saturn-inspired) | Magnetically guided steel bearing hour indicator | Swivel wheel minute display | Soft matte finish | Sculptural design | 3 ATM (splash resistant)",
       "series": "SATURN",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "oblik-velocity-silver",
@@ -1646,7 +2112,11 @@
       "link": "https://www.rugsac.co.in/products/velocity",
       "description": "Skeleton dial inspired by sports car rims | Miyota automatic movement | Screwed down exhibition caseback | High-grade materials | Silver finish",
       "series": "VELOCITY",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal"
+      ]
     },
     {
       "id": "extreme-nebula",
@@ -1657,7 +2127,9 @@
       "link": "https://www.rugsac.co.in/products/nebula",
       "description": "Traditional hour hand + magnetically guided steel bearing for minutes | Matte finish | Cosmic Blue and Misty Grey variants | 3 ATM (splash resistant)",
       "series": "NEBULA",
-      "addedAt": "2026-09-22"
+      "addedAt": "2026-09-22",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "maxima-apex-75301cmgr",
@@ -1668,7 +2140,9 @@
       "link": "https://www.maximawatches.com/products/apex-collection-75301cmgr/",
       "description": "Maxima Apex Collection | 75301CMGR | Premium Indian timepiece (since 1966) | Known for guaranteed waterproof watches",
       "series": "APEX",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "maxima-apex-mf-black-74492lmgb",
@@ -1679,7 +2153,11 @@
       "link": "https://www.maximawatches.com/products/mf-black-apex-gents-74492lmgb/",
       "description": "Maxima Apex | MF Black | Gents watch | 74492LMGB",
       "series": "APEX",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Unknown",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "maxima-72141cmgt",
@@ -1690,7 +2168,9 @@
       "link": "https://www.maximawatches.com/products/maxima-analog-watch-for-men-72141cmgt/",
       "description": "Maxima Analog Watch for Men | 72141CMGT",
       "series": "MAXIMA",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "maxima-apex-mf-73021cmgi",
@@ -1701,7 +2181,11 @@
       "link": "https://www.maximawatches.com/products/mf-apex-gents-73021cmgi/",
       "description": "Maxima Apex MF Gents | 73021CMGI",
       "series": "APEX",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Unknown",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "maxima-attivo-67160lmgr",
@@ -1712,7 +2196,11 @@
       "link": "https://www.maximawatches.com/products/maxima-attivo-men-silver-dial-analogue-watch-67160lmgr/",
       "description": "Maxima Attivo | Silver dial analog | Men's watch | 67160LMGR",
       "series": "ATTIVO",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Unknown",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "verte-urbn",
@@ -1723,7 +2211,9 @@
       "link": "https://verte.co.in/products/verte-urbn-quartzwatch",
       "description": "5-disc time display mechanism | Flagship Timekeeper Edition | Mechanical ingenuity | Bold precision design",
       "series": "URBN",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Mechanical",
+      "watchType": []
     },
     {
       "id": "daniel-klein-dk12221-5",
@@ -1734,7 +2224,11 @@
       "link": "https://www.myntra.com/watches/daniel+klein/daniel-klein-premium-men-black-analogue-watch-dk12221-5/10602700/buy",
       "description": "Daniel Klein Premium | Black analog dial | Men's watch | Myntra",
       "series": "PREMIUM",
-      "addedAt": "2026-09-23"
+      "addedAt": "2026-09-23",
+      "movement": "Unknown",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "zenmo-casino-metal-diamond-chrome",
@@ -1745,7 +2239,9 @@
       "link": "https://www.zenmo.shop/products/casino-metal-diamond-chrome",
       "description": "Casino Metal Diamond Chrome | Chrome finish | Standard or Personalization option | Zenmo.Shop",
       "series": "CASINO",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "zenmo-cosmos-guru-jupiter",
@@ -1756,7 +2252,9 @@
       "link": "https://www.zenmo.shop/products/magneto-m-1",
       "description": "Cosmos Guru (Jupiter) | Zenmo.Shop | Standard or Personalization option",
       "series": "COSMOS GURU",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "franklord-empress-emerald-green",
@@ -1767,7 +2265,12 @@
       "link": "https://franklord.in/products/franklord-empress-emerald-green-silver-womens-automatic-watch",
       "description": "Franklord Empress | Emerald Green & Silver | Women's Automatic Watch | Silver case | SKU FL-12",
       "series": "EMPRESS",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Automatic",
+      "watchType": [
+        "Ladies",
+        "Gents"
+      ]
     },
     {
       "id": "franklord-optimus-20-crimson-red",
@@ -1778,7 +2281,9 @@
       "link": "https://franklord.in/products/franklord-optimus-2-0-crimson-red-japanese-automatic-watch",
       "description": "Crimson Red sunray dial | 40mm 316L surgical stainless steel | Dual Sapphire: AR-coated front + exhibition caseback | Japanese 21-Jewel Automatic (42hr power reserve) | 100m swim-rated | Swiss Super-LumiNova | Integrated SS bracelet with butterfly clasp | Premium collector's box | 2-year warranty",
       "series": "OPTIMUS 2.0",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "franklord-ultra-slim-cognac-brown",
@@ -1789,7 +2294,12 @@
       "link": "https://franklord.in/collections/franklord-ultra-slim-watches/products/franklord-ultra-slim-cognac-brown-watch",
       "description": "Ultra-Slim 5mm profile | Swiss precision movement | Scratch-proof sapphire crystal | Cognac brown sunray dial | Silver case | For the connoisseur | SKU FL-71",
       "series": "ULTRA-SLIM",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Unknown",
+      "watchType": [
+        "Minimalist",
+        "Slim"
+      ]
     },
     {
       "id": "franklord-heritage-open-heart-rustic-luxe",
@@ -1800,7 +2310,12 @@
       "link": "https://franklord.in/collections/franklord-heritage-open-heart-collection-luxury-automatic-watches-for-men/products/franklord-heritage-open-heart-rustic-luxe-brown-strap-silver-dial-automatic-watch-for-men",
       "description": "Heritage Open Heart | Rustic Luxe | Sunburst silver dial with Roman numerals | Miyota open heart automatic | Domed sapphire crystal | Genuine brown alligator-grain leather strap | Small seconds subdial at 5 o'clock | Brushed 316L SS case | SKU FL-82",
       "series": "HERITAGE OPEN HEART",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Automatic",
+      "watchType": [
+        "Skeletal",
+        "Heritage"
+      ]
     },
     {
       "id": "franklord-regal-roman-eclipse-blue",
@@ -1811,7 +2326,9 @@
       "link": "https://franklord.in/collections/franklord-regal-sapphire-roman-series-luxury-automatic-watches/products/franklord-regal-sapphire-roman-eclipse-blue-luxury-automatic",
       "description": "Regal Sapphire Roman | Eclipse Blue sunburst dial with polished silver Roman numerals | Miyota 8215 Automatic (42hr power reserve) | Scratch-resistant sapphire crystal | Stainless steel case & bracelet | 5ATM water resistance | Chain bracelet (\u20b98,499) or leather strap (\u20b97,499)",
       "series": "REGAL SAPPHIRE ROMAN",
-      "addedAt": "2026-09-24"
+      "addedAt": "2026-09-24",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "fastrack-gelato-3344kl01",
@@ -1822,7 +2339,11 @@
       "link": "https://www.fastrack.in/product/fastrack-gelato-black-chronograph-watch-with-chocolate-dial-for-guys-3344kl01.html",
       "description": "Fastrack Gelato | Chronograph | Black | Chocolate dial | Fastrack",
       "series": "GELATO",
-      "addedAt": "2026-09-25"
+      "addedAt": "2026-09-25",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "casio-enticer-mtp-1302pe-2av-a2394",
@@ -1833,7 +2354,9 @@
       "link": "https://www.shoppersstop.com/Casio-Enticer-Blue-Dial-Analogue-Quartz-Stainless-Steel-Strap-Watch-For-Men---50-Meter-Water-Resistance-(MTP-1302PE-2AV)-A2394/p-WCAA2394_base_NoColour",
       "description": "Casio Enticer | Blue dial | Analogue Quartz | Stainless steel strap | 50 meter water resistance | MTP-1302PE-2AV",
       "series": "ENTICER",
-      "addedAt": "2026-09-25"
+      "addedAt": "2026-09-25",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "fastrack-vyb-limitless-fv30012km02w",
@@ -1844,7 +2367,9 @@
       "link": "https://www.fastrack.in/product/fastrack-vyb-limitless-quartz-analog-blue-dial-watch-for-guys-with-silver-color-metal-strap-fv30012km02w.html",
       "description": "Fastrack VYB Limitless | Quartz Analog | Blue dial | Silver color metal strap",
       "series": "VYB LIMITLESS",
-      "addedAt": "2026-09-25"
+      "addedAt": "2026-09-25",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "olevs-analog-men",
@@ -1855,7 +2380,9 @@
       "link": "https://www.flipkart.com/olevs-analog-watch-men/p/itm4f315d37a2b4b",
       "description": "Olevs Analog Watch for Men | Flipkart",
       "series": "OLEVS",
-      "addedAt": "2026-09-25"
+      "addedAt": "2026-09-25",
+      "movement": "Unknown",
+      "watchType": []
     },
     {
       "id": "coromandel-kaappi-edition-no-date",
@@ -1867,7 +2394,9 @@
       "description": "Kaappi Edition South Indian coffee ritual watch | Japanese GM12 Quartz | 36mm Rose Gold finished 316L SS case | Textured coffee powder dial | Coffee bean hour markers with C3 lume | Spoon-shaped seconds hand | Curved sapphire crystal AR | Ghost date movement (no date window) | Custom engraved davara & tumbler caseback | Suede leather strap | 100m WR | Pre-order ships June 15-20",
       "series": "KAAPPI EDITION",
       "addedAt": "2026-09-25",
-      "notes": "PRE-ORDER"
+      "notes": "PRE-ORDER",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "timex-automatic-black-tweg",
@@ -1878,7 +2407,11 @@
       "link": "https://www.flipkart.com/timex-automatic-black-dial-analog-watch-men/p/itm7d7404e0e98e9",
       "description": "Timex Automatic | Black dial | Analog | Men's watch",
       "series": "AUTOMATIC",
-      "addedAt": "2026-09-26"
+      "addedAt": "2026-09-26",
+      "movement": "Automatic",
+      "watchType": [
+        "Gents"
+      ]
     },
     {
       "id": "timex-q-falcon-eye-tw2w33700uj",
@@ -1889,7 +2422,12 @@
       "link": "https://shop.timexindia.com/products/timex-q-timex-men-blue-round-dial-analog-watch-tw2w33700uj",
       "description": "Q Timex Falcon Eye Chronograph | 40mm Stainless Steel case & 3-link bracelet | C\u00f4tes de Gen\u00e8ve blue dial | Chronograph movement for elapsed time | Domed acrylic crystal | Dimensional applied indices | Date window | Period-correct vintage design",
       "series": "Q TIMEX",
-      "addedAt": "2026-09-28"
+      "addedAt": "2026-09-28",
+      "movement": "Unknown",
+      "watchType": [
+        "Chronograph",
+        "Heritage"
+      ]
     },
     {
       "id": "meridian-equinox-celeste-blue",
@@ -1900,7 +2438,9 @@
       "link": "https://meridianwatches.in/products/equinox-celeste-blue",
       "description": "Equinox collection | Automatic movement | Sunburst celest blue dial with luminous accents | Sapphire coated crystal | Italian suede strap with butterfly buckle | 5 Row Solid Link Jubilee Bracelet option | SKU: EQ/SIB",
       "series": "EQUINOX",
-      "addedAt": "2026-10-07"
+      "addedAt": "2026-10-07",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "klaauw-cvdK-grand-planetarium-eccentric-ckgp1104",
@@ -1911,7 +2451,9 @@
       "link": "https://www.klaauw.com/eng/cvdk-grand-planetarium-eccentric-manufacture-ckgp1104",
       "description": "CVDK Grand Planetarium Eccentric Manufacture | 50th Jubilee Edition (2024) | Only mechanical Planetarium watch showing all 8 planets orbiting the Sun in real time | Created by 3 generations: Christiaan van der Klaauw, Dani\u00ebl & Maria Reintjes, Pim Koeslag | Based on 1995 CVDK Kepler's Planetarium Clock | Aventurine Glass signature dial | Unique 'Klaauw'-shaped lugs | Haute Horlogerie | World-renowned Dutch astronomical watchmaker | Limited/Unique piece",
       "series": "GRAND PLANETARIUM ECCENTRIC",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Mechanical",
+      "watchType": []
     },
     {
       "id": "swatch-blurang-yis430",
@@ -1922,7 +2464,9 @@
       "link": "https://luxury.tatacliq.com/p-mp000000026711046",
       "description": "Swatch Blurang Automatic | YIS430 | Unisex | 42mm | Tata CLiQ Luxury",
       "series": "BLURANG",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "fateh-phulkari",
@@ -1934,7 +2478,9 @@
       "description": "Pride of Punjab Phulkari | Limited 500 pieces, no restocks | Inspired by Punjab Phulkari folk embroidery | Raised relief Phulkari pattern dial in madder burgundy | Gurmukhi numerals with Swiss luminescence | 40mm 316L stainless steel | Swiss Made Ronda 515 movement | Sapphire crystal | Oil-stamped sword & wheat caseback | Integrated steel bracelet with screw-set links | 5 ATM | Ships by Lohri 2027",
       "series": "PHULKARI",
       "addedAt": "2026-10-12",
-      "notes": "PRE-ORDER ($325 USD, ships Jan 13 2027)"
+      "notes": "PRE-ORDER ($325 USD, ships Jan 13 2027)",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "hmt-vintage-pilot-417048-b1515",
@@ -1945,7 +2491,13 @@
       "link": "https://jordanwatches.com/product/vintage-hmt-pilot-hand-winding-mechanical-wrist-watch-17-jewels-35-mm-case-dia-white-color-dial-sun-burst-model-417048-b1515/",
       "description": "Vintage HMT Pilot | Hand winding mechanical | 17 Jewels | 35mm case | White sunburst dial | 18mm lug width | Leather strap (black/brown) | Vintage refurbished | Original movement, re-painted dial, new strap/glass | Serviced before shipping | +/- 2-4 min/day accuracy | Non-branded box | Made in India",
       "series": "PILOT",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Mechanical",
+      "watchType": [
+        "Pilot",
+        "Heritage",
+        "Minimalist"
+      ]
     },
     {
       "id": "vintage-roamer-red-face-d61",
@@ -1956,7 +2508,11 @@
       "link": "https://vintagewatcholic.in/products/vintage-roamer-red-face-silver-case-mechanical-hand-winding-17-jewels-brown-leather-strap-mens-wrist-watch-d61",
       "description": "Vintage Roamer | Red face dial | Silver case | Mechanical hand winding | 17 jewels | Brown leather strap | Vintage refurbished by Vintage Watcholic (Delhi, since 2014) | 3 months warranty",
       "series": "VINTAGE",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Mechanical",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "vintage-roamer-blue-face-d56",
@@ -1967,7 +2523,11 @@
       "link": "https://vintagewatcholic.in/products/vintage-roamer-blue-face-silver-case-mechanical-hand-winding-17-jewels-black-leather-strap-mens-wrist-watch-d56",
       "description": "Vintage Roamer | Blue face dial | Silver case | Mechanical hand winding | 17 jewels | Black leather strap | Vintage refurbished by Vintage Watcholic (Delhi, since 2014) | 3 months warranty",
       "series": "VINTAGE",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Mechanical",
+      "watchType": [
+        "Heritage"
+      ]
     },
     {
       "id": "vintage-le-montres-quartz-lm05",
@@ -1978,7 +2538,12 @@
       "link": "https://vintagewatcholic.in/products/vintage-mod-le-montres-quartz-maroon-face-with-red-croco-band-26mm-gold-case-mens-wrist-watch-lm05",
       "description": "Vintage Le Montres | Quartz | Maroon face | 26mm gold case | Red croco leather band | Men's wrist watch | Vintage refurbished",
       "series": "VINTAGE",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Quartz",
+      "watchType": [
+        "Heritage",
+        "Gents"
+      ]
     },
     {
       "id": "vintage-le-montres-manual-lm20",
@@ -1989,7 +2554,13 @@
       "link": "https://vintagewatcholic.in/products/vintage-le-montres-manual-winding-mens-watch-orange-dial-with-brown-strap-35mm-silver-case-lm20",
       "description": "Vintage Le Montres | Manual winding | Orange dial | 35mm silver case | Brown leather strap | Men's watch",
       "series": "VINTAGE",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Mechanical",
+      "watchType": [
+        "Heritage",
+        "Minimalist",
+        "Gents"
+      ]
     },
     {
       "id": "allwyn-y381-8030-1983",
@@ -2000,7 +2571,11 @@
       "link": "https://www.therevolverclub.com/products/allwyn-ref-y381-8030-36mm-automatic",
       "description": "Allwyn Y381-8030 | Circa 1983 | 36mm tonneau stainless steel case | Caliber 6319 automatic (21 jewels) | Original black dial with applied baton markers | Original crown | Integrated bracelet with double lock clasp | Screw-down caseback | Mineral glass | Dress/Formal/Office | Good condition | From The Revolver Club",
       "series": "Y381-8030",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Automatic",
+      "watchType": [
+        "Dress"
+      ]
     },
     {
       "id": "alexander-ferros-5052s",
@@ -2011,7 +2586,11 @@
       "link": "https://alexanderferros.com/en/products/mens-watches/alexander-ferros-5052s",
       "description": "Alexander Ferros 5052S | Versatile sports watch aesthetic | 38mm stainless steel case | Transparent anti-reflective sapphire crystal | Mechanical movement | Integrated bracelet | Scratch resistant | Ideal for small to medium wrists",
       "series": "5052",
-      "addedAt": "2026-10-12"
+      "addedAt": "2026-10-12",
+      "movement": "Mechanical",
+      "watchType": [
+        "Sports"
+      ]
     },
     {
       "id": "antriac-crown-day-date-cigar-brown",
@@ -2022,7 +2601,12 @@
       "link": "https://www.antriacluxury.com/product-page-1/crown-day-date-cigar-brown-1",
       "description": "Crown Day-Date | Cigar Brown sunburst dial | Silver polished case | 42mm | 30M water resistant | Japanese high precision quartz | Day-date functionality | 2 year warranty | Domed glass | Out of stock",
       "series": "CROWN",
-      "addedAt": "2026-10-13"
+      "addedAt": "2026-10-13",
+      "movement": "Quartz",
+      "watchType": [
+        "Dress",
+        "Cigar"
+      ]
     },
     {
       "id": "galaxy-majestic-brown-roman",
@@ -2033,7 +2617,9 @@
       "link": "https://galaxywatches.in/men/majestic/classic-mens-analog-watch-round-design-with-a-rich-brown-dial",
       "description": "Galaxy Majestic Classic | Rich brown dial with Roman numerals and minute markers | 39mm round design | Silver-tone stainless steel case and bracelet | Folding clasp | 3D crystal | Quartz mechanism",
       "series": "MAJESTIC",
-      "addedAt": "2026-10-14"
+      "addedAt": "2026-10-14",
+      "movement": "Quartz",
+      "watchType": []
     },
     {
       "id": "diollo-lunar-20-emerald-green",
@@ -2044,7 +2630,9 @@
       "link": "https://diollo.in/products/diollo-lunar-2-0-emerald-green-elegant-dual-tone",
       "description": "Lunar 2.0 | Stardust texture dial (emerald green) | Japanese Miyota 8215 automatic (21 jewels, 21,600 vph) | Sapphire crystal with date window | Lunar embossed caseback | 1 year warranty (lifetime option) | Dual tone",
       "series": "LUNAR 2.0",
-      "addedAt": "2026-10-14"
+      "addedAt": "2026-10-14",
+      "movement": "Automatic",
+      "watchType": []
     },
     {
       "id": "majestic-craftsmen-eye-of-the-tiger",
@@ -2055,7 +2643,12 @@
       "link": "https://majesticcraftsmen.com/product/eye-of-the-tiger/",
       "description": "Eye of the Tiger Special Edition | Inspired by Bengal tiger | First ever 3-layered Degrade dial (tiger eye gradient blue to orange-yellow) | Seiko NH35A automatic (24 jewels, 41hr power reserve, -20/+40 sec/day) | 38mm sandblasted SS case with tiger stripe partitions | Vintage Louis XV-inspired hands | Toughened mineral glass | 5 ATM | Tiger conservation edition | Supports Save Tiger Campaign | OUT OF STOCK",
       "series": "SPECIAL EDITION",
-      "addedAt": "2026-10-14"
+      "addedAt": "2026-10-14",
+      "movement": "Automatic",
+      "watchType": [
+        "Heritage",
+        "Limited Edition"
+      ]
     },
     {
       "id": "deccan-tiger-ferrum-glk001tfe",
@@ -2066,7 +2659,11 @@
       "link": "https://www.deccanwatches.com/watches/p/c52ce45d0e656845dec054860a87e831",
       "description": "Tiger Ferrum | Golkonda collection | Natural stone dial (Tiger Iron: tiger's eye, jasper, hematite) \u2014 each dial unique | Miyota GL24 movement | 35.5mm 304L stainless steel | Mineral crystal | Genuine leather strap | 30m WR | Price TBA | OUT OF STOCK",
       "series": "GOLKONDA",
-      "addedAt": "2026-10-14"
+      "addedAt": "2026-10-14",
+      "movement": "Unknown",
+      "watchType": [
+        "Minimalist"
+      ]
     },
     {
       "id": "crolot-canvas",
@@ -2077,7 +2674,11 @@
       "link": "https://crolot.com/products/canvas",
       "description": "Canvas | Mandala-inspired design | 3D Architectural dial with remarkable depth | Miyota OS21 Japanese chronograph OS21 movement | Chronograph, 24-hour display, date | Scratch-resistant sapphire crystal | Diamond-cut hands | 40\u00d749mm 316L stainless steel integrated case | Solid 316L SS bracelet with double-push butterfly clasp | 5 ATM",
       "series": "CANVAS",
-      "addedAt": "2026-10-14"
+      "addedAt": "2026-10-14",
+      "movement": "Quartz",
+      "watchType": [
+        "Chronograph"
+      ]
     },
     {
       "id": "mnmlst-viraasat-hyderabad",
@@ -2088,7 +2689,9 @@
       "link": "https://www.mnmlst.in/products/viraasat-hyderabad-edition",
       "description": "Viraasat Hyderabad Edition | Only 150 units | Inspired by Hyderabad jaali architecture | Textured jaali-inspired dial | 3D metallic architectural emblem at 12 | Miyota 2035 Quartz | 42mm stainless steel cut-edge bracelet | 3 ATM | 2 year warranty",
       "series": "VIRAASAT",
-      "addedAt": "2026-10-14"
+      "addedAt": "2026-10-14",
+      "movement": "Quartz",
+      "watchType": []
     }
   ],
   "lastUpdated": "2026-10-14T20:25:00.000Z"
