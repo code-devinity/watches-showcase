@@ -3221,7 +3221,24 @@
         "Dress"
       ],
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "seven-isles-md-1",
+      "name": "SEVEN ISLES MD-1",
+      "brand": "SEVEN ISLES",
+      "price": 24999,
+      "image": "https://sevenisles.co.in/cdn/shop/files/Front.png?v=1791199196&width=2560",
+      "link": "https://sevenisles.co.in/products/md-1",
+      "description": "Seven Isles MD-1 | Inspired by rhythmic waves of Marine Drive Mumbai | Uncompromising mechanical craftsmanship | Heritage dive style | Soul of a historic metropolis | Indian microbrand | Seven islands one enduring legacy",
+      "series": "MD-1",
+      "movement": "Mechanical",
+      "dialSize": null,
+      "watchType": [
+        "Heritage",
+        "Dive"
+      ],
+      "addedAt": "2026-10-22"
     }
   ],
-  "lastUpdated": "2026-10-22T09:00:00.000Z"
+  "lastUpdated": "2026-10-22T06:30:00.000Z"
 }
