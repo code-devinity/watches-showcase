@@ -3204,7 +3204,24 @@
         "Dress"
       ],
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "timestar-7-nos-1272-32mm",
+      "name": "TIMESTAR 7 NOS 1272 32MM",
+      "brand": "TIMESTAR",
+      "price": 3983,
+      "image": "https://www.therevolverclub.com/cdn/shop/files/timestar-3.jpg?v=1779683750&width=700",
+      "link": "https://www.therevolverclub.com/products/timestar-7-ref-1272-32mm-manual",
+      "description": "Timestar 7 NOS | Ref. 1272 | Vintage 32mm | Manual winding movement | NOS (New Old Stock) | From The Revolver Club",
+      "series": "NOS",
+      "movement": "Mechanical",
+      "dialSize": 32,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "addedAt": "2026-10-22"
     }
   ],
-  "lastUpdated": "2026-10-22T08:30:00.000Z"
+  "lastUpdated": "2026-10-22T09:00:00.000Z"
 }
