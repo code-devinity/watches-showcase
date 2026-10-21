@@ -3137,7 +3137,24 @@
         "Dress"
       ],
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "carlington-meridian-ct4050-brown",
+      "name": "CARLINGTON MERIDIAN CT_4050 BROWN",
+      "brand": "CARLINGTON",
+      "price": 949,
+      "image": "https://www.carlington.in/cdn/shop/files/1_361f4721-1058-48d4-aac8-b05425f89b8a.jpg?v=1770710954&width=800",
+      "link": "https://www.carlington.in/products/carlington-meridian-series-analog-men-wrist-watches-with-premium-leather-belt-strap-premium-fashion-watches-for-gents-ct-4043",
+      "description": "Meridian Series Men Analog | Brown dial | Premium leather belt strap | Quartz analog movement | Lightweight and comfortable | Premium leather for luxurious appearance | Casual & formal wear | Date display | 1 Year Manufacturer Warranty",
+      "series": "MERIDIAN",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-10-21"
     }
   ],
-  "lastUpdated": "2026-10-21T15:45:00.000Z"
+  "lastUpdated": "2026-10-21T16:00:00.000Z"
 }
