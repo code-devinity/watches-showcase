@@ -3120,7 +3120,24 @@
         "Heritage"
       ],
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "carlington-nitro-ct9254",
+      "name": "CARLINGTON NITRO CT_9254 GREEN",
+      "brand": "CARLINGTON",
+      "price": 2499,
+      "image": "https://www.carlington.in/cdn/shop/files/1_d1263562-1b6d-4947-b952-5e7237e1285e.jpg?v=1779526714&width=800",
+      "link": "https://www.carlington.in/products/carlington-nitro-analog-men-s-stainless-steel-strap-wrist-watch-quartz-movement-water-shock-resistant-watch-for-men-casual-formal-wear-ct_9254-2",
+      "description": "Nitro Series Men Analog | Green dial | Stainless steel strap | Quartz movement | Water & shock resistant | Casual & formal wear | Date display | Designed for men who value elegance and functionality | Premium stainless steel strap",
+      "series": "NITRO",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Casual",
+        "Dress"
+      ],
+      "addedAt": "2026-10-21"
     }
   ],
-  "lastUpdated": "2026-10-21T13:45:00.000Z"
+  "lastUpdated": "2026-10-21T15:45:00.000Z"
 }
