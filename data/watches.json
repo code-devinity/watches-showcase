@@ -3187,7 +3187,24 @@
         "Dress"
       ],
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "jayco-nos-white-dial-36mm",
+      "name": "JAYCO NOS WHITE DIAL 36MM",
+      "brand": "JAYCO",
+      "price": 3559,
+      "image": "https://www.therevolverclub.com/cdn/shop/files/02042026-watch-photos-108_9fb84e04-5e75-4e1f-b5d9-3b9eab65fff9.jpg?v=1775120736&width=700",
+      "link": "https://www.therevolverclub.com/products/jayco-nos-white-dial-ref-unknown-36mm-manual",
+      "description": "Jayco NOS | Unknown Ref | Vintage white dial | 36mm | Manual winding movement | NOS (New Old Stock) | Indian vintage watch | From The Revolver Club",
+      "series": "NOS",
+      "movement": "Mechanical",
+      "dialSize": 36,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "addedAt": "2026-10-22"
     }
   ],
-  "lastUpdated": "2026-10-22T08:00:00.000Z"
+  "lastUpdated": "2026-10-22T08:30:00.000Z"
 }
