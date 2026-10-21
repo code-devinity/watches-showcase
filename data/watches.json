@@ -3104,7 +3104,23 @@
         "Dress"
       ],
       "addedAt": "2026-10-15"
+    },
+    {
+      "id": "heritage-hours-mh15-blue",
+      "name": "H'OURS MH15 2.0 BLUE",
+      "brand": "HERITAGE HOURS",
+      "price": 4299,
+      "image": "https://heritagehours.com/cdn/shop/files/1.jpg?v=1792245281&width=990",
+      "link": "https://heritagehours.com/products/hours-mh15-mens-watch-blue",
+      "description": "MH15 2.0 Blue | Inspired by cultural identity of Nashik | Heritage-inspired design | Dual tone strap | Distinctive blue dial | Contemporary with character | Men's watch | Quartz",
+      "series": "MH15 2.0",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Heritage"
+      ],
+      "addedAt": "2026-10-21"
     }
   ],
-  "lastUpdated": "2026-10-15T20:10:00.000Z"
+  "lastUpdated": "2026-10-21T13:45:00.000Z"
 }
