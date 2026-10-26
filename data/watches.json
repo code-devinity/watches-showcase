@@ -3255,7 +3255,25 @@
         "Heritage"
       ],
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "91watch-echo-titanium",
+      "name": "91.WATCH ECHO TITANIUM",
+      "brand": "91.WATCH",
+      "price": 5991,
+      "image": "https://91.watch/cdn/shop/files/Frontview.png?v=1792737336&width=1100",
+      "link": "https://91.watch/products/echo-titanium-batch2-copy",
+      "description": "ECHO by 91.Watch | 40mm Grade 2 Titanium case with meteorite-like texture | Radar-inspired dial with luminous details | Miyota 2034 | Mineral glass | 3 ATM | Canvas strap with leather lining | 44mm L2L, 10.5mm thick, 20mm lug width | Limited timepiece, one order per person",
+      "series": "ECHO",
+      "movement": "Quartz",
+      "dialSize": 40,
+      "watchType": [
+        "Field",
+        "Limited Edition"
+      ],
+      "limited": true,
+      "addedAt": "2026-10-26"
     }
   ],
-  "lastUpdated": "2026-10-22T07:00:00.000Z"
+  "lastUpdated": "2026-10-26T21:30:00.000Z"
 }
