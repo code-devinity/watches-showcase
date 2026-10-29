@@ -3273,7 +3273,24 @@
       ],
       "limited": true,
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "medallion-tarang-ratnakr-ocean-blue",
+      "name": "MEDALLION TARANG SAHYADRI RATNAKR OCEAN BLUE",
+      "brand": "MEDALLION",
+      "price": 14950,
+      "image": "https://cdn.shopify.com/s/files/1/0579/5758/0900/files/19_3.png?v=1790755593",
+      "link": "https://dream-watches.com/products/medallion-36mm-quartz-blue",
+      "description": "MEDALLION Tarang | Sahyadri - Ratnakar - Ocean Blue | 36mm 316L SS polished mirror finish | 12mm thick | Mineral crystal bubble convex glass | Screw-in crown, screw-down caseback | Signature wave pattern dial with applied markers | Dauphine-style mirror polished hands | Japanese Seiko VH31 quartz | 100m water resistant | 316L SS bracelet with solid steel plate buckle | ~110g | SKU MD-7",
+      "series": "TARANG",
+      "movement": "Quartz",
+      "dialSize": 36,
+      "watchType": [
+        "Dress",
+        "Heritage"
+      ],
+      "addedAt": "2026-10-30"
     }
   ],
-  "lastUpdated": "2026-10-26T21:30:00.000Z"
+  "lastUpdated": "2026-10-30T00:00:00.000Z"
 }
