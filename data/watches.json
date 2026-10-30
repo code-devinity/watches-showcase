@@ -3443,7 +3443,92 @@
         "Casual"
       ],
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "sonata-festive-77198sm01-green",
+      "name": "SONATA FESTIVE 77198SM01 GREEN",
+      "brand": "SONATA",
+      "price": null,
+      "image": null,
+      "link": "https://www.sonatawatches.in/product/sonata-festive-quartz-analog-with-date-green-dial-metal-strap-watch-for-men-77198sm01.html",
+      "description": "Sonata Festive | Quartz Analog with date | Green dial | Metal strap",
+      "series": "FESTIVE",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "sonata-poze-sp70055sm01w-white",
+      "name": "SONATA POZE SP70055SM01W WHITE",
+      "brand": "SONATA",
+      "price": null,
+      "image": null,
+      "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-white-dial-metal-strap-watch-for-men-sp70055sm01.html",
+      "description": "Sonata Poze | Quartz Analog | White dial | Metal strap",
+      "series": "POZE",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "sonata-vector-77197sm03-pink",
+      "name": "SONATA VECTOR 77197SM03 PINK",
+      "brand": "SONATA",
+      "price": null,
+      "image": null,
+      "link": "https://www.sonatawatches.in/product/sonata-vector-quartz-analog-pink-dial-silver-stainless-steel-strap-watch-for-men-77197sm03.html",
+      "description": "Sonata Vector | Quartz Analog | Pink dial | Silver stainless steel strap",
+      "series": "VECTOR",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "sonata-aspire-77105sl26w-green",
+      "name": "SONATA ASPIRE 77105SL26W GREEN",
+      "brand": "SONATA",
+      "price": null,
+      "image": null,
+      "link": "https://www.sonatawatches.in/product/sonata-aspire-quartz-analog-green-dial-grey-leather-strap-watch-for-men-77105sl26w.html",
+      "description": "Sonata Aspire | Quartz Analog | Green dial | Grey leather strap",
+      "series": "ASPIRE",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "sonata-poze-sp70132sm01w-yellow",
+      "name": "SONATA POZE SP70132SM01W YELLOW",
+      "brand": "SONATA",
+      "price": null,
+      "image": null,
+      "link": "https://www.sonatawatches.in/product/poze-by-sonata-quartz-analog-yellow-dial-silver-metal-strap-watch-for-men-sp70132sm01w.html",
+      "description": "Sonata Poze | Quartz Analog | Yellow dial | Silver metal strap",
+      "series": "POZE",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-10-31"
     }
   ],
-  "lastUpdated": "2026-10-31T06:00:00.000Z"
+  "lastUpdated": "2026-10-31T06:30:00.000Z"
 }
