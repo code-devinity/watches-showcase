@@ -3290,7 +3290,24 @@
         "Heritage"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "bruno-milano-doppio-chrono-turchese",
+      "name": "BRUNO MILANO DOPPIO CHRONO TURCHESE",
+      "brand": "BRUNO MILANO",
+      "price": 3348,
+      "image": "https://cdn.shopify.com/s/files/1/0888/8929/5134/files/DoppioChrono-Turchese.jpg?v=1792555106",
+      "link": "https://www.brunomilano.com/products/doppio-chrono-turchese",
+      "description": "Doppio Chrono | Turchese (teal & silver) | Stainless steel | Chronograph movement with date function | 42mm diameter, 10mm thick, 135g | 3 ATM water resistant | 1 year global warranty | Free case-back engraving available | SOLD OUT",
+      "series": "DOPPIO CHRONO",
+      "movement": "Quartz",
+      "dialSize": 42,
+      "watchType": [
+        "Chronograph",
+        "Dress"
+      ],
+      "addedAt": "2026-10-30"
     }
   ],
-  "lastUpdated": "2026-10-30T00:00:00.000Z"
+  "lastUpdated": "2026-10-30T09:00:00.000Z"
 }
