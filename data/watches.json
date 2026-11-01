@@ -3528,7 +3528,27 @@
         "Casual"
       ],
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "ghosttown-old-west",
+      "name": "GHOST TOWN OLD WEST",
+      "brand": "GHOST TOWN WATCHES",
+      "price": 21000,
+      "image": "https://www.ghosttownwatches.com/watch-product.png",
+      "link": "https://www.ghosttownwatches.com/models/old-west",
+      "description": "Old West | Story-driven limited edition (500 pieces), individually numbered | A tale of love, death and reincarnation in the American frontier | Swiss Ronda 515.24D quartz | 37mm width x 39mm height | Single dome sapphire crystal | 22mm leather strap | 5 ATM | Unique NFT Certificate of Authenticity | Original industrial design from scratch, not OEM/ODM",
+      "series": "GHOSTTOWN COLLECTION",
+      "movement": "Quartz",
+      "dialSize": 37,
+      "watchType": [
+        "Dress",
+        "Heritage",
+        "Limited Edition"
+      ],
+      "limited": true,
+      "addedAt": "2026-11-01",
+      "notes": "Limited to 500 pieces ($250 USD)"
     }
   ],
-  "lastUpdated": "2026-10-31T06:30:00.000Z"
+  "lastUpdated": "2026-11-01T17:45:00.000Z"
 }
