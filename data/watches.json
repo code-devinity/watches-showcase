@@ -4150,7 +4150,27 @@
       "limited": true,
       "addedAt": "2026-11-03",
       "notes": "PRE-BOOKING (dispatches 75-90 days from order)"
+    },
+    {
+      "id": "allwyn-throb-white",
+      "name": "ALLWYN THROB WHITE 36MM",
+      "brand": "ALLWYN",
+      "price": 13750,
+      "image": "https://timeticks.in/wp-content/uploads/2025/05/IMG20250516130118.png",
+      "link": "https://timeticks.in/product/allwyn-throb/",
+      "description": "Vintage Allwyn Throb | Mechanical winding | Rare Skelton timepiece by Allwyn | Made in limited numbers, hard to find in almost NOS condition | 36mm case | Generic strap included | 5 in stock | From Time Ticks (vintage Indian watch specialists)",
+      "series": "THROB",
+      "movement": "Mechanical",
+      "dialSize": 36,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "microbrand": false,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
     }
   ],
-  "lastUpdated": "2026-11-03T02:00:00.000Z"
+  "lastUpdated": "2026-11-03T02:30:00.000Z"
 }
