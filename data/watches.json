@@ -4170,7 +4170,87 @@
       "upcoming": false,
       "limited": false,
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "hmt-vivek-vintage-grey",
+      "name": "VINTAGE HMT VIVEK GREY 38MM",
+      "brand": "HMT",
+      "price": 1950,
+      "image": "https://timeticks.in/wp-content/uploads/2026/08/IMG-20260831-WA0004-1.jpg",
+      "link": "https://timeticks.in/product/vintage-hmt-vivek-mechanical-winding/",
+      "description": "Vintage HMT Vivek | Mechanical hand winding | Grey dial | Working condition | 38mm including crown | Vintage Indian watch | From Time Ticks | OUT OF STOCK",
+      "series": "VIVEK",
+      "movement": "Mechanical",
+      "dialSize": 38,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "microbrand": false,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
+    },
+    {
+      "id": "hmt-himalaya-mod-silver-sunburst",
+      "name": "HMT HIMALAYA MOD SILVER SUNBURST",
+      "brand": "HMT",
+      "price": 2550,
+      "image": "https://timeticks.in/wp-content/uploads/2025/05/IMG20250515160545.png",
+      "link": "https://timeticks.in/product/hmt-himalaya-mod/",
+      "description": "HMT Himalaya Mod | Silver sunburst dial | Original HMT 17 jewel manual winding movement | Aftermarket case, dial and hands | Glass crystal (not acrylic) | Transparent case back | 34 in stock | From Time Ticks",
+      "series": "HIMALAYA",
+      "movement": "Mechanical",
+      "dialSize": null,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "microbrand": false,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
+    },
+    {
+      "id": "hmt-kohinoor-maroon-devanagari",
+      "name": "HMT KOHINOOR MAROON DEVANAGARI",
+      "brand": "HMT",
+      "price": 2650,
+      "image": "https://timeticks.in/wp-content/uploads/2026/04/IMG-20260404-WA0021-2.jpg",
+      "link": "https://timeticks.in/product/hmt-kohinoor-maroon-devanagari-luxury-modified-mechanical-watch/",
+      "description": "HMT Kohinoor Maroon Devanagari | Luxury modified mechanical | Original HMT 17 jewel manual winding movement | Maroon Devanagari aftermarket dial | Exhibition transparent case back | New aftermarket case & Jubilee bracelet | 36mm gentleman size | Fresh custom build, running well | From Time Ticks",
+      "series": "KOHINOOR",
+      "movement": "Mechanical",
+      "dialSize": 36,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "microbrand": false,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
+    },
+    {
+      "id": "hmt-kohinoor-mod-light-blue",
+      "name": "MODIFIED HMT KOHINOOR LIGHT BLUE 36MM",
+      "brand": "HMT",
+      "price": 2650,
+      "image": "https://timeticks.in/wp-content/uploads/2025/07/IMG-20250712-WA0007.jpg",
+      "link": "https://timeticks.in/product/modified-hmt-kohinoor-light-blue/",
+      "description": "Modified HMT Kohinoor Light Blue | Hand winding | HMT 17 jewel movement | New aftermarket dial, case and strap | Transparent case back | 36mm case | 39 in stock | From Time Ticks",
+      "series": "KOHINOOR",
+      "movement": "Mechanical",
+      "dialSize": 36,
+      "watchType": [
+        "Heritage",
+        "Dress"
+      ],
+      "microbrand": false,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
     }
   ],
-  "lastUpdated": "2026-11-03T02:30:00.000Z"
+  "lastUpdated": "2026-11-03T03:00:00.000Z"
 }
