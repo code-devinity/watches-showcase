@@ -4129,7 +4129,28 @@
       "upcoming": false,
       "limited": true,
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "91watch-echo-2",
+      "name": "91.WATCH ECHO 2 TITANIUM",
+      "brand": "91.WATCH",
+      "price": 5991,
+      "image": "https://91.watch/cdn/shop/files/ECHO_Blue_front_view.png?v=1793277904&width=1500",
+      "link": "https://91.watch/products/echo-2",
+      "description": "ECHO 2 by 91.Watch | 40mm Grade 2 Titanium case with meteorite-like texture | Radar-inspired dial with blue radar seconds disc | Blue Swiss Super-LumiNova markers | Miyota 2034 | Mineral glass | 3 ATM | Canvas strap with leather lining | 44mm L2L, 10.5mm thick, 20mm lug width | Limited timepiece, one order per person | Pre-booking, dispatches 75-90 days from order",
+      "series": "ECHO 2",
+      "movement": "Quartz",
+      "dialSize": 40,
+      "watchType": [
+        "Field",
+        "Limited Edition"
+      ],
+      "microbrand": true,
+      "upcoming": true,
+      "limited": true,
+      "addedAt": "2026-11-03",
+      "notes": "PRE-BOOKING (dispatches 75-90 days from order)"
     }
   ],
-  "lastUpdated": "2026-11-03T01:30:00.000Z"
+  "lastUpdated": "2026-11-03T02:00:00.000Z"
 }
