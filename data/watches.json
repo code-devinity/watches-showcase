@@ -4108,7 +4108,28 @@
       "upcoming": false,
       "limited": false,
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "czard-vidi-cz-",
+      "name": "CZARD VIDI (CZ-VIDI)",
+      "brand": "CZARD",
+      "price": 14999,
+      "image": "https://www.czard.com/cdn/shop/t/9/assets/swiss-1-hero.webp?v=61681620210294017911785918408",
+      "link": "https://www.czard.com/products/vidi",
+      "description": "CZARD Compass VIDI | Our Second Icon | Rose gold over lacquered Ivory dial | 38mm 316L rose gold-plated case, 11.5mm thick, 46mm L2L | High dome K9 mineral crystal with AR coating | Applied Breguet indices | TMI Seiko VK64 mecaquartz chronograph (32,768 Hz, 3yr battery) | 50M / 5 ATM | Tasti Tondi round fluted pushers reinterpreted in rose gold (Patek Philippe Ref. 1463 inspired) | Textured ivory quick-release strap with almond tip | Chapter system: 1000 individually numbered pieces | Crafted in Switzerland | Story: Julius Caesar's 'Veni Vidi Vici'",
+      "series": "COMPASS",
+      "movement": "MecaQuartz",
+      "dialSize": 38,
+      "watchType": [
+        "Chronograph",
+        "Dress",
+        "Limited Edition"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": true,
+      "addedAt": "2026-11-03"
     }
   ],
-  "lastUpdated": "2026-11-03T01:00:00.000Z"
+  "lastUpdated": "2026-11-03T01:30:00.000Z"
 }
