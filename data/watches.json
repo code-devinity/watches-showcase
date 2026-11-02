@@ -4048,7 +4048,67 @@
       "microbrand": true,
       "upcoming": false,
       "limited": false
+    },
+    {
+      "id": "fylex-origin-steel-sky-blue",
+      "name": "FYLEX ORIGIN STEEL SKY BLUE",
+      "brand": "FYLEX",
+      "price": 7799,
+      "image": "https://fylexwatches.com/api/uploads/1037fa936a82a1be2b10f9833593e63e5d.png",
+      "link": "https://fylexwatches.com/configured?watch=6&variant=16493&case=Steel&bracelet=Steel&dial=Sky+Blue",
+      "description": "Origin FY-OG-902 | Steel case & bracelet, Sky Blue dial | 44mm case, 51.7mm L2L, 11.8mm thick | Multifunction quartz movement | 3 ATM | Buckle | 12 month movement warranty | Made in India | Includes Fylex Premium Travel Case | Men's | Fully configurable - case, bracelet, dial",
+      "series": "ORIGIN",
+      "movement": "Quartz",
+      "dialSize": 44,
+      "watchType": [
+        "Casual",
+        "Dress"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
+    },
+    {
+      "id": "fylex-origin-blue-ion-dark-blue",
+      "name": "FYLEX ORIGIN BLUE ION DARK BLUE",
+      "brand": "FYLEX",
+      "price": 7799,
+      "image": "https://fylexwatches.com/api/uploads/328029731ede1da0181010103810496b9e86.png",
+      "link": "https://fylexwatches.com/configured?watch=6&variant=16509&case=Blue+Ion&bracelet=Blue+Ion&dial=Blue",
+      "description": "Origin FY-OG-902 | Blue Ion case & bracelet, Dark Blue dial | 44mm case, 51.7mm L2L, 11.8mm thick | Multifunction quartz movement | 3 ATM | Buckle | 12 month movement warranty | Made in India | Includes Fylex Premium Travel Case | Men's | Fully configurable - case, bracelet, dial",
+      "series": "ORIGIN",
+      "movement": "Quartz",
+      "dialSize": 44,
+      "watchType": [
+        "Casual",
+        "Dress"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
+    },
+    {
+      "id": "fylex-genesis-midnight-blue-grey",
+      "name": "FYLEX GENESIS MIDNIGHT BLUE GREY",
+      "brand": "FYLEX",
+      "price": 6999,
+      "image": "https://fylexwatches.com/api/uploads/817108d3ac2de25b7c383f5c5e921076f3.png",
+      "link": "https://fylexwatches.com/configured?watch=4&variant=16511&case=Midnight+Blue&dial=Grey&belt=Graphite&strap=Graphite",
+      "description": "Genesis FY-GS-664 | Midnight Blue case, Grey dial, Graphite strap | 43.5mm case, 49mm L2L, 12.2mm thick | Multifunction quartz movement | 3 ATM | Deployment lock, Suede Flex strap | 12 month movement warranty | Made in India | Includes Fylex Premium Travel Case | Men's | Fully configurable - case, dial, strap",
+      "series": "GENESIS",
+      "movement": "Quartz",
+      "dialSize": 43.5,
+      "watchType": [
+        "Casual",
+        "Dress"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-03"
     }
   ],
-  "lastUpdated": "2026-11-02T18:00:00.000Z"
+  "lastUpdated": "2026-11-03T01:00:00.000Z"
 }
