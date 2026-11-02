@@ -3548,7 +3548,24 @@
       "limited": true,
       "addedAt": "2026-11-01",
       "notes": "Limited to 500 pieces ($250 USD)"
+    },
+    {
+      "id": "antriac-mafia-signature-maroon",
+      "name": "ANTRIAC THE MAFIA SIGNATURE DEEP MAROON",
+      "brand": "ANTRIAC",
+      "price": 2499,
+      "image": "https://static.wixstatic.com/media/e2b68e_4b0fb5f4b87b4e4099fab3bf87b812c0~mv2.jpg",
+      "link": "https://www.antriacluxury.com/product-page-1/the-mafia-signature-watch-deep-maroon-signature-strap-magnetic-clasp",
+      "description": "The Mafia Signature Watch | Black case | Pitch black dial | High-quality deep maroon magnetic clasp strap | 42mm case, 22mm strap | Japanese high precision quartz | Day-date with BOSS signature arc | 2 year warranty on case, dial & movement | Top most quality steel",
+      "series": "MAFIA",
+      "movement": "Quartz",
+      "dialSize": 42,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "addedAt": "2026-11-02"
     }
   ],
-  "lastUpdated": "2026-11-01T17:45:00.000Z"
+  "lastUpdated": "2026-11-02T17:55:00.000Z"
 }
