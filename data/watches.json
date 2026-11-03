@@ -4250,7 +4250,27 @@
       "upcoming": false,
       "limited": false,
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "sonata-poze-sp70081sl01w-silver-blue-denim",
+      "name": "SONATA POZE SP70081SL01W SILVER BLUE DENIM",
+      "brand": "SONATA",
+      "price": null,
+      "image": "https://www.sonatawatches.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwfa40fcbd/images/Sonata/Catalog/SP70081SL01_2.jpg?sw=600&sh=600",
+      "link": "https://www.sonatawatches.in/product/sonata-poze-quartz-analog-silver-dial-blue-denim-leather-strap-watch-for-men-sp70081sl01w.html",
+      "description": "Sonata Poze | Quartz Analog | Silver dial | Blue denim leather strap | Men's watch",
+      "series": "POZE",
+      "movement": "Quartz",
+      "dialSize": null,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "microbrand": false,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-04"
     }
   ],
-  "lastUpdated": "2026-11-03T03:00:00.000Z"
+  "lastUpdated": "2026-11-04T06:00:00.000Z"
 }
