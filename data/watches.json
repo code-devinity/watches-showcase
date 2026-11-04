@@ -4270,7 +4270,67 @@
       "upcoming": false,
       "limited": false,
       "addedAt": "2026-11-04"
+    },
+    {
+      "id": "joventra-celestial-fluid-art-41mm-black",
+      "name": "JOVENTRA CELESTIAL ABSTRACT FLUID ART 41MM BLACK",
+      "brand": "JOVENTRA",
+      "price": 8699,
+      "image": "https://joventra.co/cdn/shop/files/718633085ead412cae11f44b40963507.jpg?v=1785310648&width=1600",
+      "link": "https://joventra.co/products/joventra-celestial-abstract-fluid-art-mesh-watch?variant=59910949797969",
+      "description": "Joventra Celestial Abstract Fluid Art | High-definition dial with swirls of deep ocean blue, fiery amber gold, turquoise and obsidian black | Rare Pietersite gemstone & liquid marble art look | 41mm ultra-thin lightweight body | 304 stainless steel mesh strap | Japanese CITIZEN quartz movement | 3ATM | Polished silver hands with 3D applied numerals | Individually made to order | Unisex | Also in 33mm/38mm and RoseGold",
+      "series": "CELESTIAL",
+      "movement": "Quartz",
+      "dialSize": 41,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "joventra-mariner-northtide-43mm-black",
+      "name": "JOVENTRA MARINER NORTHTIDE 43MM BLACK",
+      "brand": "JOVENTRA",
+      "price": 4599,
+      "image": "https://joventra.co/cdn/shop/files/d804fd3cd8a24924b6d79ce2c37531f4.jpg?v=1789295180&width=1600",
+      "link": "https://joventra.co/products/mariner-northtide-navigator-compass-tide-indicator-watch?variant=60580688887889",
+      "description": "Mariner Northtide Navigator Compass & Tide Indicator | Multi-tiered marine dial | 360 degree compass bearing bezel | High/Low tide level track (+5 to -5) | Rising/Falling tide indicators | North Tide compass rose core | Ocean wave guilloche center pattern | Electroplated 304 SS case | Alligator-embossed genuine leather strap | Japanese quartz movement | 43mm | 100% hypoallergenic & rust resistant | Also in 31mm and Golden/Silver",
+      "series": "MARINER",
+      "movement": "Quartz",
+      "dialSize": 43,
+      "watchType": [
+        "Dress",
+        "Field"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "joventra-dark-knight-bat-hero-41mm",
+      "name": "JOVENTRA DARK KNIGHT BAT HERO 41MM",
+      "brand": "JOVENTRA",
+      "price": 6699,
+      "image": "https://joventra.co/cdn/shop/files/Black_Batman_Watch.jpg?v=1785130192&width=1600",
+      "link": "https://joventra.co/products/dark-knight-bat-hero-custom-quartz-watch-joventra?variant=59867649212497",
+      "description": "Joventra Dark Knight Bat Hero Custom | Vibrant red crystalline bat emblem over a full moon backdrop | Bold gothic numerals | Ultra-thin stainless steel bezel | High-density 304 SS case with flexible mesh band | Electroplated for high gloss, scratch resistance and hypoallergenic comfort | Japanese CITIZEN quartz movement | 3ATM | Handcrafted and made to order | Unisex | Also in 33mm/38mm and RoseGold",
+      "series": "DARK KNIGHT",
+      "movement": "Quartz",
+      "dialSize": 41,
+      "watchType": [
+        "Dress",
+        "Casual"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-05"
     }
   ],
-  "lastUpdated": "2026-11-04T06:00:00.000Z"
+  "lastUpdated": "2026-11-05T06:00:00.000Z"
 }
