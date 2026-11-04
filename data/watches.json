@@ -4330,7 +4330,27 @@
       "upcoming": false,
       "limited": false,
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "twelveam-iconic-warm-chocolate",
+      "name": "TWELVEAM ICONIC WARM CHOCOLATE",
+      "brand": "TWELVEAM",
+      "price": 3499,
+      "image": "https://cdn.shopify.com/s/files/1/0656/5163/8470/files/ChatGPT_Image_Jun_5_2026_02_09_10_PM.png?v=1781252125",
+      "link": "https://twelveam.in/products/iconic-warm-chocolate",
+      "description": "ICONIC - Ultrathin | 32mm x 6mm ultra-thin case | 316L stainless steel case & caseback | Warm chocolate dial | Italian genuine leather strap, 20mm x 18mm | Stainless steel hands & indexes | Japanese quartz movement | Red ruby zirconia crown | 50m water resistant | 44g | Buckle clasp | 2 year warranty | Assembled in India",
+      "series": "ICONIC",
+      "movement": "Quartz",
+      "dialSize": 32,
+      "watchType": [
+        "Dress",
+        "Minimalist"
+      ],
+      "microbrand": true,
+      "upcoming": false,
+      "limited": false,
+      "addedAt": "2026-11-05"
     }
   ],
-  "lastUpdated": "2026-11-05T06:00:00.000Z"
+  "lastUpdated": "2026-11-05T06:30:00.000Z"
 }
