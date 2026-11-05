@@ -4350,7 +4350,27 @@
       "upcoming": false,
       "limited": false,
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "91watch-mumbai-meri-jaan",
+      "name": "91.WATCH MUMBAI MERI JAAN",
+      "brand": "91.WATCH",
+      "price": 5991,
+      "image": "https://91.watch/cdn/shop/files/1_30a01339-0b0c-490f-82a2-57c720d20cbf.png?v=1793860309&width=1500",
+      "link": "https://91.watch/products/mumbai-meri-jaan",
+      "description": "Mumbai Meri Jaan - Full paisa vasool TIMEPASS. First variant from the TIMEPASS collection. Local Mumbai kaali-peeli themed dial with vada pav, chai and Marine Drive references. 38mm stainless steel case, 8.6mm thick, 43.3mm lug-to-lug, 20mm lug width. Miyota 2034 automatic movement, mineral crystal, 3 ATM water resistance, leather strap. Limited to one order per person. Dispatched within 6-7 working days, free shipping across India.",
+      "series": "TIMEPASS",
+      "movement": "Automatic",
+      "dialSize": 38,
+      "watchType": [
+        "Casual",
+        "Limited Edition"
+      ],
+      "microbrand": true,
+      "upcoming": true,
+      "limited": true,
+      "addedAt": "2026-11-05"
     }
   ],
-  "lastUpdated": "2026-11-05T06:30:00.000Z"
+  "lastUpdated": "2026-11-05T07:00:00.000Z"
 }
